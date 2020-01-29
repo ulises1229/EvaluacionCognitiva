@@ -1,0 +1,333 @@
+"","word","secundaria","author","proportion"
+"1","abuela",0.00849256900212314,"primaria",0.0117096018735363
+"2","abuelita",NA,"primaria",0.00234192037470726
+"3","agua",NA,"primaria",0.00234192037470726
+"4","aire",NA,"primaria",0.00234192037470726
+"5","alcancia",NA,"primaria",0.00234192037470726
+"6","alegria",0.00212314225053079,"primaria",NA
+"7","aluminio",0.00636942675159236,"primaria",NA
+"8","amiga",0.00212314225053079,"primaria",0.00234192037470726
+"9","amigo",0.00424628450106157,"primaria",0.0117096018735363
+"10","amor",0.00212314225053079,"primaria",0.00234192037470726
+"11","angel",0.00212314225053079,"primaria",NA
+"12","anillo",0.00212314225053079,"primaria",0.00234192037470726
+"13","anochecer",NA,"primaria",0.00234192037470726
+"14","arbol",NA,"primaria",0.00234192037470726
+"15","arete",0.00212314225053079,"primaria",0.00468384074941452
+"16","aretes",NA,"primaria",0.00234192037470726
+"17","armadura",0.00212314225053079,"primaria",NA
+"18","balon",0.0106157112526539,"primaria",0.00234192037470726
+"19","bandeja",NA,"primaria",0.00234192037470726
+"20","baston",NA,"primaria",0.00234192037470726
+"21","bola de boliche",0.00212314225053079,"primaria",NA
+"22","bolitas de himan",0.00212314225053079,"primaria",NA
+"23","bondad",NA,"primaria",0.00234192037470726
+"24","boton",NA,"primaria",0.00234192037470726
+"25","brillante",0.00212314225053079,"primaria",0.00234192037470726
+"26","cabeza",0.00212314225053079,"primaria",NA
+"27","cadena",NA,"primaria",0.00234192037470726
+"28","caliente",NA,"primaria",0.00468384074941452
+"29","canica",0.00212314225053079,"primaria",0.00234192037470726
+"30","canto",NA,"primaria",0.00234192037470726
+"31","cara",NA,"primaria",0.00234192037470726
+"32","carro",NA,"primaria",0.00234192037470726
+"33","cartera",NA,"primaria",0.00468384074941452
+"34","casi",0.00212314225053079,"primaria",NA
+"35","celular",0.00212314225053079,"primaria",NA
+"36","cerebro",0.00212314225053079,"primaria",NA
+"37","collar",0.00212314225053079,"primaria",0.00234192037470726
+"38","como",0.00212314225053079,"primaria",0.00468384074941452
+"39","corazon",0.00212314225053079,"primaria",0.00234192037470726
+"40","crg31",0.00212314225053079,"primaria",NA
+"41","cual",NA,"primaria",0.00234192037470726
+"42","cualquiera",NA,"primaria",0.00234192037470726
+"43","cuando estan feliz",NA,"primaria",0.00234192037470726
+"44","dadega",NA,"primaria",0.00234192037470726
+"45","de fuego",NA,"primaria",0.00234192037470726
+"46","de plata",0.00212314225053079,"primaria",NA
+"47","dije",NA,"primaria",0.00234192037470726
+"48","dinero",0.00849256900212314,"primaria",0.00702576112412178
+"49","dolor",NA,"primaria",0.00234192037470726
+"50","don",0.00212314225053079,"primaria",NA
+"51","dorado",0.00212314225053079,"primaria",0.00234192037470726
+"52","(dormido)",NA,"primaria",0.00234192037470726
+"53","el",0.0339702760084926,"primaria",0.0351288056206089
+"54","el abuelo",0.00212314225053079,"primaria",NA
+"55","el agua",0.00212314225053079,"primaria",0.00234192037470726
+"56","el aire",0.00212314225053079,"primaria",NA
+"57","el alma",0.00212314225053079,"primaria",NA
+"58","el aluminio",0.00212314225053079,"primaria",NA
+"59","el amigo",NA,"primaria",0.00234192037470726
+"60","el anillo",0.00424628450106157,"primaria",0.00702576112412178
+"61","el arete",NA,"primaria",0.00234192037470726
+"62","el aro",0.00212314225053079,"primaria",NA
+"63","el balon",0.0148619957537155,"primaria",0.00234192037470726
+"64","el banco",0.00212314225053079,"primaria",NA
+"65","el bosque",NA,"primaria",0.00234192037470726
+"66","el canario",0.00212314225053079,"primaria",NA
+"67","el circulo",0.00212314225053079,"primaria",NA
+"68","el dinero",0.00636942675159236,"primaria",0.00234192037470726
+"69","el es",0.00212314225053079,"primaria",NA
+"70","el es como una",NA,"primaria",0.00234192037470726
+"71","el es ua pelota de plata",0.00212314225053079,"primaria",NA
+"72","el fierro",NA,"primaria",0.00234192037470726
+"73","el frio",0.00424628450106157,"primaria",NA
+"74","el gato",0.00212314225053079,"primaria",NA
+"75","el hierro",NA,"primaria",0.00234192037470726
+"76","eliod",NA,"primaria",0.00234192037470726
+"77","el jardinero",0.00212314225053079,"primaria",NA
+"78","el juego",0.00424628450106157,"primaria",NA
+"79","ella",0.0127388535031847,"primaria",0.00936768149882904
+"80","el metal",NA,"primaria",0.00234192037470726
+"81","el mundo",0.00636942675159236,"primaria",0.00234192037470726
+"82","el ninja gris",0.00212314225053079,"primaria",NA
+"83","el nino",0.00636942675159236,"primaria",NA
+"84","el oro",NA,"primaria",0.00234192037470726
+"85","el pajaro",0.00212314225053079,"primaria",NA
+"86","el pelotas",0.00212314225053079,"primaria",NA
+"87","el pez",NA,"primaria",0.00234192037470726
+"88","el planeta",0.00212314225053079,"primaria",NA
+"89","el plateado",NA,"primaria",0.00234192037470726
+"90","el poeta",0.00212314225053079,"primaria",NA
+"91","elsol",0.00212314225053079,"primaria",NA
+"92","el sol",0.00424628450106157,"primaria",NA
+"93","el televisor",NA,"primaria",0.00234192037470726
+"94","el trofeo",0.00212314225053079,"primaria",NA
+"95","en un anillo",NA,"primaria",0.00234192037470726
+"96","esa",NA,"primaria",0.00234192037470726
+"97","es algo platiado",0.00212314225053079,"primaria",NA
+"98","escultura de plata",0.00212314225053079,"primaria",NA
+"99","ese",NA,"primaria",0.00234192037470726
+"100","esfeda",0.00212314225053079,"primaria",NA
+"101","esfera",NA,"primaria",0.00234192037470726
+"102","es muy fuerte",0.00212314225053079,"primaria",NA
+"103","eso",0.00212314225053079,"primaria",0.00468384074941452
+"104","esperanza",0.00212314225053079,"primaria",NA
+"105","esta",0.00212314225053079,"primaria",0.00468384074941452
+"106","es una",NA,"primaria",0.00234192037470726
+"107","familia",0.00212314225053079,"primaria",0.00702576112412178
+"108","friends",0.00212314225053079,"primaria",NA
+"109","fuerte",NA,"primaria",0.00234192037470726
+"110","gato",0.00212314225053079,"primaria",NA
+"111","globo",NA,"primaria",0.00234192037470726
+"112","gran jaguar",NA,"primaria",0.00234192037470726
+"113","hermana",0.0106157112526539,"primaria",0.00702576112412178
+"114","hermana ",NA,"primaria",0.00234192037470726
+"115","hermanito",NA,"primaria",0.00468384074941452
+"116","hermano",0.00212314225053079,"primaria",0.00702576112412178
+"117","hierro",0.00212314225053079,"primaria",0.00702576112412178
+"118","iman",0.00212314225053079,"primaria",0.00234192037470726
+"119","invalida x sistema",0.00212314225053079,"primaria",NA
+"120","jarra",0.00212314225053079,"primaria",NA
+"121","jazmin",NA,"primaria",0.00234192037470726
+"122","joyas",0.00212314225053079,"primaria",NA
+"123","juan",NA,"primaria",0.00234192037470726
+"124","??l",NA,"primaria",0.00234192037470726
+"125","la",NA,"primaria",0.00234192037470726
+"126","la abuela",0.00212314225053079,"primaria",NA
+"127","la bala",0.00424628450106157,"primaria",0.00234192037470726
+"128","la bola",0.00636942675159236,"primaria",0.00234192037470726
+"129","la bola de cristal",0.00212314225053079,"primaria",NA
+"130","la bolita de aluminio",0.00212314225053079,"primaria",NA
+"131","la bomba",0.00212314225053079,"primaria",NA
+"132","la brillantina",NA,"primaria",0.00234192037470726
+"133","la calceta",NA,"primaria",0.00234192037470726
+"134","la canica",0.00636942675159236,"primaria",NA
+"135","la casa",0.00212314225053079,"primaria",NA
+"136","la comida",0.00212314225053079,"primaria",NA
+"137","la copa",0.00212314225053079,"primaria",NA
+"138","la copa dela liga mx",0.00212314225053079,"primaria",NA
+"139","la cortina",0.00212314225053079,"primaria",NA
+"140","la cuchara",0.00212314225053079,"primaria",NA
+"141","la escuela",0.00212314225053079,"primaria",NA
+"142","la esfera",0.00424628450106157,"primaria",NA
+"143","la estatua",NA,"primaria",0.00234192037470726
+"144","la estrella",NA,"primaria",0.00468384074941452
+"145","la estrella fugaz",0.00212314225053079,"primaria",NA
+"146","la foca",0.00212314225053079,"primaria",NA
+"147","la hermana",0.00636942675159236,"primaria",NA
+"148","la llanta",NA,"primaria",0.00234192037470726
+"149","la luna",0.210191082802548,"primaria",0.0772833723653396
+"150","la mama",0.00212314225053079,"primaria",NA
+"151","la medalla",0.00849256900212314,"primaria",NA
+"152","la mente",0.00212314225053079,"primaria",0.00234192037470726
+"153","la mina",NA,"primaria",0.00234192037470726
+"154","la moneda",0.0339702760084926,"primaria",0.0140515222482436
+"155","la mujer",0.00212314225053079,"primaria",NA
+"156","la nieve",NA,"primaria",0.00468384074941452
+"157","la nina",0.00424628450106157,"primaria",0.00468384074941452
+"158","la noche",0.00212314225053079,"primaria",NA
+"159","la novia",NA,"primaria",0.00234192037470726
+"160","la paja",NA,"primaria",0.00234192037470726
+"161","la pelota",0.00849256900212314,"primaria",0.00234192037470726
+"162","la perla",NA,"primaria",0.00234192037470726
+"163","la plata",NA,"primaria",0.00234192037470726
+"164","la roca",0.00212314225053079,"primaria",NA
+"165","la silla",0.00212314225053079,"primaria",NA
+"166","la tierra",0.00212314225053079,"primaria",0.00234192037470726
+"167","laura",0.00212314225053079,"primaria",NA
+"168","la vida",0.00636942675159236,"primaria",NA
+"169","lla luna",0.00212314225053079,"primaria",NA
+"170","luego",NA,"primaria",0.00234192037470726
+"171","luna",0.0615711252653928,"primaria",0.128805620608899
+"172","lupita",NA,"primaria",0.00234192037470726
+"173","maceta",NA,"primaria",0.00234192037470726
+"174","mama",0.00424628450106157,"primaria",0.0257611241217799
+"175","mar",NA,"primaria",0.00468384074941452
+"176","marzo",0.00212314225053079,"primaria",NA
+"177","mateo",NA,"primaria",0.00234192037470726
+"178","mayte",0.00212314225053079,"primaria",NA
+"179","medalla",NA,"primaria",0.0117096018735363
+"180","medallita",NA,"primaria",0.00234192037470726
+"181","mena",NA,"primaria",0.00234192037470726
+"182","mercurio",0.00212314225053079,"primaria",NA
+"183","metal",0.00212314225053079,"primaria",0.00234192037470726
+"184","mi abuela",0.00636942675159236,"primaria",0.00234192037470726
+"185","mi abuelita",0.00212314225053079,"primaria",NA
+"186","mi abuelito",0.00212314225053079,"primaria",NA
+"187","mi abuelo",NA,"primaria",0.00702576112412178
+"188","mi alcancia",NA,"primaria",0.00234192037470726
+"189","mi alma",NA,"primaria",0.00234192037470726
+"190","mi amiga",0.00212314225053079,"primaria",0.00234192037470726
+"191","mi barco",0.00212314225053079,"primaria",NA
+"192","mi cabello",NA,"primaria",0.00234192037470726
+"193","mi cama",0.00212314225053079,"primaria",NA
+"194","mi cartera",0.00424628450106157,"primaria",NA
+"195","mi casa",0.00212314225053079,"primaria",0.00468384074941452
+"196","mi cerebro",0.00212314225053079,"primaria",NA
+"197","mi collar",0.00212314225053079,"primaria",NA
+"198","mi consola",NA,"primaria",0.00234192037470726
+"199","mi corazon",NA,"primaria",0.00234192037470726
+"200","mi deporte",NA,"primaria",0.00234192037470726
+"201","mi dinero",NA,"primaria",0.00234192037470726
+"202","mientras recorren mis labios sombrios la pronunciacion de poesia,mi mente alma y cuerpo dicen que",0.00212314225053079,"primaria",NA
+"203","mi espada",NA,"primaria",0.00234192037470726
+"204","mi estomago ",NA,"primaria",0.00234192037470726
+"205","mi familia",0.00212314225053079,"primaria",NA
+"206","mi gata",0.00424628450106157,"primaria",NA
+"207","mi gato",0.00212314225053079,"primaria",NA
+"208","mi goma",NA,"primaria",0.00234192037470726
+"209","mi hermana",0.00424628450106157,"primaria",0.00468384074941452
+"210","mi hermanito",NA,"primaria",0.00234192037470726
+"211","mi hermano",0.00636942675159236,"primaria",NA
+"212","mi hermano es una pelota de plnta",0.00212314225053079,"primaria",NA
+"213","mike",NA,"primaria",0.00234192037470726
+"214","mi luna",NA,"primaria",0.00234192037470726
+"215","mi mama",0.0127388535031847,"primaria",0.00468384074941452
+"216","mi mama es una pelota que canta",0.00212314225053079,"primaria",NA
+"217","mi medalla",0.00212314225053079,"primaria",NA
+"218","mi moneda",NA,"primaria",0.00468384074941452
+"219","minero",NA,"primaria",0.00468384074941452
+"220","mi otro amigo",0.00212314225053079,"primaria",NA
+"221","mi papa",0.0191082802547771,"primaria",0.00468384074941452
+"222","mi papa es una pelota",0.00212314225053079,"primaria",NA
+"223","mi pelota",0.00636942675159236,"primaria",NA
+"224","mi perra",0.00212314225053079,"primaria",NA
+"225","mi perro",0.00212314225053079,"primaria",0.00234192037470726
+"226","mi premio",0.00212314225053079,"primaria",NA
+"227","mi regalo",0.00212314225053079,"primaria",NA
+"228","mi reloj",NA,"primaria",0.00234192037470726
+"229","misael",0.00212314225053079,"primaria",NA
+"230","mi tia",0.00212314225053079,"primaria",NA
+"231","mi tio",0.00212314225053079,"primaria",NA
+"232","mi trofeo",0.00212314225053079,"primaria",0.00234192037470726
+"233","mi vecino",NA,"primaria",0.00234192037470726
+"234","mi vida",0.00212314225053079,"primaria",0.00234192037470726
+"235","moneda",0.0339702760084926,"primaria",0.0234192037470726
+"236","mucho dinero",NA,"primaria",0.00234192037470726
+"237","mujer",NA,"primaria",0.00234192037470726
+"238","muy",NA,"primaria",0.00234192037470726
+"239","muy fuerte",0.00212314225053079,"primaria",NA
+"240","nana",0.00212314225053079,"primaria",NA
+"241","naranja",0.00212314225053079,"primaria",0.00234192037470726
+"242","nieve",NA,"primaria",0.00234192037470726
+"243","ninja gris",0.00212314225053079,"primaria",NA
+"244","nino",0.00424628450106157,"primaria",0.00468384074941452
+"245","no",0.00424628450106157,"primaria",0.00234192037470726
+"246","no ",NA,"primaria",0.00234192037470726
+"247","no contesto",NA,"primaria",0.0234192037470726
+"248","no dice mentiras",0.00212314225053079,"primaria",NA
+"249","""no entendio""",NA,"primaria",0.00234192037470726
+"250","no entiendo",NA,"primaria",0.00234192037470726
+"251","no entiendo nada",NA,"primaria",0.00234192037470726
+"252","no respondio",NA,"primaria",0.00936768149882904
+"253","no se",0.00849256900212314,"primaria",0.0140515222482436
+"254","ojos",NA,"primaria",0.00234192037470726
+"255","oro",NA,"primaria",0.00936768149882904
+"256","pablito",0.00212314225053079,"primaria",NA
+"257","pablo",0.00212314225053079,"primaria",NA
+"258","padre",0.00212314225053079,"primaria",NA
+"259","panchito",0.00212314225053079,"primaria",NA
+"260","pap?Å",0.00212314225053079,"primaria",NA
+"261","papa",0.0233545647558386,"primaria",0.0281030444964871
+"262","pasto",NA,"primaria",0.00234192037470726
+"263","pelota",0.00636942675159236,"primaria",0.0117096018735363
+"264","pelota plata",NA,"primaria",0.00702576112412178
+"265","pelota roja",NA,"primaria",0.00234192037470726
+"266","pelotas",NA,"primaria",0.00468384074941452
+"267","pepita",0.00212314225053079,"primaria",NA
+"268","perla",0.00212314225053079,"primaria",NA
+"269","perro",NA,"primaria",0.00468384074941452
+"270","pesada",NA,"primaria",0.00468384074941452
+"271","pinpon",NA,"primaria",0.00234192037470726
+"272","planta",NA,"primaria",0.00468384074941452
+"273","plata",NA,"primaria",0.00702576112412178
+"274","plato",0.00424628450106157,"primaria",NA
+"275","playta",0.00212314225053079,"primaria",NA
+"276","poiitghdft",0.00212314225053079,"primaria",NA
+"277","porque",NA,"primaria",0.00936768149882904
+"278","primo",NA,"primaria",0.00234192037470726
+"279","que",0.00424628450106157,"primaria",0.0163934426229508
+"280","que bonito",NA,"primaria",0.00234192037470726
+"281","que es",NA,"primaria",0.00936768149882904
+"282","qwe",0.00212314225053079,"primaria",NA
+"283","rebota por que",0.00212314225053079,"primaria",NA
+"284","rico",NA,"primaria",0.00234192037470726
+"285","robot",NA,"primaria",0.00234192037470726
+"286","sarten",NA,"primaria",0.00234192037470726
+"287","senor",0.00212314225053079,"primaria",0.00234192037470726
+"288","si",0.00212314225053079,"primaria",0.00234192037470726
+"289","sin embargo",0.00212314225053079,"primaria",NA
+"290","sin embargo es una pelota",0.00212314225053079,"primaria",NA
+"291","sol",NA,"primaria",0.00234192037470726
+"292","soledad",0.00212314225053079,"primaria",NA
+"293","solta",NA,"primaria",0.00234192037470726
+"294","su pulsera",NA,"primaria",0.00234192037470726
+"295","tambien",NA,"primaria",0.00702576112412178
+"296","tia",NA,"primaria",0.00234192037470726
+"297","tiene un significado importante",0.00212314225053079,"primaria",NA
+"298","tio",NA,"primaria",0.00468384074941452
+"299","tomate",NA,"primaria",0.00234192037470726
+"300","trofeo",0.00212314225053079,"primaria",0.00936768149882904
+"301","tumbador",0.00424628450106157,"primaria",NA
+"302","tus hojos",0.00212314225053079,"primaria",NA
+"303","tu sonrisa",NA,"primaria",0.00234192037470726
+"304","una amiga",NA,"primaria",0.00234192037470726
+"305","una bala",0.00212314225053079,"primaria",NA
+"306","una bola de crital",0.00212314225053079,"primaria",NA
+"307","una canica",NA,"primaria",0.00234192037470726
+"308","una escultura",0.00212314225053079,"primaria",NA
+"309","una medalla",0.00212314225053079,"primaria",NA
+"310","una medallla",0.00212314225053079,"primaria",NA
+"311","un amigo",0.00212314225053079,"primaria",NA
+"312","una moneda",0.00212314225053079,"primaria",NA
+"313","una pelota de plata",0.00212314225053079,"primaria",NA
+"314","una perla",0.00424628450106157,"primaria",NA
+"315","un balin",0.00212314225053079,"primaria",NA
+"316","un frisvi",0.00212314225053079,"primaria",NA
+"317","un goya",0.00212314225053079,"primaria",NA
+"318","un huevo",0.00212314225053079,"primaria",NA
+"319","un jugete",0.00212314225053079,"primaria",NA
+"320","un trofeo de futbol",0.00212314225053079,"primaria",NA
+"321","veredo",NA,"primaria",0.00234192037470726
+"322","vida",0.00424628450106157,"primaria",NA
+"323","voliche",NA,"primaria",0.00234192037470726
+"324","y",NA,"primaria",0.00936768149882904
+"325","y de",0.00212314225053079,"primaria",NA
+"326","y el otro",NA,"primaria",0.00234192037470726
+"327","y (el tiempo)",NA,"primaria",0.00234192037470726
+"328","y la fortuna",0.00212314225053079,"primaria",NA
+"329","y la luna",NA,"primaria",0.00234192037470726
+"330","yo",0.00424628450106157,"primaria",NA
+"331","yo mero",0.00212314225053079,"primaria",NA
+"332",NA,NA,"primaria",0.00234192037470726

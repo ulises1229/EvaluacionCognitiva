@@ -1,0 +1,503 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Capitulo 2. AnÃ¡lisis de Sentimientos},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Capitulo 2. AnÃ¡lisis de Sentimientos}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{}
+    \preauthor{}\postauthor{}
+    \date{}
+    \predate{}\postdate{}
+  
+
+\begin{document}
+\maketitle
+
+This is an \href{http://rmarkdown.rstudio.com}{R Markdown} Notebook.
+When you execute code within the notebook, the results appear beneath
+the code.
+
+Try executing this chunk by clicking the \emph{Run} button within the
+chunk or by placing your cursor inside it and pressing
+\emph{Ctrl+Shift+Enter}.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(tidytext)}
+
+\NormalTok{sentiments}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 27,314 x 4
+##    word        sentiment lexicon score
+##    <chr>       <chr>     <chr>   <int>
+##  1 abacus      trust     nrc        NA
+##  2 abandon     fear      nrc        NA
+##  3 abandon     negative  nrc        NA
+##  4 abandon     sadness   nrc        NA
+##  5 abandoned   anger     nrc        NA
+##  6 abandoned   fear      nrc        NA
+##  7 abandoned   negative  nrc        NA
+##  8 abandoned   sadness   nrc        NA
+##  9 abandonment anger     nrc        NA
+## 10 abandonment fear      nrc        NA
+## # ... with 27,304 more rows
+\end{verbatim}
+
+Add a new chunk by clicking the \emph{Insert Chunk} button on the
+toolbar or by pressing \emph{Ctrl+Alt+I}.
+
+When you save the notebook, an HTML file containing the code and output
+will be saved alongside it (click the \emph{Preview} button or press
+\emph{Ctrl+Shift+K} to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the
+editor. Consequently, unlike \emph{Knit}, \emph{Preview} does not run
+any R code chunks. Instead, the output of the chunk when it was last run
+in the editor is displayed.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"afinn"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 2,476 x 2
+##    word       score
+##    <chr>      <int>
+##  1 abandon       -2
+##  2 abandoned     -2
+##  3 abandons      -2
+##  4 abducted      -2
+##  5 abduction     -2
+##  6 abductions    -2
+##  7 abhor         -3
+##  8 abhorred      -3
+##  9 abhorrent     -3
+## 10 abhors        -3
+## # ... with 2,466 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"bing"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 6,788 x 2
+##    word        sentiment
+##    <chr>       <chr>    
+##  1 2-faced     negative 
+##  2 2-faces     negative 
+##  3 a+          positive 
+##  4 abnormal    negative 
+##  5 abolish     negative 
+##  6 abominable  negative 
+##  7 abominably  negative 
+##  8 abominate   negative 
+##  9 abomination negative 
+## 10 abort       negative 
+## # ... with 6,778 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"nrc"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 13,901 x 2
+##    word        sentiment
+##    <chr>       <chr>    
+##  1 abacus      trust    
+##  2 abandon     fear     
+##  3 abandon     negative 
+##  4 abandon     sadness  
+##  5 abandoned   anger    
+##  6 abandoned   fear     
+##  7 abandoned   negative 
+##  8 abandoned   sadness  
+##  9 abandonment anger    
+## 10 abandonment fear     
+## # ... with 13,891 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(janeaustenr)}
+\KeywordTok{library}\NormalTok{(dplyr)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'dplyr'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:stats':
+## 
+##     filter, lag
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(stringr)}
+
+\NormalTok{tidy_books <-}\StringTok{ }\KeywordTok{austen_books}\NormalTok{() }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{group_by}\NormalTok{(book) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{linenumber =} \KeywordTok{row_number}\NormalTok{(),}
+         \DataTypeTok{chapter =} \KeywordTok{cumsum}\NormalTok{(}\KeywordTok{str_detect}\NormalTok{(text, }\KeywordTok{regex}\NormalTok{(}\StringTok{"^chapter [}\CharTok{\textbackslash{}\textbackslash{}}\StringTok{divxlc]"}\NormalTok{, }
+                                                 \DataTypeTok{ignore_case =} \OtherTok{TRUE}\NormalTok{)))) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{ungroup}\NormalTok{() }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{unnest_tokens}\NormalTok{(word, text)}
+
+\NormalTok{tidy_books}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 725,055 x 4
+##    book                linenumber chapter word       
+##    <fct>                    <int>   <int> <chr>      
+##  1 Sense & Sensibility          1       0 sense      
+##  2 Sense & Sensibility          1       0 and        
+##  3 Sense & Sensibility          1       0 sensibility
+##  4 Sense & Sensibility          3       0 by         
+##  5 Sense & Sensibility          3       0 jane       
+##  6 Sense & Sensibility          3       0 austen     
+##  7 Sense & Sensibility          5       0 1811       
+##  8 Sense & Sensibility         10       1 chapter    
+##  9 Sense & Sensibility         10       1 1          
+## 10 Sense & Sensibility         13       1 the        
+## # ... with 725,045 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{nrc_joy <-}\StringTok{ }\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"nrc"}\NormalTok{) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }\KeywordTok{filter}\NormalTok{(sentiment }\OperatorTok{==}\StringTok{ "joy"}\NormalTok{)}
+
+\NormalTok{tidy_books }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{filter}\NormalTok{(book }\OperatorTok{==}\StringTok{ "Emma"}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{inner_join}\NormalTok{(nrc_joy) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{count}\NormalTok{(word, }\DataTypeTok{sort =} \OtherTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Joining, by = "word"
+\end{verbatim}
+
+\begin{verbatim}
+## # A tibble: 303 x 2
+##    word        n
+##    <chr>   <int>
+##  1 good      359
+##  2 young     192
+##  3 friend    166
+##  4 hope      143
+##  5 happy     125
+##  6 love      117
+##  7 deal       92
+##  8 found      92
+##  9 present    89
+## 10 kind       82
+## # ... with 293 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(tidyr)}
+
+\NormalTok{jane_austen_sentiment <-}\StringTok{ }\NormalTok{tidy_books }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{inner_join}\NormalTok{(}\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"bing"}\NormalTok{)) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{count}\NormalTok{(book, }\DataTypeTok{index =}\NormalTok{ linenumber }\OperatorTok{%/%}\StringTok{ }\DecValTok{80}\NormalTok{, sentiment) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{spread}\NormalTok{(sentiment, n, }\DataTypeTok{fill =} \DecValTok{0}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{sentiment =}\NormalTok{ positive }\OperatorTok{-}\StringTok{ }\NormalTok{negative)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Joining, by = "word"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{jane_austen_sentiment}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 920 x 5
+##    book                index negative positive sentiment
+##    <fct>               <dbl>    <dbl>    <dbl>     <dbl>
+##  1 Sense & Sensibility     0       16       32        16
+##  2 Sense & Sensibility     1       19       53        34
+##  3 Sense & Sensibility     2       12       31        19
+##  4 Sense & Sensibility     3       15       31        16
+##  5 Sense & Sensibility     4       16       34        18
+##  6 Sense & Sensibility     5       16       51        35
+##  7 Sense & Sensibility     6       24       40        16
+##  8 Sense & Sensibility     7       23       51        28
+##  9 Sense & Sensibility     8       30       40        10
+## 10 Sense & Sensibility     9       15       19         4
+## # ... with 910 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{library}\NormalTok{(ggplot2)}
+
+\KeywordTok{ggplot}\NormalTok{(jane_austen_sentiment, }\KeywordTok{aes}\NormalTok{(index, sentiment, }\DataTypeTok{fill =}\NormalTok{ book)) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_col}\NormalTok{(}\DataTypeTok{show.legend =} \OtherTok{FALSE}\NormalTok{) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{facet_wrap}\NormalTok{(}\OperatorTok{~}\NormalTok{book, }\DataTypeTok{ncol =} \DecValTok{2}\NormalTok{, }\DataTypeTok{scales =} \StringTok{"free_x"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{tx_5_files/figure-latex/unnamed-chunk-8-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{pride_prejudice <-}\StringTok{ }\NormalTok{tidy_books }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }\KeywordTok{filter}\NormalTok{(book }\OperatorTok{==}\StringTok{ "Pride & Prejudice"}\NormalTok{)}
+
+\NormalTok{pride_prejudice}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 122,204 x 4
+##    book              linenumber chapter word     
+##    <fct>                  <int>   <int> <chr>    
+##  1 Pride & Prejudice          1       0 pride    
+##  2 Pride & Prejudice          1       0 and      
+##  3 Pride & Prejudice          1       0 prejudice
+##  4 Pride & Prejudice          3       0 by       
+##  5 Pride & Prejudice          3       0 jane     
+##  6 Pride & Prejudice          3       0 austen   
+##  7 Pride & Prejudice          7       1 chapter  
+##  8 Pride & Prejudice          7       1 1        
+##  9 Pride & Prejudice         10       1 it       
+## 10 Pride & Prejudice         10       1 is       
+## # ... with 122,194 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{afinn <-}\StringTok{ }\NormalTok{pride_prejudice }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }\KeywordTok{inner_join}\NormalTok{(}\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"afinn"}\NormalTok{)) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }\KeywordTok{group_by}\NormalTok{(}\DataTypeTok{index =}\NormalTok{ linenumber }\OperatorTok{%/%}\StringTok{ }\DecValTok{80}\NormalTok{) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }\KeywordTok{summarise}\NormalTok{(}\DataTypeTok{sentiment =} \KeywordTok{sum}\NormalTok{(score)) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{method =} \StringTok{"AFINN"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Joining, by = "word"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{afinn}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 163 x 3
+##    index sentiment method
+##    <dbl>     <int> <chr> 
+##  1     0        29 AFINN 
+##  2     1         0 AFINN 
+##  3     2        20 AFINN 
+##  4     3        30 AFINN 
+##  5     4        62 AFINN 
+##  6     5        66 AFINN 
+##  7     6        60 AFINN 
+##  8     7        18 AFINN 
+##  9     8        84 AFINN 
+## 10     9        26 AFINN 
+## # ... with 153 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{bing_and_nrc <-}\StringTok{ }\KeywordTok{bind_rows}\NormalTok{(pride_prejudice }\OperatorTok{%>%}\StringTok{ }
+\StringTok{                            }\KeywordTok{inner_join}\NormalTok{(}\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"bing"}\NormalTok{)) }\OperatorTok{%>%}
+\StringTok{                            }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{method =} \StringTok{"Bing et al."}\NormalTok{),}
+\NormalTok{                          pride_prejudice }\OperatorTok{%>%}\StringTok{ }
+\StringTok{                            }\KeywordTok{inner_join}\NormalTok{(}\KeywordTok{get_sentiments}\NormalTok{(}\StringTok{"nrc"}\NormalTok{) }\OperatorTok{%>%}\StringTok{ }
+\StringTok{                                         }\KeywordTok{filter}\NormalTok{(sentiment }\OperatorTok{%in%}\StringTok{ }\KeywordTok{c}\NormalTok{(}\StringTok{"positive"}\NormalTok{, }
+                                                                 \StringTok{"negative"}\NormalTok{))) }\OperatorTok{%>%}
+\StringTok{                            }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{method =} \StringTok{"NRC"}\NormalTok{)) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{count}\NormalTok{(method, }\DataTypeTok{index =}\NormalTok{ linenumber }\OperatorTok{%/%}\StringTok{ }\DecValTok{80}\NormalTok{, sentiment) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{spread}\NormalTok{(sentiment, n, }\DataTypeTok{fill =} \DecValTok{0}\NormalTok{) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{mutate}\NormalTok{(}\DataTypeTok{sentiment =}\NormalTok{ positive }\OperatorTok{-}\StringTok{ }\NormalTok{negative)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Joining, by = "word"
+## Joining, by = "word"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{bing_and_nrc}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 326 x 5
+##    method      index negative positive sentiment
+##    <chr>       <dbl>    <dbl>    <dbl>     <dbl>
+##  1 Bing et al.     0        7       21        14
+##  2 Bing et al.     1       20       19        -1
+##  3 Bing et al.     2       16       20         4
+##  4 Bing et al.     3       19       31        12
+##  5 Bing et al.     4       23       47        24
+##  6 Bing et al.     5       15       49        34
+##  7 Bing et al.     6       18       46        28
+##  8 Bing et al.     7       23       33        10
+##  9 Bing et al.     8       17       48        31
+## 10 Bing et al.     9       22       40        18
+## # ... with 316 more rows
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\KeywordTok{bind_rows}\NormalTok{(afinn, }
+\NormalTok{          bing_and_nrc) }\OperatorTok{%>%}
+\StringTok{  }\KeywordTok{ggplot}\NormalTok{(}\KeywordTok{aes}\NormalTok{(index, sentiment, }\DataTypeTok{fill =}\NormalTok{ method)) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{geom_col}\NormalTok{(}\DataTypeTok{show.legend =} \OtherTok{FALSE}\NormalTok{) }\OperatorTok{+}
+\StringTok{  }\KeywordTok{facet_wrap}\NormalTok{(}\OperatorTok{~}\NormalTok{method, }\DataTypeTok{ncol =} \DecValTok{1}\NormalTok{, }\DataTypeTok{scales =} \StringTok{"free_y"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{tx_5_files/figure-latex/unnamed-chunk-12-1.pdf}
+
+
+\end{document}
