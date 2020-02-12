@@ -1,4 +1,4 @@
-,participante,escuela,grado,edad,sexo,reactivo 1,a1,reactivo 2,a2,reactivo 3,a3,reactivo 1_si,a4s,reactivo 1_no,a4n,reactivo 2,a5,reactivo 3,a6,reactivo 4,a7,comentarios
+,participante,escuela,grado,edad,sexo,reactivouno,a1,reactivo 2,a2,reactivo 3,a3,reactivo 1_si,a4s,reactivo 1_no,a4n,reactivo 2,a5,reactivo 3,a6,reactivo 4,a7,comentarios
 1,jose guadalupe,americas unidas,4,8,m,el que madruga,1,mucho dinero,2,mi pelo,1,porque es alegre,2,,,"si, porque canta",2,una bola llena de pelos,1,"muchos, pero",1,
 2,rafael reyes o,americas unidas,4,9,m,abuelo,1,mi vecino,2,mi abuela,2,,,"no, porque las pelotas no cantan ",1,que su hermano grita mucho,3,"mi vecina porque, que se?",2,"es una pelota secreta, porque que se?",2,
 3,juan eduardo,americas unidas,4,9,m,fudon,1,veredo,1,pelos,1,"si, pelota la que le platico",1,,,NN,1,que es una pelota,1,porque... ,1,
@@ -24,7 +24,7 @@
 23,isaac giovanni perez pacheco,americas unidas,5,10,m,gato,2,mama,2,hermano,2,"si, porque a cada rato canta",3,,,porque cuando no le dan algo se enoja y empieza a gritar,3,porque esta lleno de pelo de la cabeza hasta la cola,1,mi mama vale mucho como si fuera plata,3,
 24,hector antonio,americas unidas,5,10,m,sol,3,cual,1,cabeza,1,,,"no, porque las pelotas no cantan ",1,que su hermano grita mucho,3,perro porque tiene pelos,3,WW,1,
 25,juan patricio valadez avila,americas unidas,5,10,m,sol,3,mar,2,perrito,3,"si, es como me dijieron mi mama canta",3,,,mi hermano grita mucho,3,mi abuelito es una pelota de pelos,2,el mar es una pelota de plata,1,
-26,yael salinas elias,americas unidas,5,10,m,,,,,,,,,,,,,,,,,
+26,yael salinas elias,americas unidas,5,10,m,null,0,,,,,,,,,,,,,,,
 27,schoestat guadalupe sanchez yanez,americas unidas,5,11,m,senor,2,mi mama,2,pedro,2,,,no se canta no tiene sentido!,1,es como cuando grita mucho muy fuerte,3,puede ser como una pelota de pelos porque puede ser asi,1,esta como hecha de plata y de nada mas,1,
 28,carlos raul ,americas unidas,5,11,m,gato,1,perro,1,gato,3,"si, porque si",1,,,que grita mucho,3,jamster porque tiene pelo,3,perro,1,
 29,jose julian espinoza,americas unidas,5,11,m,fenomeno,1,pesada,2,pelota,2,,,"no, porque nomas son pelotas",1,no grita porque no es como su hermano,1,es chida,2,una pelota de pelos,1,
