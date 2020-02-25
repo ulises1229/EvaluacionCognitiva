@@ -160,9 +160,9 @@ def quickPlot(xcol, ycol, threshold, genCSV):
     #  'a7']
 
 # Reemplazar la ruta de abajo para obtener el CSV
-df = getCSV("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/Prueba 1/1_h_sec_todo_de_prueba1.csv")
+df = getCSV("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
 # Reemplazar el nombre de la columna que se quiere evaluar
-a1 = colvals(df, '__________ es una pelota de plata')
+a1 = colvals(df, 'el_es_una_pelota_de_fuego')
 res = countInstances(a1)
 # Generacion de la grafica, el ultimo numero indica el valor que se evaluara para determinar los elementos que se graficaran
 # ej. Si es 3, todos los elementos cuyas instancias sean de 3 o menos no se graficaran pero se imprimiran en consola
