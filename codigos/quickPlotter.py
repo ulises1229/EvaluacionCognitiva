@@ -129,36 +129,6 @@ def quickPlot(xcol, ycol, threshold, genCSV):
         plt.title('Frecuencia')
         plt.show()
 
-
-# ['np',
-    #  'apellido paterno',
-    #  'apellido materno',
-    #  'nombre(s)',
-    #  'escuela',
-    #  'turno',
-    #  'grado escolar',
-    #  'grupo',
-    #  'edad',
-    #  'sexo',
-    #  'version',
-    #  'el_________ es una pelota de fuego',
-    #  'a1',
-    #  '__________ es una pelota de plata',
-    #  'a2',
-    #  'mi __________ es una pelota de pelos',
-    #  'a3',
-    #  'la frase pelota que canta tiene sentido?',
-    #  'por que?',
-    #  'a4s',
-    #  'a4n',
-    #  'explica lo que quiere decir mi hermanito es una pelota de gritos',
-    #  'a5',
-    #  'que otra cosa podria ser una pelota de pelos?',
-    #  'por que?.1',
-    #  'a6',
-    #  'explica tu respuesta en la frase pelota de plata',
-    #  'a7']
-
 # Reemplazar la ruta de abajo para obtener el CSV
 df = getCSV("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
 # Reemplazar el nombre de la columna que se quiere evaluar
