@@ -31,7 +31,7 @@ CREATE TABLE secu_todo(
 	a7 INT(3),
 	total_a INT(3),
 	
-	PRUEBA_2 TEXT,--==========================================================
+	PRUEBA_2 TEXT,
 	
 	c1_num_fr INT(3),
 	c1_tipo TEXT,
@@ -111,7 +111,7 @@ CREATE TABLE secu_todo(
 	criterio_6 TEXT,
 	c6 TEXT,
 	
-	PRUEBA_3 TEXT,--==========================================================
+	PRUEBA_3 TEXT,
 	
 	b1__num_fr INT(3),
 	b1_tipo TEXT,
@@ -266,99 +266,99 @@ CREATE TABLE secu_todo(
 	c3_b9 TEXT,
 	c4_b9 TEXT,
 	
-	PRUEBA_4 TEXT,--==========================================================
+	PRUEBA_4 TEXT,
 	
 	d_tipo INT(3),
 
 	clave_1 TEXT,
     d1_tipo TEXT,
     simon_ha_estado_caminando_en_la_nieve_por_horas_sus_pies TEXT,
-    d1 TEXT, -- tiene abcd o numeros
+    d1 TEXT,
     
     clave_2 TEXT,
     d2_tipo TEXT,
     el_arbol_de_mi_jardin_ha_crecido_mucho_este_ano TEXT,
-    d2 TEXT, -- tiene abcd o numeros
+    d2 TEXT,
 
     clave_3 TEXT,
     d3_tipo TEXT,
     mi_mama_dejo_el_pan_afuera_toda_la_noche_en_la_manana TEXT,
-    d3 TEXT, -- tiene abcd o numeros
+    d3 TEXT,
 
     clave_4 TEXT,
     d4_tipo TEXT,
     mi_amigo_de_la_escuela_siempre_me_protege_de_los_bravucones_el TEXT,
-    d4 TEXT, -- tiene abcd o numeros
+    d4 TEXT,
     
     clave_5 TEXT,
     d5_tipo TEXT,
     laura_habla_tan_suavemente_que_apenas_puedes_oirla_ella TEXT,
-    d5 TEXT, -- tiene abcd o numeros
+    d5 TEXT,
     
     clave_6 TEXT,
     d6_tipo TEXT,
     jeny_siempre_saca_buenas_calificaciones_en_sus_examenes_ella_es TEXT,
-    d6 TEXT, -- tiene abcd o numeros
+    d6 TEXT,
     
     clave_7 TEXT,
     d7_tipo TEXT,
     mi_papa_estaba_muy_enojado_cuando_llegue_tarde_a_la_casa_el TEXT,
-    d7 TEXT, -- tiene abcd o numeros
+    d7 TEXT,
     
     clave_8 TEXT,
     d8_tipo TEXT,
     peter_puede_levantar_cosas_muy_pesadas_sin_ningun_problema_el TEXT,
-    d8 TEXT, -- tiene abcd o numeros
+    d8 TEXT,
     
     clave_9 TEXT,
     d9_tipo TEXT,
     nuestra_nueva_escuela_es_muy_grande_y_yo_siempre_me_pierdo TEXT,
-    d9 TEXT, -- tiene abcd o numeros
+    d9 TEXT,
     
     clave_10 TEXT,
     d10_tipo TEXT,
     las_unas_largas_de_july_estan_pintadas_de_rojo_y_dorado TEXT,
-    d10 TEXT, -- tiene abcd o numeros
+    d10 TEXT,
     
     clave_11 TEXT,
     d11_tipo TEXT,
     luis_siempre_esta_contento_y_eso_hace_sentir_bien_a_los_demas_el TEXT,
-    d11 TEXT, -- tiene abcd o numeros
+    d11 TEXT,
     
     clave_12 TEXT,
     d12_tipo TEXT,
     paty_tiene_el_pelo_muy_largo_y_liso_su_cabello TEXT,
-    d12 TEXT, -- tiene abcd o numeros
+    d12 TEXT,
     
     clave_13 TEXT,
     d13_tipo TEXT,
     joe_paso_mucho_tiempo_en_la_alberca_el TEXT,
-    d13 TEXT, -- tiene abcd o numeros
+    d13 TEXT,
     
     clave_14 TEXT,
     d14_tipo TEXT,
     el_nuevo_perro_de_sam_es_muy_grande TEXT,
-    d14 TEXT, -- tiene abcd o numeros
+    d14 TEXT,
     
     clave_15 TEXT,
     d15_tipo TEXT,
     luisa_ha_estado_gritando_y_llorando_por_horas_ella TEXT,
-    d15 TEXT, -- tiene abcd o numeros
+    d15 TEXT,
     
     clave_16 TEXT,
     d16_tipo TEXT,
     la_calefaccion_ha_estado_prendida_por_horas_y_la_habitacion TEXT,
-    d16 TEXT, -- tiene abcd o numeros
+    d16 TEXT,
     
     clave_17 TEXT,
     d17_tipo TEXT,
     kate_tiene_una_linda_cara_y_bonitos_ojos_ella TEXT,
-    d17 TEXT, -- tiene abcd o numeros
+    d17 TEXT,
     
     clave_18 TEXT,
     d18_tipo TEXT,
     julian_esta_escondido_detras_del_arbol_sin_moverse_el_es TEXT,
-    d18 TEXT, -- tiene abcd o numeros
+    d18 TEXT,
     
     total_d INT(3)
 

@@ -23,8 +23,15 @@ SELECT sexo, COUNT(*) FROM secu_todo GROUP BY sexo;
 
 -- Promedio edad
 SELECT AVG(edad) FROM secu_todo;
--- 13.65
+-- 13.6589
 
+-- ############################################################################################
+--                              E M O T I C O N  L E X I C O N
+-- ############################################################################################
+
+-- Palabras que tienen todas sus calificaciones de emociones en 0
+SELECT * FROM es_lex WHERE positive = 0 && negative = 0 && anger = 0 && anticipation = 0 && disgust = 0 && fear = 0 && joy = 0 && sadness = 0 && surprise = 0 && trust = 0;
+-- 7,714 -> 54.3928%
 
 -- ############################################################################################
 --                                      P R U E B A  1

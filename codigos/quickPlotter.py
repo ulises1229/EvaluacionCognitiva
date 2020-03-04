@@ -3,10 +3,6 @@ import pandas as pd
 import numpy as np
 import csv
 
-# retorna un csv
-def getCSV(filePath):
-    df = pd.read_csv(filePath)
-    return df
 
 # imprime el nombre de las columnas
 def colnames(df):
@@ -53,34 +49,6 @@ def countInstances(colvals):
 # la lista como param tendra el nombre de las columnas
 def generateCSV(colnames_list, base_dict, filename):
     pass
-    # try:
-    #     new_filename = filename + ".txt"
-    #     with open(new_filename, 'w+') as textfile:
-    #         array = list(base_dict.items())
-    #         for x in array:
-    #             for y in x:
-    #                 textfile.write(x[0]+": "+str(y[0][0]))
-    # except IOError:
-    #     print("I/O error")
-    # try:
-    #     new_filename = filename + ".csv"
-    #     with open(new_filename, 'w+') as csvfile:
-    #         writer = csv.DictWriter(csvfile, fieldnames=colnames_list)
-    #         writer.writeheader()
-    #         for key, value in list(base_dict.items()):
-    #             writer.writerow({key:value})
-    # except:
-    #     pass
-    # try:
-    #     new_filename = filename + '.csv'
-    #     with open(new_filename, 'w+') as csvfile:
-    #         writer = csv.DictWriter(csvfile, fieldnames=colnames_list)
-    #         writer.writeheader()
-    #         for data in base_dict:
-    #             print(str(data))
-    #             writer.writerow(str(data))
-    # except IOError:
-    #     print("I/O error")
 
 # plotea 2 columnas, una de tokens y otra de valores o instancias, se evalua con <= threshold
 # PARAMS
@@ -129,12 +97,15 @@ def quickPlot(xcol, ycol, threshold, genCSV):
         plt.title('Frecuencia')
         plt.show()
 
-# Reemplazar la ruta de abajo para obtener el CSV
-df = getCSV("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
-# Reemplazar el nombre de la columna que se quiere evaluar
-a1 = colvals(df, 'el_es_una_pelota_de_fuego')
-res = countInstances(a1)
-# Generacion de la grafica, el ultimo numero indica el valor que se evaluara para determinar los elementos que se graficaran
-# ej. Si es 3, todos los elementos cuyas instancias sean de 3 o menos no se graficaran pero se imprimiran en consola
-quickPlot(res['elements'],res['instances'], 3, True)
-# quickPlot(res['elements'],res['instances'], None)
+
+# if que impide la ejecucion de este script si lo importamos como modulo
+if __name__ == "__main__":    
+    # Reemplazar la ruta de abajo para obtener el CSV
+    df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
+    # Reemplazar el nombre de la columna que se quiere evaluar
+    a1 = colvals(df, 'el_es_una_pelota_de_fuego')
+    res = countInstances(a1)
+    # Generacion de la grafica, el ultimo numero indica el valor que se evaluara para determinar los elementos que se graficaran
+    # ej. Si es 3, todos los elementos cuyas instancias sean de 3 o menos no se graficaran pero se imprimiran en consola
+    quickPlot(res['elements'],res['instances'], 3, True)
+    # quickPlot(res['elements'],res['instances'], None)
