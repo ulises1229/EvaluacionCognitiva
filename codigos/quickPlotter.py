@@ -1,7 +1,12 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import numpy as np
-import csv
+from pprint import pprint
+
+import spacy
+from spacy import displacy
+
+# Load Spanish tokenizer, tagger, parser, NER and word vectors
+spa_lex = spacy.load('es_core_news_sm')
 
 
 # imprime el nombre de las columnas
@@ -98,10 +103,37 @@ def quickPlot(xcol, ycol, threshold, genCSV):
         plt.show()
 
 
+# funcion que clasifica palabras
+def classifyWords(df, colName):
+    column = colvals(df, colName)
+    # un arreglo vacio donde se almacenara la respuesta sin las stopwords
+    clean_row = []
+    # iterar por cada row de la col
+    for row in range(1,2):
+        doc = spa_lex(column[row])
+        print("Respuesta: "+str(doc))
+        print("Sustantivos:", [chunk.text for chunk in doc.noun_chunks])
+        print("Verbos:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
+
+        for token in doc:
+            # quitar stopwords
+            if token.is_stop or token.is_punct or token.is_quote or len(token) == 1:
+                print(token)
+            else:
+                clean_row.append(token)
+
+        print("Respuesta limpia: "+str(clean_row))
+        displacy.serve(doc, style="dep")
+        # se reinicia el arreglo de tokens
+        clean_row = []
+        print("\n")
+
 # if que impide la ejecucion de este script si lo importamos como modulo
 if __name__ == "__main__":    
     # Reemplazar la ruta de abajo para obtener el CSV
     df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
+    classifyWords(df, "por_que_pelota_que_canta")
+    """
     # Reemplazar el nombre de la columna que se quiere evaluar
     a1 = colvals(df, 'el_es_una_pelota_de_fuego')
     res = countInstances(a1)
@@ -109,3 +141,4 @@ if __name__ == "__main__":
     # ej. Si es 3, todos los elementos cuyas instancias sean de 3 o menos no se graficaran pero se imprimiran en consola
     quickPlot(res['elements'],res['instances'], 3, True)
     # quickPlot(res['elements'],res['instances'], None)
+    """
