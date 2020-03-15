@@ -1,9 +1,11 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 from pprint import pprint
 
 import spacy
 from spacy import displacy
+
 
 # Load Spanish tokenizer, tagger, parser, NER and word vectors
 spa_lex = spacy.load('es_core_news_sm')
@@ -26,7 +28,6 @@ def unique(array):
 
 # retorna solo los tokens limpios (quita espacios a la izquierda o derecha) de una columna
 def colvals(df, colname):
-    collist = []
     clean_collist = []
     collist = df[colname].tolist()
     for token in collist:
@@ -34,14 +35,14 @@ def colvals(df, colname):
         clean_collist.append(token)
     return clean_collist
 
-# retorna un diccionario con los elementos de una columna y el conteo de apariciones de los mismos 
-def countInstances(colvals):
+# retorna un diccionario con los elementos de una arreglo y el conteo de apariciones de los mismos 
+def countInstances(array):
     results = {}
-    unique_elems = unique(colvals)
+    unique_elems = unique(array)
     instances = []
     counter = 0
     for unique_elem in unique_elems: # recorre el arreglo de unicos
-        for instance_of_elem in colvals: # contador de instancias elementos unicos
+        for instance_of_elem in array: # contador de instancias elementos unicos
             if str(unique_elem) == str(instance_of_elem):
                 counter += 1
         instances.append(counter)
@@ -103,36 +104,65 @@ def quickPlot(xcol, ycol, threshold, genCSV):
         plt.show()
 
 
-# funcion que clasifica palabras
-def classifyWords(df, colName):
+# funcion que procesa palabras
+def processWords(df, colName):
+    results = {}
     column = colvals(df, colName)
-    # un arreglo vacio donde se almacenara la respuesta sin las stopwords
+    # arreglos vacios donde se almacenan: la respuesta sin las stopwords, todos los verbos y todos los sustantivos
     clean_row = []
+    sustantivos_total = []
+    verbos_total = []
+    tokens_per_row = []
+    total_tokens = 0
+    total_tokens_per_row = 0
     # iterar por cada row de la col
-    for row in range(1,2):
+    for row in range(len(column)):
+    # for row in range(1,10):
         doc = spa_lex(column[row])
-        print("Respuesta: "+str(doc))
-        print("Sustantivos:", [chunk.text for chunk in doc.noun_chunks])
-        print("Verbos:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
+        # print("---> Respuesta: "+str(doc))
+        # sustantivos = [chunk.text for chunk in doc.noun_chunks] # para evaluar sustantivos con su determinante ej: el tomate
+        sustantivos = [token.text for token in doc if token.pos_ == "NOUN"]
+        verbos = [token.lemma_ for token in doc if token.pos_ == "VERB"]
+        # print("---> Sustantivos: ", sustantivos)
+        # print("---> Verbos: ", verbos)
+        sustantivos_total.extend(sustantivos)
+        verbos_total.extend(verbos)
 
         for token in doc:
-            # quitar stopwords
+            total_tokens += 1
+            total_tokens_per_row += 1
             if token.is_stop or token.is_punct or token.is_quote or len(token) == 1:
-                print(token)
+                pass # stopword
+            elif not token.is_stop and not token.is_punct and not token.is_quote and len(token) > 1 and (token.text in sustantivos or token.text in verbos):
+                # si token no es stop, no es punt, no es comilla, mide mas de 1 y token es sustantivo o token es verbo
+                # print(token)
+                pass # palabra con falta de ortografia
             else:
                 clean_row.append(token)
-
-        print("Respuesta limpia: "+str(clean_row))
-        displacy.serve(doc, style="dep")
-        # se reinicia el arreglo de tokens
+        
+        tokens_per_row.append(total_tokens_per_row)
+        total_tokens_per_row = 0
+        # print("---> Respuesta limpia: "+str(clean_row))
+        # displacy.serve(doc, style="dep")
         clean_row = []
-        print("\n")
+    results['nouns'] = sustantivos_total
+    results['verbs'] = verbos_total
+    results['count'] = total_tokens
+    results['tokens_row'] = tokens_per_row
+    return results
 
 # if que impide la ejecucion de este script si lo importamos como modulo
-if __name__ == "__main__":    
+if __name__ == "__main__":
     # Reemplazar la ruta de abajo para obtener el CSV
     df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
-    classifyWords(df, "por_que_pelota_que_canta")
+    result = processWords(df, "por_que_pelota_que_canta")
+    # print(result)
+    print("---> Total tokens: " + str(result['count']))
+    print("---> Promedio de tokens por fila: " + str(np.mean(result['tokens_row'])))
+    nouns = countInstances(result['nouns'])
+    verbs = countInstances(result['verbs'])
+    # quickPlot(nouns['elements'],nouns['instances'], 5, True)
+    # quickPlot(verbs['elements'],verbs['instances'], 5, True)
     """
     # Reemplazar el nombre de la columna que se quiere evaluar
     a1 = colvals(df, 'el_es_una_pelota_de_fuego')
