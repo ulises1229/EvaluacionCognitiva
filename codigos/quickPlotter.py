@@ -4,7 +4,7 @@ import numpy as np
 from pprint import pprint
 
 import spacy
-from spacy import displacy
+# from spacy import displacy
 
 
 # Load Spanish tokenizer, tagger, parser, NER and word vectors
@@ -51,18 +51,13 @@ def countInstances(array):
     results['instances'] = instances
     return results
 
-# genera un CSV con la lista pasada como param y lo guarda en el directorio raiz, NO lo retorna
-# la lista como param tendra el nombre de las columnas
-def generateCSV(colnames_list, base_dict, filename):
-    pass
-
-# plotea 2 columnas, una de tokens y otra de valores o instancias, se evalua con <= threshold
+# Plotea 2 columnas, una de tokens y otra de valores o instancias, se evalua con <= threshold
 # PARAMS
-# xcol - list
-# ycol - list
+# xcol      - list
+# colname   - str nombre del dato procesado ej. palabras, verbos, etc
+# ycol      - list
 # threshold - valor que evaluara el numero minimo de instancias
-# genCSV - True o False, permite la generacion o no de un CSV de los elementos ignorados por el threshold
-def quickPlot(xcol, ycol, threshold, genCSV):
+def quickPlot(coltitle, xcol, xcolname, ycol, threshold):
     if threshold != None:
         # construir un diccionario con las dos columnas (tokens e instancias). ej:
         # arr = { 'token':instancias,
@@ -71,10 +66,11 @@ def quickPlot(xcol, ycol, threshold, genCSV):
         arr_assoc = {}
         ignored_arr_assoc = {}
         pointer = 0
+
+        # union paralela de dos arreglos ej [1,2,3] + [4,5,6] = [ [1,4],[2,5],[3,6] ]
         for token in xcol:
             arr_assoc[token] = ycol[pointer]
             pointer += 1
-        pointer = 0
 
         # filtrado de values con el threshold
         for key, value in list(arr_assoc.items()):
@@ -84,85 +80,171 @@ def quickPlot(xcol, ycol, threshold, genCSV):
                 del arr_assoc[key]
 
         # impresion de los elementos ignorados por el anterior filtro
-        print(ignored_arr_assoc)
-        # impresion de los elementos ignorados por el anterior filtro
-        # if genCSV == True:
-        #     generateCSV(['Palabra','Instancias'],ignored_arr_assoc,'El _ es una pelota de fuego')
+        pprint(ignored_arr_assoc)
 
         # generacion de la grafica
         sorted_arr_assoc = {key: value for key, value in sorted(arr_assoc.items(), key=lambda item: item[1])}
         plt.bar(sorted_arr_assoc.keys(), sorted_arr_assoc.values())
-        plt.xlabel('Palabras')
+        plt.xlabel(xcolname)
         plt.ylabel('Instancias')
-        plt.title('Frecuencia')
+        plt.title(coltitle + " | " + xcolname)
         plt.show()
     else:
         plt.bar(xcol, ycol)
-        plt.xlabel('Palabras')
+        plt.title(coltitle + " | " + xcolname)
         plt.ylabel('Instancias')
-        plt.title('Frecuencia')
+        plt.title(coltitle)
         plt.show()
-
 
 # funcion que procesa palabras
 def processWords(df, colName):
     results = {}
     column = colvals(df, colName)
+
     # arreglos vacios donde se almacenan: la respuesta sin las stopwords, todos los verbos y todos los sustantivos
     clean_row = []
+    
     sustantivos_total = []
-    verbos_total = []
+    verbos_total      = []
+    adjetivos_total   = []
+    adverbios_total   = []
+    clean_ans         = []
+
     tokens_per_row = []
     total_tokens = 0
     total_tokens_per_row = 0
-    # iterar por cada row de la col
-    for row in range(len(column)):
-    # for row in range(1,10):
+
+    # for row in range(9,10):
+    for row in range(len(column)): # iterar por cada row de la col
         doc = spa_lex(column[row])
-        # print("---> Respuesta: "+str(doc))
+
         # sustantivos = [chunk.text for chunk in doc.noun_chunks] # para evaluar sustantivos con su determinante ej: el tomate
         sustantivos = [token.text for token in doc if token.pos_ == "NOUN"]
-        verbos = [token.lemma_ for token in doc if token.pos_ == "VERB"]
-        # print("---> Sustantivos: ", sustantivos)
-        # print("---> Verbos: ", verbos)
+        verbos =      [token.lemma_ for token in doc if token.pos_ == "VERB"]
+        adjetivos =   [token.lemma_ for token in doc if token.pos_ == "ADJ"]
+        adverbios =   [token.lemma_ for token in doc if token.pos_ == "ADV"]
+
         sustantivos_total.extend(sustantivos)
         verbos_total.extend(verbos)
+        adjetivos_total.extend(adjetivos)
+        adverbios_total.extend(adverbios)
 
         for token in doc:
             total_tokens += 1
             total_tokens_per_row += 1
             if token.is_stop or token.is_punct or token.is_quote or len(token) == 1:
                 pass # stopword
-            elif not token.is_stop and not token.is_punct and not token.is_quote and len(token) > 1 and (token.text in sustantivos or token.text in verbos):
-                # si token no es stop, no es punt, no es comilla, mide mas de 1 y token es sustantivo o token es verbo
-                # print(token)
-                pass # palabra con falta de ortografia
+            # elif not token.is_stop and not token.is_punct and not token.is_quote and len(token) > 1 and (token.text in sustantivos or token.text in verbos):
+            #     # si token no es stop, no es punt, no es comilla, mide mas de 1 y token es sustantivo o token es verbo
+            #     # print(token)
+            #     pass # palabra con falta de ortografia
             else:
                 clean_row.append(token)
         
         tokens_per_row.append(total_tokens_per_row)
-        total_tokens_per_row = 0
+        clean_ans.append(clean_row)
         # print("---> Respuesta limpia: "+str(clean_row))
         # displacy.serve(doc, style="dep")
+        total_tokens_per_row = 0
         clean_row = []
     results['nouns'] = sustantivos_total
     results['verbs'] = verbos_total
+    results['adjts'] = adjetivos_total
+    results['advbs'] = adverbios_total
     results['count'] = total_tokens
     results['tokens_row'] = tokens_per_row
+    results['clean_ans'] = clean_ans
     return results
 
-# if que impide la ejecucion de este script si lo importamos como modulo
-if __name__ == "__main__":
-    # Reemplazar la ruta de abajo para obtener el CSV
-    df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
-    result = processWords(df, "por_que_pelota_que_canta")
-    # print(result)
-    print("---> Total tokens: " + str(result['count']))
-    print("---> Promedio de tokens por fila: " + str(np.mean(result['tokens_row'])))
+# Crea un df de Pandas a partir del conteo de instancias de nouns, verbs, adjts y advbs
+def createDataframe(dataframe,column):
+    result = processWords(dataframe, column)
+
+    # Funciones para graficacion de instancias
     nouns = countInstances(result['nouns'])
     verbs = countInstances(result['verbs'])
-    # quickPlot(nouns['elements'],nouns['instances'], 5, True)
-    # quickPlot(verbs['elements'],verbs['instances'], 5, True)
+    adjts = countInstances(result['adjts'])
+    advbs = countInstances(result['advbs'])
+    
+    # Creacion de DataFrame, tienen que ser de tipo pd.Series para que no haya error si los arreglos son de diferente longitud
+    result_df_dict = {
+        column+"_clean_ans":   pd.Series(result['clean_ans'],name=column+"_clean_ans"),
+        column+"_nouns":       pd.Series(nouns['elements'],  name=column+"_nouns"),
+        column+"_nouns_count": pd.Series(nouns['instances'], name=column+"_nouns_count"),
+        column+"_verbs":       pd.Series(verbs['elements'],  name=column+"_verbs"),
+        column+"_verbs_count": pd.Series(verbs['instances'], name=column+"_verbs_count"),
+        column+"_adjts":       pd.Series(adjts['elements'],  name=column+"_adjts"),
+        column+"_adjts_count": pd.Series(adjts['instances'], name=column+"_adjts_count"),
+        column+"_advbs":       pd.Series(advbs['elements'],  name=column+"_advbs"),
+        column+"_advbs_count": pd.Series(advbs['instances'], name=column+"_advbs_count"),
+        column+"_tokens":      pd.Series(result['count'],    name=column+"_tokens"),
+        column+"_mean_tokens": pd.Series(np.mean(result['tokens_row']), name=column+"_mean_tokens")
+    }
+
+    result_df = pd.concat([
+        result_df_dict[column+'_clean_ans'],
+        result_df_dict[column+'_nouns'],
+        result_df_dict[column+'_nouns_count'],
+        result_df_dict[column+'_verbs'],
+        result_df_dict[column+'_verbs_count'],
+        result_df_dict[column+'_adjts'],
+        result_df_dict[column+'_adjts_count'],
+        result_df_dict[column+'_advbs'],
+        result_df_dict[column+'_advbs_count'],
+        result_df_dict[column+'_tokens'],
+        result_df_dict[column+'_mean_tokens']
+    ], axis=1)
+
+    result_df = pd.DataFrame (result_df_dict, columns = [
+        column+"_clean_ans",
+        column+"_nouns",
+        column+"_nouns_count",
+        column+"_verbs",
+        column+"_verbs_count",
+        column+"_adjts",
+        column+"_adjts_count",
+        column+"_advbs",
+        column+"_advbs_count",
+        column+"_tokens",
+        column+"_mean_tokens"
+    ])
+
+    return result_df
+
+
+if __name__ == "__main__": # if que impide la ejecucion de este script si lo importamos como modulo
+    # Reemplazar la ruta de abajo para obtener el CSV
+    df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
+    col = "por_que_pelota_que_canta"
+
+    # todas las columnas con texto a procesar
+    all_cols = ['por_que_pelota_que_canta', 'explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos', 'por_que_pelota_de_pelos']
+    
+    # se crea el df, es necesario para poder hacer APPEND a el
+    final_df = createDataframe(df, all_cols[0])
+
+    # recorrer todas las columnas excepto la primera, pues ya se proceso y hacer APPEND al df original
+    for col in range(1, len(all_cols)):
+        temporal_df = createDataframe(df, all_cols[col])
+        # temporal_df.to_csv("C:/Users/Drablaguna/Desktop/COUNT_"+str(col)+".csv", index=False)
+        print(temporal_df)
+        # final_df.append(temporal_df, ignore_index=True)
+    
+    # print(final_df)
+    # final_df.to_csv("C:/Users/Drablaguna/Desktop/COUNT.csv", index=False)
+
+    # print("\n======================= SUSTANTIVOS =======================")
+    # quickPlot(col, nouns['elements'], 'Sustantivos', nouns['instances'], 5)
+    # print("\n======================= VERBOS =======================")
+    # quickPlot(col, verbs['elements'], 'Verbos', verbs['instances'], 5)
+    # print("\n======================= ADJETIVOS =======================")
+    # quickPlot(col, adjts['elements'], 'Adjetivos', adjts['instances'], 5)
+    # print("\n======================= ADVERBIOS =======================")
+    # quickPlot(col, advbs['elements'], 'Adverbios', advbs['instances'], 5)
+
+    # print("\n---> Total tokens: " + str(result['count']))
+    # print("---> Promedio de tokens por fila: " + str(np.mean(result['tokens_row'])))
+
     """
     # Reemplazar el nombre de la columna que se quiere evaluar
     a1 = colvals(df, 'el_es_una_pelota_de_fuego')
@@ -172,3 +254,4 @@ if __name__ == "__main__":
     quickPlot(res['elements'],res['instances'], 3, True)
     # quickPlot(res['elements'],res['instances'], None)
     """
+    
