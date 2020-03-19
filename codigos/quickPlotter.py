@@ -157,6 +157,7 @@ def processWords(df, colName):
     return results
 
 # Crea un df de Pandas a partir del conteo de instancias de nouns, verbs, adjts y advbs
+# no es dinamico, hay que agregar nuevas columnas en caso de ser necesario
 def createDataframe(dataframe,column):
     result = processWords(dataframe, column)
 
@@ -181,20 +182,6 @@ def createDataframe(dataframe,column):
         column+"_mean_tokens": pd.Series(np.mean(result['tokens_row']), name=column+"_mean_tokens")
     }
 
-    result_df = pd.concat([
-        result_df_dict[column+'_clean_ans'],
-        result_df_dict[column+'_nouns'],
-        result_df_dict[column+'_nouns_count'],
-        result_df_dict[column+'_verbs'],
-        result_df_dict[column+'_verbs_count'],
-        result_df_dict[column+'_adjts'],
-        result_df_dict[column+'_adjts_count'],
-        result_df_dict[column+'_advbs'],
-        result_df_dict[column+'_advbs_count'],
-        result_df_dict[column+'_tokens'],
-        result_df_dict[column+'_mean_tokens']
-    ], axis=1)
-
     result_df = pd.DataFrame (result_df_dict, columns = [
         column+"_clean_ans",
         column+"_nouns",
@@ -213,37 +200,52 @@ def createDataframe(dataframe,column):
 
 
 if __name__ == "__main__": # if que impide la ejecucion de este script si lo importamos como modulo
-    # Reemplazar la ruta de abajo para obtener el CSV
-    df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/SECUNDARIA_TODO.csv")
-    col = "por_que_pelota_que_canta"
+    df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/SECU_TODO_CLEAN.csv") # reemplazar ruta para otro CSV
 
     # todas las columnas con texto a procesar
-    all_cols = ['por_que_pelota_que_canta', 'explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos', 'por_que_pelota_de_pelos']
+    all_cols = [
+        'por_que_pelota_que_canta',
+        'explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos',
+        'que_otra_cosa_podria_ser_una_pelota_de_pelos',
+        'explica_tu_respuesta_en_la_frase_pelota_de_plata',
+        'c1t',
+        'c2t',
+        'c3t',
+        'c4t',
+        'c5t',
+        'c6t',
+        'que_significa_1',
+        'por_que_crees_que_si_o_no_es_posible_1',
+        'que_significa_2',
+        'por_que_crees_que_si_o_que_no_es_posible_2',
+        'que_significa_3',
+        'por_que_crees_que_si_o_que_no_es_posible_3', #error
+        'que_significa_4',
+        'por_que_crees_que_si_o_que_no_es_posible_4',
+        'que_significa_5',
+        'por_que_crees_que_si_o_que_no_es_posible_5',
+        'que_significa_6',
+        'por_que_crees_que_si_o_que_no_es_posible_6',
+        'que_significa_7',
+        'por_que_crees_que_si_o_que_no_es_posible_7',
+        'que_significa_8',
+        'por_que_crees_que_si_o_que_no_es_posible_8',
+        'que_significa_9',
+        'por_que_crees_que_si_o_que_no_es_posible_9'
+    ]
     
-    # se crea el df, es necesario para poder hacer APPEND a el
-    final_df = createDataframe(df, all_cols[0])
+    # aqui se almacenaran todos los dataframes del conteo de cada columna
+    col_dataframes = []
 
-    # recorrer todas las columnas excepto la primera, pues ya se proceso y hacer APPEND al df original
-    for col in range(1, len(all_cols)):
+    # recorrer todas las columnas y almacenar cada dataframe en col_dataframes
+    for col in range(len(all_cols)):
         temporal_df = createDataframe(df, all_cols[col])
-        # temporal_df.to_csv("C:/Users/Drablaguna/Desktop/COUNT_"+str(col)+".csv", index=False)
-        print(temporal_df)
-        # final_df.append(temporal_df, ignore_index=True)
+        print(temporal_df.head(5))
+        col_dataframes.append(temporal_df)
     
-    # print(final_df)
-    # final_df.to_csv("C:/Users/Drablaguna/Desktop/COUNT.csv", index=False)
-
-    # print("\n======================= SUSTANTIVOS =======================")
-    # quickPlot(col, nouns['elements'], 'Sustantivos', nouns['instances'], 5)
-    # print("\n======================= VERBOS =======================")
-    # quickPlot(col, verbs['elements'], 'Verbos', verbs['instances'], 5)
-    # print("\n======================= ADJETIVOS =======================")
-    # quickPlot(col, adjts['elements'], 'Adjetivos', adjts['instances'], 5)
-    # print("\n======================= ADVERBIOS =======================")
-    # quickPlot(col, advbs['elements'], 'Adverbios', advbs['instances'], 5)
-
-    # print("\n---> Total tokens: " + str(result['count']))
-    # print("---> Promedio de tokens por fila: " + str(np.mean(result['tokens_row'])))
+    # se unen todos los dataframes de cada columna en uno solo
+    final_df = pd.concat(col_dataframes, axis=1)
+    final_df.to_csv("C:/Users/Drablaguna/Desktop/WORDCOUNT.csv", index=False)
 
     """
     # Reemplazar el nombre de la columna que se quiere evaluar
