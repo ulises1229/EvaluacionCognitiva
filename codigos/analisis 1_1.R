@@ -8,8 +8,8 @@ prueba <- read_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bas
 
 #reactivo_uno_resp_uno, #reactivo_uno_resp_dos
 resultados <- prueba %>%
-  select(reactivo_tres) %>%
-  count(reactivo_tres, sort = TRUE)
+  select(reactivo_uno_resp_uno) %>%
+  count(reactivo_uno_resp_uno, sort = TRUE)
 resultados
 
 # Creaci???n de datos para la gr???fica
@@ -18,7 +18,7 @@ new_res_one <- subset(resultados, n == 1)
 new_res
 new_res_one
 
-respuestas <- as.vector(new_res$reactivo_tres)
+respuestas <- as.vector(new_res$reactivo_uno_resp_uno)
 
 frecuencias <- as.vector(new_res$n)
 

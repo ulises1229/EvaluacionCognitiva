@@ -26,8 +26,9 @@ print(spacy.explain('nsubj')) #sujeto nominal
 print(spacy.explain('ADP')) #preposición
 print(spacy.explain('nmod')) #modificador del nominal
 print(spacy.explain('obl')) #oblique nominal
+print(spacy.explain('DET')) #determiner, determinador
 #%%
-que_significa_6 = nlp("el lapiz tiene un sabor a madera")
+que_significa_6 = nlp("mi")
 for token in que_significa_6:
     print('Texto: ',token.text,
           '\nLemma: ',token.lemma_,
