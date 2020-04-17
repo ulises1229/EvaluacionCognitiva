@@ -1,0 +1,27 @@
+Shapiro-Wilk normality test
+
+data:  datos$calificacion
+W = 0.9706, p-value = 1.664e-12
+------------------------------------------------------------------------------------------------------------------
+	F test to compare two variances
+
+data:  calificacion by estudios
+F = 0.90477, num df = 427, denom df = 471, p-value = 0.2911
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.7519435 1.0895985
+sample estimates:
+ratio of variances 
+         0.9047747 
+----------------------------------------------------------------------------------------------------------------
+
+	Two Sample t-test
+
+data:  calificacion by estudios
+t = 0.70727, df = 898, p-value = 0.4796
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.3106744  0.6607457
+sample estimates:
+  mean in group primaria mean in group secundaria 
+                14.26402                 14.08898 
