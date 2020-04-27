@@ -132,6 +132,7 @@ def processWords(df, colName):
         for token in doc:
             total_tokens += 1
             total_tokens_per_row += 1
+            # CRITERIO DE CLASIFICACION DE STOPWORD
             if token.is_stop or token.is_punct or token.is_quote or len(token) == 1:
                 pass # stopword
             # elif not token.is_stop and not token.is_punct and not token.is_quote and len(token) > 1 and (token.text in sustantivos or token.text in verbos):
@@ -219,7 +220,7 @@ if __name__ == "__main__": # if que impide la ejecucion de este script si lo imp
         'que_significa_2',
         'por_que_crees_que_si_o_que_no_es_posible_2',
         'que_significa_3',
-        'por_que_crees_que_si_o_que_no_es_posible_3', #error
+        'por_que_crees_que_si_o_que_no_es_posible_3',
         'que_significa_4',
         'por_que_crees_que_si_o_que_no_es_posible_4',
         'que_significa_5',
