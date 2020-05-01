@@ -1,0 +1,12 @@
+
+	Two Sample t-test
+
+data:  suma_total by genero
+t = -3.4458, df = 426, p-value = 0.0006258
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -22.049259  -6.031629
+sample estimates:
+mean in group hombre  mean in group mujer 
+            140.6435             154.6840 
+

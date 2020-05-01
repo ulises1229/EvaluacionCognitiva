@@ -1,39 +1,21 @@
-#Aplicación para conteo de palabras por alumno y realizar prueba T de las medias
-#1.- Leer fila perteneciente a cada alumno
-#2.- Contar las palabras que se encuentren ahí 
-#3.- Sumar cada cifra resultante de cada fila de datos de los alumnos
-#4.- Crear tres data frames, uno con hombres, otro con mujeres, y otro con hombres y mujeres
-#5.- Sacar media de hombres y de mujeres de cifras de palabras
-#6.- Realizar prueba T de estos
-
-#import spacy as sp
 import numpy as np
 import pandas as pd
 import string
 
-#¿cuantos dataframes serían en total?: uno para los hombres de primaria, otro para las mujeres de primaria, y un último de los 2
-#ahora bien, que hay en común entre ellos? 
-#suma total por niño
-#suma total por columna
-#primero hacer cuentas y guardarlas, ¿como? listas? cómo quedaría output esperado?
-
-def count_words(data, col, new_df):
-    total_palabras_col = 0
-    for x in data:
+def count_words(vec, col, dataframe):
+    list_of_count = []
+    for x in vec:
         if x == 'NS' or x == '0' or x == 'NN' or x == 'WW' or x == '-':
-            pass
+            res = 0
+            list_of_count.append(res)
         else:
-            print("Oración: ",x)
             res = sum([i.strip(string.punctuation).isalpha() for i in x.split()]) #res es el conteo limpio de los datos, sin contar los espacios ni las signos
-            print ("Numero de palabras: " +  str(res)) 
-            total_palabras_col += res
-    #print("total de palabras hasta ahora: ", total_palabras_col)
-    total_col = pd.Series(total_palabras_col)
-    new_df[col+'_count_total'] = total_col
-    return total_palabras_col
+            list_of_count.append(res)
+    return list_of_count
 
 def main():
     ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/SECUNDARIA_MUJERES.csv'
+    print('Recopilando datos de: ',ruta_origen)
     df = pd.read_csv(ruta_origen, encoding='latin1') #documento con muestras, modificar valor del argumento encoding por si arroja error al inicio
     cols = [ #empieza prueba 1
         'idPersona',
@@ -67,30 +49,15 @@ def main():
         'que_significa_9', 
         'por_que_crees_que_si_o_que_no_es_posible_9'
     ]
-    tot_values_list = []
+    ruta_destino = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/conteo_secundaria_mujeres.csv'
     new_df = pd.DataFrame()
     for sent in cols:
-        new_col = pd.Series(df[sent])
-        new_df[sent] = new_col
-       #print(new_df)
         if sent != 'idPersona' and sent != 'sexo':
-            tot = count_words(df[sent], sent, new_df)
-            tot_values_list.append(tot)
-            #print('lista de palabras: ',tot_values_list)
-        else:
-            pass
-    ruta_destino = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/counteo_secundaria_mujeres.csv' #cambiar ruta destino al gusto
-    array_numpy = np.array(tot_values_list)
-    mean = pd.Series(np.mean(array_numpy))
-    values = pd.Series(tot_values_list)
-    new_df['lista_de_valores'] = values
-    new_df['promedio_total'] = mean
-    print('CSV obtenido de: ', ruta_origen)
-    print('Generando csv en: ',ruta_destino)
+            list_values = count_words(df[sent], sent, new_df)
+            new_df[sent+'_count'] = pd.Series(list_values)
+    new_df['suma_total'] = new_df.apply(np.sum, axis=1)
+    print('Generando csv en: ', ruta_destino)
     new_df.to_csv(ruta_destino)
-
-
-
 if __name__ == "__main__":
     main()
     

@@ -1,0 +1,12 @@
+
+	Two Sample t-test
+
+data:  suma_total by grado
+t = -4.931, df = 898, p-value = 9.741e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -26.84560 -11.55983
+sample estimates:
+  mean in group primaria mean in group secundaria 
+                147.5981                 166.8008 
+

@@ -1,0 +1,6 @@
+
+	Shapiro-Wilk normality test
+
+data:  datos$suma_total
+W = 0.96452, p-value = 5.557e-14
+

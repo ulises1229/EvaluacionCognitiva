@@ -1,0 +1,12 @@
+
+	F test to compare two variances
+
+data:  suma_total by genero
+F = 1.1259, num df = 215, denom df = 211, p-value = 0.3879
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+ 0.8599335 1.4736499
+sample estimates:
+ratio of variances 
+          1.125912 
+

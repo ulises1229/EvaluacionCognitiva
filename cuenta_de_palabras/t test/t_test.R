@@ -4,28 +4,42 @@ library(tidytext)
 library(Matrix)
 library(ggplot2)
 
-datos <- read.csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/muestras_ttest.csv')
-
+rm(list = ls())
+ruta <- 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/Prueba t de cuenta de palabras/Hombres vs Mujeres_SECUNDARIA/'
+datos <- read.csv(paste0(ruta,'SECU_HOM_MUJ_PALABRAS.csv'))
 View(datos)
 
-ggplot(datos, aes(calificacion, fill = estudios, color = estudios))+
+png(paste0(ruta,'grafica_densidad.png'), width = 800, height = 800, units = "px")
+ggplot(datos, aes(suma_total, fill = genero, color = genero))+
   geom_density(alpha=0.2)+
-  xlim(0,23)
+  xlim(2,400)
+dev.off()
 
-qqnorm(datos$calificacion)
-qqline(datos$calificacion, col="blue")
 
-shapiro.test(datos$calificacion)
+png(paste0(ruta,'grafica_qq_normalidad.png'))
+qqnorm(datos$suma_total)
+qqline(datos$suma_total, col="blue")
+dev.off()
 
-ggplot(datos, aes(estudios, calificacion, fill = estudios, color = estudios))+
+
+sink(paste0(ruta,'test_shapiro_normalidad.txt'))
+print(shapiro.test(datos$suma_total))
+sink()
+
+png(paste0(ruta,'grafica_boxplot.png'))
+ggplot(datos, aes(genero, suma_total, fill = genero, color = genero))+
   geom_boxplot(alpha=0.4)+
   theme(legend.position = "none")
+dev.off()
 
-datos %>%
-  group_by(estudios) %>%
-  summarize(total = n(),
-            promedio_calificaciones = mean(calificacion))
+sink(paste0(ruta,'resumen_general.txt'))
+print(summary(datos$suma_total))
+sink()
 
-var.test(calificacion ~ estudios, data = datos)
+sink(paste0(ruta,'test_de_varianza.txt'))
+print(var.test(suma_total ~ genero, data = datos))
+sink()
 
-t.test(calificacion ~ estudios, data = datos, var.equal = T)
+sink(paste0(ruta, 't_test.txt'))
+print(t.test(suma_total ~ genero, data = datos, var.equal = T))
+sink()
