@@ -28,7 +28,7 @@ def analize(base, comparer):
             results['similarity'].append(simil)
 
 
-# obtengo todos los valores de una columna
+# obtengo todos los valores de dos columnas
 df_base = df[['explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos', 'a5']]
 
 # todas las filas que sean evaluadas con todo menos 3
