@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 import string
+#from hunspell import Hunspell
+#import spacy
 
 def count_words(vec, col, dataframe):
     list_of_count = []
@@ -11,7 +13,9 @@ def count_words(vec, col, dataframe):
         else:
             res = sum([i.strip(string.punctuation).isalpha() for i in x.split()]) #res es el conteo limpio de los datos, sin contar los espacios ni las signos
             list_of_count.append(res)
+          #  word_classification(x)
     return list_of_count
+
 
 def main():
     ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/SECUNDARIA_MUJERES.csv'
@@ -57,10 +61,10 @@ def main():
             new_df[sent+'_count'] = pd.Series(list_values)
     new_df['suma_total'] = new_df.apply(np.sum, axis=1)
     print('Generando csv en: ', ruta_destino)
-    new_df.to_csv(ruta_destino)
+    #new_df.to_csv(ruta_destino)
 if __name__ == "__main__":
     main()
-    
+    #h = Hunspell('es_MX',hunspell_data_dir='C:/Users/Alex Isasi/AppData/Local/Programs/Python/Python37/Lib/site-packages/dictionaries')    
 
 
 
