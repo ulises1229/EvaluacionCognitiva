@@ -1,0 +1,51 @@
+#Comparaciones conteo total de palabras entre grupos
+
+#1. Todas las mujeres vs. todos los hombres (Primaria y Secundaria juntos)
+#SI hay diferencias significativas. valor_p <.0001
+
+data:  data$total_palabras by data$sexo
+W = 123700, p-value = 6.667e-09
+alternative hypothesis: true location shift is not equal to 0
+
+
+#2. Diferencias_hombres_primaria_vs_hombres_secundaria
+#NO hay diferencias significativas. valor_p <.0001
+
+data:  data3$total_palabras by data3$nivel
+W = 21761, p-value = 0.1984
+alternative hypothesis: true location shift is not equal to 0
+
+
+#3. Diferencias_mujeres_primaria_vs_mujeres_secundaria
+#SI hay diferencias significativas. valor_p <.0001
+
+data:  data4$total_palabras by data4$nivel
+W = 21261, p-value = 7.1e-05
+alternative hypothesis: true location shift is not equal to 0
+
+
+#4. diferencias_hombres_vs_mujeres_primaria
+#SI hay diferencias significativas. valor_p <.0001
+
+data:  data1$total_palabras by data1$sexo
+W = 27292, p-value = 0.0005904
+alternative hypothesis: true location shift is not equal to 0
+
+#5. diferencias_hombres_vs_mujeres_secundaria
+#SI hay diferencias significativas. valor_p <.0001
+
+data:  data2$total_palabras by data2$sexo
+W = 34269, p-value = 7.831e-06
+alternative hypothesis: true location shift is not equal to 0
+
+#6. diferencias_total_primaria_secundaria
+#SI hay diferencias significativas. valor_p <.0001
+
+data:  data$total_palabras by data$nivel
+W = 86221, p-value = 0.0001466
+alternative hypothesis: true location shift is not equal to 0
+
+
+
+
+

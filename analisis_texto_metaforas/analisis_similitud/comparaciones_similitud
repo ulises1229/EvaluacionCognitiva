@@ -1,0 +1,40 @@
+Kruskal-Wallis rank sum test
+
+data:  data1$puntaje_similitud by data1$comparacion
+Kruskal-Wallis chi-squared = 87.755, df =
+3, p-value < 2.2e-16
+
+> 
+> dunn.test(data1$puntaje_similitud,data1$comparacion,method="bonferroni", list=T)
+  Kruskal-Wallis rank sum test
+
+data: x and group
+Kruskal-Wallis chi-squared = 87.7546, df = 3, p-value = 0
+
+
+                           Comparison of x by group                            
+                                 (Bonferroni)                                  
+Col Mean-|
+Row Mean |        3_0        3_1        3_2
+---------+---------------------------------
+     3_1 |  -5.169359
+         |    0.0000*
+         |
+     3_2 |  -6.893103  -2.232951
+         |    0.0000*     0.0767
+         |
+     3_3 |  -9.069554  -5.090120  -2.879175
+         |    0.0000*    0.0000*    0.0120*
+
+
+List of pairwise comparisons: Z statistic (adjusted p-value)
+-------------------------------
+3_0 - 3_1 : -5.169359 (0.0000)*
+3_0 - 3_2 : -6.893103 (0.0000)*
+3_1 - 3_2 : -2.232951 (0.0767)
+3_0 - 3_3 : -9.069554 (0.0000)*
+3_1 - 3_3 : -5.090120 (0.0000)*
+3_2 - 3_3 : -2.879175 (0.0120)*
+
+alpha = 0.05
+Reject Ho if p <= alpha/2

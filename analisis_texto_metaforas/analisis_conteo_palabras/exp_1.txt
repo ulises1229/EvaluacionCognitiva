@@ -1,0 +1,62 @@
+getwd()
+
+rm(data)
+
+data<-read.csv("PRIM_HOM_MUJ_PALABRAS.csv")
+View(data)
+
+data1<-subset(data,genero=="mujer")
+data1
+View(data1)
+
+data2<-subset(data,genero=="hombre")
+data2
+View(data2)
+
+shapiro.test(data1$suma_total)
+
+#Shapiro-Wilk normality test
+
+#data:  data1$suma_total
+#W = 0.96722, p-value = 7.831e-05
+
+qqnorm(data1$suma_total)
+
+shapiro.test(data2$suma_total)
+
+#Shapiro-Wilk normality test
+
+#data:  data2$suma_total
+#W = 0.99343, p-value = 0.4573
+
+shapiro.test(data$suma_total)
+
+#Shapiro-Wilk normality test
+
+#data:  data$suma_total
+#W = 0.98582, p-value = 0.0003423
+
+
+install.packages("psych")
+library(psych)
+
+#pdf("multihist_PRIM_HOM_MUJ_PALABRAS.pdf", width = 15, height = 15, paper = "USr")
+multi.hist(data$suma_total,dcol=c("red","blue"))
+#dev.off()
+
+
+bartlett.test(data$suma_total~data$genero)
+
+#Bartlett test of homogeneity of variances
+
+#data:  data$suma_total by data$genero
+#Bartlett's K-squared = 0.7464, df = 1, p-value = 0.3876
+
+wilcox.test(data$suma_total~data$genero,paired = FALSE)
+
+#Wilcoxon rank sum test with continuity correction
+
+#data:  data$suma_total by data$genero
+#W = 18500, p-value = 0.0005904
+#alternative hypothesis: true location shift is not equal to 0
+

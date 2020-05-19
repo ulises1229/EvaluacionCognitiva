@@ -1,0 +1,10 @@
+grupos,norm_estadistico_w,norm_pvalor,
+todo,0.96452039,5.56E-14,otra d.
+solo_primaria,0.985819159,0.000342313,otra d.
+solo_secundaria,0.975986581,5.18E-07,otra d.
+solo_hombres,0.951746485,1.10E-10,otra d.
+solo_mujeres,0.968804846,2.05E-08,otra d.
+solo_primaria_hombres,0.993434408,0.457319037,normal
+solo_primaria_mujeres,0.967215321,7.83E-05,otra d.
+solo_secundaria_hombres,0.947880449,4.72E-07,otra d.
+solo_secundaria_mujeres,0.985940123,0.01318963,normal
