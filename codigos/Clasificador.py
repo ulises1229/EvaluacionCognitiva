@@ -1,6 +1,8 @@
 import pandas as pd
 import spacy
 import numpy as np
+import sys
+
 
 def classifier(dataframe):
     for col in cols:
@@ -10,7 +12,7 @@ def classifier(dataframe):
         adverbios_count = []
         for row in dataframe[col]:
             print('row: ',row)
-            if row == 'NS' or row == '0' or row == 'NN' or row == 'WW' or row == '-':
+            if row == 'NS' or row == '0' or row == 'NN' or row == 'WW' or row == '-' or row == 'ns':
                 sustantivos_count.append(0)
                 verbos_count.append(0)
                 adjetivos_count.append(0)
@@ -23,13 +25,33 @@ def classifier(dataframe):
                 doc = nlp(row)
                 for word in doc:
                     if word.pos_ == "NOUN":
-                        sustantivos.append(word.text)
+                        sustantivos.append(word.text) 
                     elif word.pos_ == "VERB":
-                        verbos.append(word.text)
+                        #list_lemma_verbos.append(word.lemma_)
+                        verbos.append(word.text) 
                     elif word.pos_ == "ADJ":
-                        adjetivos.append(word.text)
+                        #list_lemma_adjetivos.append(word.lemma_)
+                        adjetivos.append(word.text) 
                     elif word.pos_ == "ADV":
-                        adverbios.append(word.text)
+                        #list_lemma_adverbios.append(word.lemma_)
+                        adverbios.append(word.text) 
+                    if word.pos_ == "PROPN":
+                        print('Analizar con model_x: ', row) #sería doc
+                        doc2 = nlp2(row)
+                        for wrd in doc2:
+                            if wrd.pos_ == "NOUN":
+                                sustantivos.append(wrd.text) 
+                            elif wrd.pos_ == "VERB":
+                                verbos.append(wrd.text) 
+                            elif wrd.pos_ == "ADJ":
+                                adjetivos.append(wrd.text) 
+                            elif wrd.pos_ == "ADV":
+                                adverbios.append(wrd.text) 
+                            print(sustantivos)
+                            print(adjetivos)
+                            print(verbos)
+                            print(adverbios)
+                        #sys.exit("Fin de ejecución")
                 sustantivos_count.append(len(sustantivos))
                 verbos_count.append(len(verbos))
                 adjetivos_count.append(len(adjetivos))
@@ -45,6 +67,12 @@ def classifier(dataframe):
 
 if __name__ == "__main__":
     nlp = spacy.load("es_core_news_md")
+    nlp2 = spacy.load('C:\\Users\\Alex Isasi\\Documents\\model_x')
+    oraciones_propn = []
+    list_palabras_propn = []
+    list_lemma_verbos = []
+    list_lemma_adjetivos = []
+    list_lemma_adverbios = []
     cols = [ #empieza prueba 1
         #'idPersona',
         #'sexo',
@@ -82,7 +110,7 @@ if __name__ == "__main__":
     df_adjetivos = pd.DataFrame()
     df_adverbios = pd.DataFrame()
 
-    ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Primaria/palabras_corregidas_primaria.csv'
+    ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/palabras_corregidas_secundaria.csv'
     df = pd.read_csv(ruta_origen, encoding='latin1') #documento con muestras, modificar valor del argumento encoding por si arroja error al inicio
     classifier(df)
     df_sustantivos['suma_total_sustantivos'] = df_sustantivos.apply(np.sum, axis=1)
@@ -90,8 +118,22 @@ if __name__ == "__main__":
     df_adjetivos['suma_total_adjetivos'] = df_adjetivos.apply(np.sum, axis=1)
     df_adverbios['suma_total_adverbios'] = df_adverbios.apply(np.sum, axis=1)
 
-    df_sustantivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Primaria/General/sustantivos_general_primaria.csv')
-    df_verbos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Primaria/General/verbos_general_primaria.csv')
-    df_adjetivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Primaria/General/adjetivos_general_primaria.csv')
-    df_adverbios.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Primaria/General/adverbios_general_primaria.csv')
+    df_sustantivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/sustantivos_general_secundaria_lemma.csv')
+    df_verbos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/verbos_general_secundaria_lemma.csv')
+    df_adjetivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/adjetivos_general_secundaria_lemma.csv')
+    df_adverbios.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/adverbios_general_secundaria_lemma.csv')
 
+    print("Lista lemma adjetivos: ",list_lemma_adjetivos)
+    print("Lista lemma verbos: ",list_lemma_verbos)
+    print("Lista lemma adverbios: ",list_lemma_adverbios)
+    list_palabras_propn = list(dict.fromkeys(list_palabras_propn))
+
+    with open('palabras_propn.txt', 'w', encoding="latin1") as f:
+        for item in list_palabras_propn:
+            f.write("%s\n" % item)
+    
+    oraciones_propn = list(dict.fromkeys(oraciones_propn))
+    with open('oraciones_propn.txt', 'w', encoding="latin1") as f:
+        for item in oraciones_propn:
+            f.write("%s\n" % item)
+        
