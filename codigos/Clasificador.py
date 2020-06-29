@@ -35,7 +35,11 @@ def classifier(dataframe):
                     elif word.pos_ == "ADV":
                         #list_lemma_adverbios.append(word.lemma_)
                         adverbios.append(word.text) 
-                    if word.pos_ == "PROPN":
+                    elif word.pos_ == "PROPN":
+                        sustantivos = []
+                        verbos = []
+                        adjetivos = []
+                        adverbios = []
                         print('Analizar con model_x: ', row) #sería doc
                         doc2 = nlp2(row)
                         for wrd in doc2:
@@ -47,10 +51,6 @@ def classifier(dataframe):
                                 adjetivos.append(wrd.text) 
                             elif wrd.pos_ == "ADV":
                                 adverbios.append(wrd.text) 
-                            print(sustantivos)
-                            print(adjetivos)
-                            print(verbos)
-                            print(adverbios)
                         #sys.exit("Fin de ejecución")
                 sustantivos_count.append(len(sustantivos))
                 verbos_count.append(len(verbos))
@@ -110,7 +110,7 @@ if __name__ == "__main__":
     df_adjetivos = pd.DataFrame()
     df_adverbios = pd.DataFrame()
 
-    ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/palabras_corregidas_secundaria.csv'
+    ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/codigos/palabras_corregidas.csv'
     df = pd.read_csv(ruta_origen, encoding='latin1') #documento con muestras, modificar valor del argumento encoding por si arroja error al inicio
     classifier(df)
     df_sustantivos['suma_total_sustantivos'] = df_sustantivos.apply(np.sum, axis=1)
@@ -118,10 +118,10 @@ if __name__ == "__main__":
     df_adjetivos['suma_total_adjetivos'] = df_adjetivos.apply(np.sum, axis=1)
     df_adverbios['suma_total_adverbios'] = df_adverbios.apply(np.sum, axis=1)
 
-    df_sustantivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/sustantivos_general_secundaria_lemma.csv')
-    df_verbos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/verbos_general_secundaria_lemma.csv')
-    df_adjetivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/adjetivos_general_secundaria_lemma.csv')
-    df_adverbios.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/adverbios_general_secundaria_lemma.csv')
+    df_sustantivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/sustantivos_general_secundaria_con_x.csv')
+    df_verbos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/verbos_general_secundaria_con_x.csv')
+    df_adjetivos.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/adjetivos_general_secundaria_con_x.csv')
+    df_adverbios.to_csv('C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/cuenta_de_palabras/wilcox_test/Clasificación/Secundaria/General/adverbios_general_secundaria_con_x.csv')
 
     print("Lista lemma adjetivos: ",list_lemma_adjetivos)
     print("Lista lemma verbos: ",list_lemma_verbos)

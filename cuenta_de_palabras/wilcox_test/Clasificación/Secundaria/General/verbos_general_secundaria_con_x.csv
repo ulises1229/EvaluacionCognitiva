@@ -1,0 +1,473 @@
+,apellido_paterno,apellido_materno,nombre,escuela,turno,grado_escolar,grupo,edad,sexo,clean_por_que_pelota_que_canta_cuenta_verbos,clean_explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos_cuenta_verbos,clean_que_otra_cosa_podria_ser_una_pelota_de_pelos_cuenta_verbos,clean_explica_tu_respuesta_en_la_frase_pelota_de_plata_cuenta_verbos,clean_c1t_cuenta_verbos,clean_c2t_cuenta_verbos,clean_c3t_cuenta_verbos,clean_c4t_cuenta_verbos,clean_c5t_cuenta_verbos,clean_c6t_cuenta_verbos,clean_que_significa_1_cuenta_verbos,clean_por_que_crees_que_si_o_no_es_posible_1_cuenta_verbos,clean_que_significa_2_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_2_cuenta_verbos,clean_que_significa_3_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_3_cuenta_verbos,clean_que_significa_4_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_4_cuenta_verbos,clean_que_significa_5_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_5_cuenta_verbos,clean_que_significa_6_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_6_cuenta_verbos,clean_que_significa_7_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_7_cuenta_verbos,clean_que_significa_8_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_8_cuenta_verbos,clean_que_significa_9_cuenta_verbos,clean_por_que_crees_que_si_o_que_no_es_posible_9_cuenta_verbos,suma_total_verbos
+0,ferruzca,morales,moises emmanuel,secundaria tecnica 14,matutino,9,0,15,m,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,2,0,1,1,2,1,1,1,0,1,0,16
+1,garcia,calderon,juan arturo,secundaria tecnica 14,matutino,9,0,14,m,2,1,1,0,0,0,0,1,2,2,0,3,1,1,0,1,0,1,2,0,1,0,1,2,1,1,1,1,26
+2,mrtinez,hernandez,alexis jonathan,secundaria tecnica 14,matutino,9,0,14,m,0,0,0,0,0,0,0,0,1,0,0,3,0,1,0,1,0,1,0,1,0,0,1,2,1,1,2,1,16
+3,serrano,arteaga,leonardo,secundaria tecnica 14,matutino,9,0,14,m,1,1,0,0,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,19
+4,trejo,romero,brandon alejandro,secundaria tecnica 14,matutino,9,0,15,m,2,0,0,1,0,0,0,0,1,7,1,1,1,1,1,0,1,1,0,0,1,2,1,1,1,0,0,1,25
+5,hernandez,perez,santiago,saint agustine school,matutino,7,0,13,m,0,1,0,0,0,0,0,0,1,1,1,2,0,1,0,0,0,1,1,1,0,1,0,2,1,1,2,1,18
+6,espinosa,granados,gustavo,saint agustine school,matutino,8,0,14,m,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,0,1,1,1,2,0,1,10
+7,mendieta,morales,samuel,secundaria tecnica 14,matutino,9,0,14,m,0,1,1,0,2,0,0,0,1,4,2,1,2,0,0,1,0,1,1,0,1,0,2,4,2,0,0,1,27
+8,quevedo,rivera,cesar manuel,secundaria tecnica 14,matutino,9,0,16,m,2,3,0,2,0,0,0,0,1,1,0,0,0,1,1,2,0,1,0,2,2,1,1,3,1,2,1,2,29
+9,mata,castanon,angel yunuel,secundaria tecnica 14,matutino,9,0,14,m,2,1,0,1,1,0,0,0,1,2,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,0,1,2,23
+10,sanchez,rodriguez,jose roberto,secundaria tecnica 14,matutino,9,0,14,m,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,1,1,2,1,1,1,1,17
+11,resendiz,requena,rogelio kevin,secundaria tecnica 14,matutino,9,0,15,m,0,0,0,0,1,0,0,0,0,2,1,1,0,0,0,0,2,2,0,1,1,1,0,0,1,1,0,0,14
+12,garcia,acevedo,bryan,secundaria tecnica 14,matutino,9,0,15,m,1,2,0,0,0,0,0,0,1,1,0,2,0,0,0,1,1,0,1,3,2,1,1,2,1,1,1,1,23
+13,martinez,sanchez,jose antonio,secundaria tecnica 14,matutino,9,0,14,m,0,1,0,2,0,0,2,1,3,3,1,1,2,1,0,1,0,0,0,0,1,1,0,0,1,1,1,1,24
+14,alvarez,alvarez,oscar eduardo,secundaria tecnica 14,matutino,8,b,14,m,0,0,0,0,1,0,0,0,2,0,1,1,0,0,0,0,0,1,1,0,0,1,3,0,1,1,1,0,14
+15,escorza,hernandez,job,secundaria tecnica 14,matutino,7,d,13,m,3,3,0,1,0,0,0,0,1,1,0,3,2,1,0,1,0,1,0,1,1,1,1,0,0,1,1,1,24
+16,arenas,martinez,angel daniel,secundaria tecnica 14,matutino,7,d,12,m,0,1,0,0,0,0,0,0,2,1,0,0,0,1,0,1,0,1,1,2,0,0,1,1,1,1,1,2,17
+17,hernandez,lopez,jonathan alexandro,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,3,1,0,0,1,1,1,0,1,18
+18,gonzalez,linares,christopher mauricio,secundaria tecnica 14,matutino,7,d,13,m,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,0,1,8
+19,pizana,medrano,carlo gerardo,secundaria tecnica 14,matutino,8,b,15,m,2,3,0,0,3,0,0,1,1,0,0,0,0,0,0,1,0,1,0,2,0,0,1,2,0,2,1,0,20
+20,resendiz,rangel,eduardo,secundaria tecnica 14,matutino,8,b,14,m,1,1,0,2,0,0,1,0,0,1,0,1,1,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,14
+21,llamas,valencia,marco antonio,secundaria tecnica 14,matutino,8,b,14,m,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,1,2,13
+22,mendoza,arciga,pablo emiliano,secundaria tecnica 14,matutino,8,b,13,m,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,2,2,1,14
+23,chavez,guerrero,cristian daniel,secundaria tecnica 14,matutino,7,f,12,m,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,8
+24,castro,garcia,brandonjoseph,secundaria tecnica 14,matutino,7,f,12,m,2,1,0,0,0,0,0,1,1,0,1,1,1,2,0,0,1,1,0,1,0,0,2,1,1,1,0,0,18
+25,arroyo,vera,tristan jared,secundaria tecnica 14,matutino,7,f,13,m,1,1,1,0,1,0,0,1,1,1,0,1,0,0,0,0,0,2,1,0,0,1,1,1,1,2,0,6,23
+26,morales,ramirez,emanuel,secundaria tecnica 14,matutino,7,d,13,m,0,1,0,0,0,0,0,0,1,2,0,0,1,0,0,1,0,1,2,0,0,1,1,1,1,1,2,2,18
+27,hernandez,rodriguez,adan,secundaria tecnica 14,matutino,7,d,13,m,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,5
+28,lopez,gonzalez,victor david,secundaria tecnica 14,matutino,7,d,12,m,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,0,0,0,1,1,1,1,1,1,15
+29,maya,acosta,jose manuel,secundaria tecnica 14,matutino,7,f,13,m,0,0,0,0,1,0,1,0,0,1,0,0,2,0,1,1,1,1,0,2,0,2,1,1,1,2,1,2,21
+30,lopez,gonzalez,andres alejandro,secundaria tecnica 14,matutino,7,f,12,m,1,2,0,0,0,0,0,0,0,1,1,1,0,0,0,2,0,0,1,1,1,0,0,0,1,0,1,0,13
+31,yanez,casas,jorg luis,secundaria tecnica 14,matutino,8,b,14,m,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,8
+32,sanchez,vega,juan alejandro,secundaria tecnica 14,matutino,8,b,13,m,1,1,0,1,0,0,0,1,3,2,1,2,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,17
+33,rodriguez,bustamante,salvador,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,5
+34,rodriguez,bustamante,salvador,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,6
+35,hurtado,soto,juan carlos,secundaria tecnica 14,matutino,7,f,13,m,1,0,0,0,0,0,0,0,2,1,0,1,1,2,1,1,0,0,1,0,0,1,1,1,1,1,1,1,18
+36,ferrusca,fonseca,alfredo juian,secundaria tecnica 14,matutino,9,0,14,m,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,2,1,14
+37,huante,conchas,axel fernando,secundaria tecnica 14,matutino,9,0,14,m,1,2,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,1,2,0,1,1,2,17
+38,paredes,larios,andres geovani,secundaria tecnica 14,matutino,9,0,16,m,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,2,2,0,1,1,1,0,2,2,17
+39,diaz,barrera,omar,secundaria tecnica 14,matutino,9,0,14,m,1,1,0,1,0,1,0,1,1,1,0,0,0,1,1,1,0,1,0,2,1,1,1,1,2,1,1,2,23
+40,villalpando,duarte,iker,saint agustin school,matutino,9,0,15,m,1,1,1,2,0,0,0,0,1,1,0,3,0,1,1,3,1,2,1,3,1,0,1,0,2,3,1,3,33
+41,garcia,dominguez,modesto,secundaria tecnica 14,matutino,9,0,14,m,3,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,3,0,0,0,2,2,2,2,1,22
+42,recio,gualito,kevin,secundaria tecnica 14,matutino,9,0,14,m,0,2,0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,1,1,1,1,1,1,0,15
+43,carbajal,nieves,carlos alejandro,secundaria tecnica 14,matutino,8,b,13,m,1,1,0,1,0,0,0,0,1,0,0,4,1,1,1,0,0,1,0,1,2,1,1,1,1,1,0,1,21
+44,gonzales,landaverde,hector cristian,secundaria tecnica 14,matutino,7,d,13,m,3,1,2,1,0,1,0,0,1,1,2,3,0,4,0,5,1,2,1,3,1,2,4,4,1,3,2,4,52
+45,miranda,manzanares,angel,secundaria tecnica 14,matutino,8,b,13,m,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,2,1,0,0,0,1,0,10
+46,lopez,ramirez,jose jesus,secundaria tecnica 14,matutino,7,d,13,m,0,1,2,0,0,0,0,1,1,1,0,0,1,0,1,1,1,0,1,0,0,0,1,0,0,0,1,0,13
+47,mireles bautista,bautista albarado,luis arturo mireles bautista,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,2,9
+48,tovar,valadez,alan,secundaria tecnica 14,matutino,8,e,13,f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,hurtado,galvan,yael santiago,secundaria tecnica 14,matutino,7,f,12,m,5,2,0,1,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,1,0,2,1,2,1,2,1,8,32
+50,ruiz,miranda,kevin eduardo ruiz miranda,secundaria tecnica 14,matutino,8,b,13,m,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,2,0,0,0,0,0,0,1,1,0,1,0,10
+51,rubio,huitron,bryan israel,secundaria tecnica 14,matutino,7,d,13,m,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,6
+52,rubio,huitron,bryan rubio,secundaria tecnica 14,matutino,7,d,13,m,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+53,gonzalez,guerrero,alan gael,secundaria tecnica 14,matutino,9,0,15,m,1,2,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,10
+54,juarez,martinez,juan pablo,secundaria tecnica 14,matutino,9,0,14,m,1,2,0,1,1,0,0,0,2,2,0,0,2,1,2,2,0,1,0,0,0,0,0,0,1,0,1,1,20
+55,cervantes,perez,francisco,saint agustin school,matutino,7,0,12,m,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,ferraro,ramirez,alejandro,saint agustin school,matutino,7,0,12,m,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,2,0,2,0,0,0,1,1,1,1,1,12
+57,arreguin,enciso,ander,saint agustin school,matutino,7,0,13,m,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,2,0,1,2,1,1,2,2,1,19
+58,gonzalez,montemayor,daniel,saint agustin school,matutino,8,0,14,m,0,2,0,2,0,0,0,0,1,1,0,1,1,1,2,1,0,1,0,1,0,2,1,0,1,1,1,1,21
+59,hanessian,rivera,patrick,saint agustin school,matutino,8,0,14,m,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,1,1,1,1,14
+60,urena,cervantes,benjamin,saint agustin school,matutino,9,0,15,m,1,2,0,3,0,0,0,0,1,0,0,1,0,0,0,0,2,0,1,1,1,1,2,0,0,1,1,2,20
+61,perez,macario,jair,secundaria tecnica 14,matutino,9,0,15,m,1,2,0,1,1,0,0,1,2,1,1,2,0,0,1,2,0,2,0,3,0,1,0,0,0,1,0,2,24
+62,hernandez,jimenez,juan alejandro,secundaria tecnica 14,matutino,9,0,15,m,1,3,0,0,0,1,0,1,0,3,3,1,3,0,0,0,1,1,1,1,0,1,2,1,1,1,0,1,27
+63,botello,rodriguez,juan juse,secundaria tecnica 14,matutino,9,0,15,m,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,1,1,1,0,2,1,1,1,0,2,17
+64,ramos,villa,gerardo rafael,secundaria tecnica 14,matutino,9,0,14,m,1,1,0,1,0,0,0,0,1,0,0,2,1,1,0,0,2,0,0,1,0,0,0,2,1,1,1,1,17
+65,cortes,sena,alan,secundaria tecnica 14,matutino,9,0,14,m,1,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,8
+66,de santiago,lopez,david,secundaria tecnica 14,matutino,8,b,13,m,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,6
+67,arreola,reyes,gabriel,secundaria tecnica 14,matutino,8,e,13,m,1,0,0,1,1,1,1,1,2,2,0,0,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,22
+68,lopez,lara,jose martin lopez lara,secundaria tecnica 14,matutino,8,e,13,m,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0,0,0,1,0,1,1,1,1,1,16
+69,balderas,prado,jorge isaac,secundaria tecnica 14,matutino,8,e,13,m,1,1,0,0,0,0,0,0,1,0,1,2,1,1,1,1,0,2,0,2,0,2,1,2,1,1,1,1,23
+70,corona,velazquez,omar,secundaria tecnica 14,matutino,8,e,14,m,6,5,0,18,0,2,2,0,2,2,3,5,1,2,0,3,1,2,1,1,0,3,2,2,1,1,0,1,66
+71,galvan,suarez,emmanuenl,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,0,1,1,1,1,0,1,12
+72,martinez,hernandez,emilio fernando,secundaria tecnica 14,matutino,8,f,14,m,1,0,2,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,9
+73,orozco,yela,ernesto,secundaria tecnica 14,matutino,8,f,13,m,1,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,2,1,0,0,1,1,1,1,2,1,2,19
+74,romero,rico,brian cristopher,secundaria tecnica 14,matutino,8,b,13,m,1,1,0,1,0,0,0,0,0,0,1,1,1,1,1,2,0,0,0,1,0,0,0,0,1,1,0,3,16
+75,hernandez,almanza,diego,secundaria tecnica 14,matutino,8,b,13,m,0,1,0,0,0,0,1,0,2,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1,0,1,1,1,15
+76,robles,hernandez,carlos arturo,secundaria tecnica 14,matutino,8,b,13,m,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,7
+77,gonzalez,gonzalez,jose gerardo,secundaria tecnica 14,matutino,7,f,12,m,2,1,0,1,1,0,1,0,1,0,2,2,1,1,0,2,1,1,0,1,0,0,0,0,0,0,0,1,19
+78,castillo,rodriguez,javier,secundaria tecnica 14,matutino,7,f,12,m,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,2,1,1,1,1,0,12
+79,baltazar,de santiago,benjamin,secundaria tecnica 14,matutino,7,f,13,m,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,7
+80,cuellar,gonzalez,carlos daniel,secundaria tecnica 14,matutino,7,f,13,m,1,1,0,2,0,0,0,1,1,0,1,2,0,2,1,1,0,0,1,1,1,1,1,2,1,1,1,0,23
+81,perez,morales,daniel alejandro,secundaria tecnica 14,matutino,7,d,13,m,2,1,0,0,1,0,1,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1,1,1,1,2,1,3,21
+82,reyes,lemini,bryan adriel lemini rreys,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,0,0,0,0,1,2,0,1,0,1,0,1,1,0,0,0,0,1,1,0,1,1,1,0,14
+83,monroy,delgado,rodolfo alejandro,secundaria tecnica 14,matutino,7,f,13,m,1,1,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,1,1,2,0,1,1,0,1,0,16
+84,lopez,cruz,pablo raul,secundaria tecnica 14,matutino,7,f,12,m,2,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,1,1,1,2,1,1,15
+85,hernandez,martinez,jeremy-roldan,secundaria tecnica 14,matutino,7,f,13,m,1,0,0,0,0,0,0,1,0,2,2,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,13
+86,vazquez,gonzalez,jose luis,secundaria tecnica 14,matutino,8,b,13,m,2,0,0,0,0,1,0,0,3,2,0,2,0,0,0,0,0,2,0,1,0,0,0,0,1,0,1,0,15
+87,soriano,torres,zuri sadahi,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+88,valades,sanchez,diego gael valades sanches,secundaria tecnica 14,matutino,7,d,12,m,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,6
+89,valencia,gonzalez,tony,secundaria tecnica 14,matutino,7,f,12,m,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,9
+90,sanchez,sanchez,carlos hunberto sanchez,secundaria tecnica 14,matutino,7,f,13,m,1,0,0,0,0,0,0,0,1,1,2,1,0,1,0,0,0,0,2,0,0,1,0,0,1,0,1,0,12
+91,hernandez,lopez,josue benjamin hernandezlopez,secundaria tecnica 14,matutino,7,f,13,m,1,1,0,0,2,0,1,1,1,3,2,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,1,0,17
+92,bautista,perez,juan manuel,secundaria tecnica 14,matutino,9,0,14,m,1,1,0,0,0,0,0,0,1,1,1,3,0,1,0,1,0,2,1,2,0,2,1,1,1,1,1,2,24
+93,jimenez,rodriguez,martin,secundaria tecnica 14,matutino,9,0,14,m,1,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0,1,2,0,0,1,1,1,1,1,1,1,17
+94,gonzalez,peon,daniel,saint agustin school,matutino,8,0,14,m,1,0,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0,0,1,1,1,1,2,1,0,16
+95,espinosa,chavez,luis,saint agustin school,matutino,9,0,15,m,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,1,11
+96,campos,menera,gabriel alexis,secundaria tecnica 14,matutino,9,0,14,m,1,0,0,1,0,0,2,0,5,2,1,0,0,1,1,1,1,2,1,1,0,0,3,1,1,1,1,2,29
+97,gutierrez,leon,marco antonio,secundaria tecnica 14,matutino,9,0,14,m,3,1,0,0,2,6,0,2,8,1,0,1,0,0,0,1,0,1,1,1,2,0,0,1,0,0,0,0,31
+98,tinajero,olvera,lino gabriel,secundaria tecnica 14,matutino,9,0,14,m,1,1,0,0,1,2,1,0,1,0,1,1,0,1,0,1,0,1,0,2,1,1,1,0,1,0,1,0,19
+99,flores,vega,luis giovanni,secundaria tecnica 14,matutino,9,0,15,m,2,2,0,1,0,0,0,0,1,2,0,1,2,1,1,2,0,0,1,1,1,1,1,1,0,1,1,1,24
+100,ramirez,galvan,axel elihu,secundaria tecnica 14,matutino,9,0,14,m,3,0,0,0,0,0,0,0,1,2,0,1,0,4,0,1,0,2,0,2,2,1,1,2,1,0,1,1,25
+101,zurita,medina,carlos emilio,secundaria tecnica 14,matutino,9,0,14,m,1,3,0,1,0,0,1,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,20
+102,emmanuel,leon,jimenez,secundaria tecnica 14,matutino,9,0,14,m,8,1,0,0,0,0,4,0,2,1,0,1,1,0,1,1,1,0,4,1,1,1,1,1,2,2,1,1,36
+103,gonzalez,martinez,alan isaaac,secundaria tecnica 14,matutino,8,b,14,m,0,1,0,1,0,0,1,0,2,1,0,0,1,2,0,1,0,1,0,1,1,2,0,0,1,1,1,2,20
+104,ortiz,lopez,jesus giovanni,secundaria tecnica 14,matutino,8,b,13,m,4,1,0,3,0,2,1,0,1,1,0,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,26
+105,hurtado,briseno,juan antonio,secundaria tecnica 14,matutino,8,b,13,m,1,1,0,1,0,0,0,0,1,1,0,1,0,1,0,2,0,1,1,1,1,1,0,1,1,1,1,2,20
+106,florencio,juarez,diegoivan,secundaria tecnica 14,matutino,7,f,13,m,2,0,0,0,0,0,0,0,2,0,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,0,16
+107,guerrero,hernandez,angel gabriel,secundaria tecnica 14,matutino,7,f,13,m,0,1,0,0,1,0,2,0,1,1,3,0,0,0,3,0,4,2,1,0,2,0,3,0,2,0,1,0,27
+108,hernandez,venegas,jose,secundaria tecnica 14,matutino,7,d,13,m,0,1,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0,2,2,1,0,2,1,1,1,1,1,2,20
+109,nieves,ramires,juan antonio nieves ramires,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,1,1,0,16
+110,hernandez,sanchez,luis arturo,secundaria tecnica 14,matutino,8,e,13,m,1,3,0,1,0,0,1,2,3,5,0,0,0,1,0,2,1,0,2,2,0,2,0,0,1,1,2,0,30
+111,mayo,jimenez,jorge antonio,secundaria tecnica 14,matutino,7,f,12,m,1,3,0,0,0,1,3,0,0,4,2,1,1,1,1,2,2,1,2,1,2,1,0,1,1,1,0,1,33
+112,varela,sanchez,guztavo,secundaria tecnica 14,matutino,8,b,14,m,1,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,1,0,0,1,1,0,1,0,0,1,0,10
+113,tamayo,lara,jonathan,secundaria tecnica 14,matutino,7,d,12,m,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,2,1,1,12
+114,suarez,calzoncin,juan alberto,secundaria tecnica 14,matutino,7,f,12,m,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,2,2,0,0,1,1,1,1,21
+115,gomez,gutierrez,esteban,saint agustin school,matutino,8,0,14,m,2,1,0,0,1,1,2,2,0,3,1,1,1,3,1,3,2,4,1,1,2,5,1,1,2,2,1,1,45
+116,rosas,perez,enrique arturo,saint agustin school,matutino,9,0,16,m,1,1,0,0,0,0,1,1,1,1,1,0,1,0,1,3,0,1,0,1,1,1,1,2,0,1,1,1,22
+117,garcia,fernando,carlos eduardo,secundaria tecnica 14,matutino,9,0,14,m,1,0,0,1,2,2,0,0,5,8,0,0,1,1,1,0,1,0,2,1,2,3,1,3,1,1,2,0,39
+118,florencio,rodriguez,daniel,secundaria tecnica 14,matutino,8,b,13,m,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,1,1,0,1,1,3,0,14
+119,bianco,rodriguez,jonathan jesue,secundaria tecnica 14,matutino,7,d,13,m,1,0,0,0,0,1,0,0,0,0,0,0,1,4,1,0,0,0,0,0,0,2,1,1,1,1,0,0,14
+120,cruz,san juan,omar rcardo,secundaria tecnica 14,matutino,7,d,13,m,1,2,0,1,0,0,1,0,2,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,23
+121,paz,soriano,oscar eduardo,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,0,0,0,0,0,1,1,0,1,2,2,1,1,1,1,0,0,1,2,1,1,1,1,1,1,22
+122,jimenez,estrada,angel misael,secundaria tecnica 14,matutino,7,f,12,m,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+123,ramirez,hernandez,kevin raziel,secundaria tecnica 14,matutino,7,d,13,m,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,1,1,1,0,9
+124,lopez,gallardo,julio jesus,secundaria tecnica 14,matutino,7,d,12,m,1,1,0,1,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,21
+125,0,0,oscar,carol baur,matutino,8,b,15,m,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,1,2,0,1,0,1,0,13
+126,0,0,arturo vazquez,carol baur,matutino,8,b,14,m,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,1,0,1,1,0,1,11
+127,0,0,patricio oleszcovski del bosque,carol baur,matutino,9,a,15,m,1,1,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,1,0,1,1,1,2,2,1,1,1,1,19
+128,0,0,david alejandro araiza perez,carol baur,matutino,9,a,16,m,1,2,0,1,0,0,0,0,1,2,1,1,0,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,19
+129,0,0,emilio,carol baur,matutino,9,a,10,m,2,0,0,3,0,0,0,0,3,1,1,1,0,0,0,3,0,0,0,2,1,3,1,0,0,3,2,2,28
+130,0,0,mauro,carol baur,matutino,9,b,15,m,1,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,1,0,1,1,1,1,1,14
+131,0,0,roberto villagomez cano,carol baur,matutino,9,b,15,m,2,3,0,2,1,0,0,0,1,3,0,0,1,1,1,1,0,2,0,1,1,2,2,3,2,5,5,3,42
+132,0,0,franco,carol baur,matutino,7,a,13,m,1,0,0,2,0,0,0,0,0,2,0,1,0,1,0,0,0,1,0,0,0,0,2,1,1,1,1,0,14
+133,0,0,minwoo,carol baur,matutino,8,a,15,m,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,1,0,1,2,1,1,12
+134,0,0,pablo,carol baur,matutino,8,a,14,m,1,2,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,1,1,0,1,0,12
+135,0,0,carlitos,carol baur,matutino,8,b,14,m,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,2,1,1,0,1,1,0,0,12
+136,0,0,sebastian valdes quintero,carol baur,matutino,8,b,15,m,1,1,0,1,0,0,0,1,1,2,0,2,0,0,1,0,0,1,0,0,0,0,1,1,1,2,4,1,21
+137,0,0,axel fernandez zendejas,carol baur,matutino,8,b,14,m,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,2,1,1,0,10
+138,0,0,matias,carol baur,matutino,8,b,13,m,0,1,0,1,1,0,0,0,1,1,1,1,0,1,1,1,0,2,0,1,0,0,1,1,1,1,1,1,19
+139,0,0,eliot becerril garcia,carol baur,matutino,9,a,15,m,1,0,0,2,0,0,0,0,1,1,1,0,1,1,0,1,1,1,0,1,0,2,1,1,1,1,0,1,19
+140,0,0,maurico garcia,carol baur,matutino,9,b,15,m,2,1,0,0,0,0,0,0,0,13,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0,22
+141,0,0,emiliano,carol baur,matutino,7,a,14,m,1,1,0,2,0,0,0,0,0,0,0,1,0,0,2,1,0,1,0,0,0,1,1,0,2,1,2,2,18
+142,0,0,francisco,carol baur,matutino,8,a,14,m,1,1,0,0,0,0,0,0,0,0,0,0,1,3,1,1,0,0,1,1,2,1,0,1,1,1,0,1,17
+143,0,0,alvaro,carol baur,matutino,8,a,14,m,1,3,2,1,0,0,0,0,0,3,2,0,0,2,1,2,0,0,1,1,1,1,3,3,2,1,2,2,34
+144,0,0,jorge sebastian,carol baur,matutino,8,b,14,m,2,1,0,1,0,0,0,0,1,2,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,1,14
+145,0,0,ari bryan morales ramirez,carol baur,matutino,9,a,14,m,1,2,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,17
+146,0,0,juan german picon pinon,carol baur,matutino,9,b,16,m,1,0,0,1,0,0,0,0,1,2,0,1,0,1,0,1,0,1,0,0,0,1,2,0,1,1,1,1,16
+147,0,0,alejandro chapoy,carol baur,matutino,7,b,14,m,1,0,0,2,0,0,1,0,2,1,0,1,1,0,0,1,0,2,0,1,1,3,1,1,2,1,1,1,24
+148,0,0,gilberto,carol baur,matutino,7,a,14,m,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,2,0,0,0,1,2,1,1,1,1,1,15
+149,0,0,chefcito,carol baur,matutino,7,a,13,m,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,7
+150,0,0,luis alberto,carol baur,matutino,7,b,13,m,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,2,1,0,1,1,0,1,1,1,0,14
+151,0,0,juan carlos torres,carol baur,matutino,8,a,14,m,1,1,0,0,0,0,0,2,1,1,0,1,1,1,1,2,0,2,2,2,0,1,3,1,1,1,1,1,27
+152,0,0,guillermo,carol baur,matutino,8,a,15,m,1,1,0,1,0,0,0,0,1,0,0,2,0,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,17
+153,0,0,sebastian anaya,carol baur,matutino,8,b,14,m,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,7
+154,0,0,gerardo,carol baur,matutino,9,a,16,m,1,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3,1,3,1,0,1,0,1,1,1,1,20
+155,0,0,mateus,carol baur,matutino,9,a,15,m,1,1,0,0,0,0,0,0,0,1,2,1,0,1,1,1,1,1,0,1,0,1,0,2,1,1,0,0,17
+156,0,0,josue gastelum medina,carol baur,matutino,9,b,15,m,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,0,8
+157,0,0,juan carlos barrios mendez,carol baur,matutino,7,b,13,m,1,0,0,1,0,0,2,2,0,2,1,1,0,1,0,0,0,0,0,1,1,0,2,1,1,0,1,1,19
+158,0,0,santiago,carol baur,matutino,7,a,14,m,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,1,1,1,0,1,1,12
+159,0,0,santiago del castillo,carol baur,matutino,7,a,15,m,1,1,0,0,0,0,1,0,1,1,0,2,1,2,0,1,1,3,1,2,1,1,1,2,1,3,2,1,30
+160,0,0,ggg mauricio,carol baur,matutino,7,b,14,m,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,1,1,1,2,1,0,13
+161,0,0,joshua,carol baur,matutino,8,a,15,m,2,2,0,1,0,0,0,0,1,0,1,1,1,1,0,1,0,2,0,1,0,1,1,1,1,1,1,1,21
+162,0,0,sebastian del castillo,carol baur,matutino,8,b,15,m,1,1,0,0,0,0,0,0,1,1,0,1,0,2,0,0,1,1,0,1,0,0,1,1,2,0,1,1,16
+163,0,0,santiago,carol baur,matutino,8,b,15,m,0,1,0,1,0,0,0,0,1,1,0,2,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,2,21
+164,0,0,santiago,carol baur,matutino,8,b,15,m,0,1,0,1,0,0,0,0,1,1,0,2,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,2,21
+165,0,0,ciro,carol baur,matutino,9,b,15,m,1,1,0,0,0,0,1,1,0,1,0,1,1,1,1,1,0,1,0,1,2,1,1,1,1,0,2,2,22
+166,0,0,fabian,carol baur,matutino,9,b,16,m,1,2,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,14
+167,0,0,emiliano,carol baur,matutino,9,b,16,m,0,1,0,0,0,0,0,0,0,2,0,1,1,1,1,1,1,0,0,2,2,1,1,2,1,2,1,0,21
+168,0,0,eduardo hernandez,carol baur,matutino,7,b,13,m,0,2,0,1,0,0,0,0,0,1,0,1,0,1,0,2,1,1,0,1,1,2,2,2,1,0,2,1,22
+169,0,0,santiago garcia,carol baur,matutino,7,b,13,m,1,3,0,3,1,1,1,0,2,3,0,2,0,1,0,1,1,1,2,1,12,1,0,1,2,1,1,1,43
+170,0,0,pedro,carol baur,matutino,7,a,14,m,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,2,1,1,1,0,12
+171,0,0,jose ivan,carol baur,matutino,7,a,14,m,1,2,0,2,0,0,1,0,1,1,0,0,0,1,0,2,1,0,0,2,2,1,1,1,0,0,1,1,21
+172,0,0,ricardo antonio,carol baur,matutino,7,b,14,m,1,2,0,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,22
+173,0,0,cesar maciel,carol baur,matutino,8,a,15,m,1,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1,3,21
+174,0,0,aaron,carol baur,matutino,8,b,14,m,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,2,0,2,0,1,1,12
+175,0,0,imanol cancino rodriguez,carol baur,matutino,8,b,15,m,0,1,0,0,0,0,1,0,1,1,1,0,0,1,2,0,1,0,0,0,0,2,0,0,1,0,1,1,14
+176,0,0,mauricio,carol baur,matutino,9,a,15,m,0,1,0,1,0,0,0,1,1,1,1,0,0,2,0,1,0,0,1,1,1,2,1,1,1,1,1,2,21
+177,0,0,raul guillermo,carol baur,matutino,9,b,15,m,1,2,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1,1,15
+178,0,0,rodrigo adame gallo,carol baur,matutino,9,b,15,m,1,1,0,1,0,0,1,1,1,3,0,1,0,1,1,0,0,0,0,2,1,1,1,1,1,1,1,2,23
+179,0,0,esteban martinez aguirre,carol baur,matutino,7,b,13,m,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,2,1,0,0,1,1,2,1,2,17
+180,0,0,alexander,carol baur,matutino,7,a,14,m,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+181,0,0,jaime alexander gastelum medina,carol baur,matutino,7,a,13,m,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,7
+182,0,0,anton,carol baur,matutino,7,b,14,m,1,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,1,0,1,0,0,1,1,1,0,1,1,0,14
+183,0,0,nicholas maya,carol baur,matutino,7,b,15,m,1,1,0,0,0,0,0,0,0,2,0,1,0,1,0,0,1,2,0,1,1,0,1,0,1,1,1,0,15
+184,0,0,emiliano,carol baur,matutino,8,a,15,m,1,1,0,1,0,0,0,0,1,1,0,0,0,0,1,1,1,3,1,1,0,1,0,1,0,1,1,1,18
+185,shin,shin,myungho,international school of queretaro,matutino,7,b,14,m,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+186,hernandez,derbez,pablo emilio,international school of queretaro,matutino,7,a,13,m,0,0,0,1,0,0,0,2,1,1,1,2,0,0,0,1,2,6,1,5,4,4,2,3,1,1,2,1,41
+187,abarca,rodriguez,sebastian homero,international school of queretaro,matutino,7,a,14,m,1,1,0,1,0,0,1,0,0,3,0,2,0,0,0,2,0,1,0,1,1,1,5,1,2,1,2,1,27
+188,quijano,rodriguez,alejandro,international school of queretaro,matutino,8,b,14,m,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,2,2,1,2,1,0,15
+189,luna,manotas,juan felipe,international school of queretaro,matutino,8,c,13,m,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,2,0,0,9
+190,paredes,diaz,gerardo ricardo,international school of queretaro,matutino,8,a,15,m,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,12
+191,villagran,jimenez,diego ramon,international school of queretaro,matutino,7,c,13,m,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,2,1,1,16
+192,hernandez,derbez,jose miguel,international school of queretaro,matutino,7,c,13,m,3,1,0,3,1,0,0,0,2,3,1,0,0,1,1,1,1,0,0,3,1,0,2,2,2,2,1,2,33
+193,ortiz,martinez,oscar ivan,international school of queretaro,matutino,7,a,12,m,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,1,3,0,13
+194,salinas,munoz,marcos,international school of queretaro,matutino,7,b,13,m,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,1,1,1,1,0,12
+195,hernandez,lopez,fernando,international school of queretaro,matutino,7,a,13,m,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,1,0,0,0,10
+196,romero,becker,christian,international school of queretaro,matutino,8,b,15,m,2,3,0,1,0,0,0,1,1,1,0,1,1,1,0,1,2,1,0,0,1,1,2,1,3,0,1,0,25
+197,garnica,garibay,mateo,international school of queretaro,matutino,8,c,13,m,1,1,0,2,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,2,1,0,2,1,1,1,17
+198,barragan,petrie,alejandro,international school of queretaro,matutino,8,a,14,m,1,0,0,1,0,0,0,0,1,3,0,1,0,1,0,0,0,1,0,1,1,0,0,1,1,0,1,0,14
+199,roca,satorre,arnau,international school of queretaro,matutino,7,a,13,m,1,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0,2,1,1,1,1,1,2,18
+200,san roman,castaneda,nicolas,international school of queretaro,matutino,7,a,13,m,1,2,0,0,0,0,0,0,1,0,0,2,0,0,0,1,1,1,0,0,0,0,2,1,0,1,1,1,15
+201,rosales,ramirez,rodrigo,international school of queretaro,matutino,8,c,14,m,1,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,14
+202,rangel,perez,emilio,international school of queretaro,matutino,8,b,15,m,1,2,1,3,0,0,0,0,2,0,0,1,2,4,0,2,0,2,1,2,0,2,1,1,3,4,1,3,38
+203,minghi,vega,mateo,international school of queretaro,matutino,7,a,13,m,1,1,0,2,0,0,0,0,1,9,0,0,0,1,1,0,0,0,0,1,1,1,2,1,2,5,1,7,37
+204,aguilar,rojas,roman,international school of queretaro,matutino,8,b,13,m,1,1,0,0,1,1,0,0,0,1,0,4,1,1,1,1,0,0,0,0,0,2,1,0,1,1,3,1,22
+205,quezada,torres,luis enrique,international school of queretaro,matutino,8,b,15,m,1,1,1,1,0,0,0,0,1,0,2,1,0,0,0,1,0,0,0,2,0,1,2,0,1,2,0,2,19
+206,munoz,garcia,juan,international school of queretaro,matutino,8,b,15,m,3,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,2,0,3,0,0,3,1,0,3,1,0,22
+207,torres,vila,mauricio,international school of queretaro,matutino,7,b,13,m,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,3,1,0,0,1,0,1,1,16
+208,rogers,contreras,daniel edward,international school of queretaro,matutino,7,b,13,m,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,17
+209,juarez,trevino,santiago,international school of queretaro,matutino,8,c,14,m,2,1,0,0,0,0,0,0,0,2,0,1,1,1,0,2,1,1,1,1,0,1,0,1,0,0,1,1,18
+210,gonzalez,lopez,santiago,international school of queretaro,matutino,8,b,13,m,0,2,0,0,0,3,2,2,4,4,1,5,6,1,1,2,1,1,0,2,1,2,1,1,2,1,0,4,49
+211,aranday,alcazar,cesar,international school of queretaro,matutino,8,a,15,m,1,1,0,1,1,0,1,0,1,1,0,0,0,1,0,0,0,2,0,2,1,1,2,1,0,1,1,1,20
+212,lindqvist,-,kyle,international school of queretaro,matutino,7,c,14,m,2,0,1,0,0,0,1,1,2,1,1,3,1,1,0,1,2,1,1,0,4,2,1,1,1,0,1,1,30
+213,corona,ruiz,alvaro,international school of queretaro,matutino,8,c,14,m,2,1,0,0,0,0,0,0,0,2,0,2,0,1,0,4,1,1,1,1,2,2,1,1,1,0,6,1,30
+214,marie,sakyamuni,paul hubert,international school of queretaro,matutino,8,c,13,m,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,2,1,1,1,0,0,1,1,0,1,0,1,0,14
+215,alonzo,medrano,andres eugenio,international school of queretaro,matutino,8,a,15,m,2,1,0,3,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,1,2,1,1,1,1,1,2,22
+216,bobadilla,cabello,emiliano,international school of queretaro,matutino,7,c,13,m,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,2,1,1,1,1,1,1,1,1,18
+217,balderas,bolanos,jaqueline,secundaria tecnica 14,matutino,9,0,16,f,1,1,0,0,0,0,0,0,0,3,1,1,0,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,17
+218,bernabe,estrada,shoenstatt yareli,secundaria tecnica 14,matutino,9,0,14,f,2,1,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,12
+219,gutierrez,calderon,citlali sinai,secundaria tecnica 14,matutino,9,0,14,f,2,0,0,2,0,0,0,1,2,1,2,0,0,0,0,0,1,2,1,0,1,0,2,2,1,0,0,1,21
+220,mendoza,arvizu,brenda gabriela,secundaria tecnica 14,matutino,9,0,14,f,2,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,2,1,0,0,1,1,1,1,1,1,15
+221,villegas,pichardo,ingrid,secundaria tecnica 14,matutino,9,0,15,f,3,0,0,1,0,0,0,0,1,1,0,0,1,2,0,1,1,1,0,0,0,0,0,1,1,1,1,1,17
+222,carmona,ramirez,dulce maria,saint agustine school,matutino,7,0,12,f,2,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,1,1,0,1,0,11
+223,sanchez,sanchez,maria jose,saint agustine school,matutino,8,0,14,f,3,0,0,0,1,0,0,3,0,1,0,2,0,2,0,1,0,2,0,1,1,1,0,1,0,2,0,0,21
+224,maya,ramirez,sara aurora,secundaria tecnica 14,matutino,9,0,15,f,1,2,0,0,0,0,0,0,1,1,0,2,0,0,0,1,0,0,1,0,4,1,1,1,1,2,1,3,23
+225,pimentel,diaz,estrella,secundaria tecnica 14,matutino,9,0,14,f,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,3,9
+226,mendoza,mendoza,monserrat,secundaria tecnica 14,matutino,9,0,14,f,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,3,1,0,1,1,1,2,0,0,13
+227,sanchez,calderon,fabiola,secundaria tecnica 14,matutino,9,0,14,f,1,1,0,1,0,0,0,1,1,1,0,1,0,0,0,0,1,1,1,1,0,2,0,0,1,1,0,0,15
+228,rodriguez,orozco,gabriela,secundaria tecnica 14,matutino,9,0,15,f,1,4,0,0,0,0,0,1,3,2,0,0,0,0,0,1,0,0,1,0,1,1,2,0,1,3,1,1,23
+229,valencia,de la riva,sayuri anaid.,secundaria tecnica 14,matutino,9,0,15,f,0,0,0,1,2,0,0,0,1,3,2,1,2,0,0,0,1,0,0,1,0,0,1,0,2,0,1,0,18
+230,maldonado,capistran,sandra yuritzi,secundaria tecnica 14,matutino,9,0,14,f,3,2,0,1,0,1,0,1,1,1,0,0,0,1,0,2,0,0,1,1,0,1,1,1,1,0,0,0,19
+231,castanon,hernandez,daniela guadalupe,secundaria tecnica 14,matutino,9,0,14,f,2,2,1,1,0,0,0,1,2,2,0,2,0,0,0,1,0,0,1,2,0,0,1,2,1,2,2,1,26
+232,gonzalez,flores,liliana paola,secundaria tecnica 14,matutino,8,b,14,f,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,2,0,1,0,2,0,2,1,1,1,0,0,2,17
+233,apolinar,cardajal,anahi,secundaria tecnica 14,matutino,8,b,14,f,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,5
+234,campos,figueroa,natalia helena,secundaria tecnica 14,matutino,8,b,13,f,1,0,0,1,3,0,0,0,2,2,1,2,0,0,0,1,0,1,1,0,2,1,1,1,1,0,0,0,21
+235,hernandez,reyes,ana paola,secundaria tecnica 14,matutino,8,e,14,f,1,0,0,0,0,0,0,0,2,6,0,1,1,1,0,0,0,1,1,1,1,0,1,1,1,1,1,1,22
+236,centeno,mata,pueblito carolina,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,1,0,1,0,0,2,2,1,0,0,0,0,0,0,0,1,2,1,1,0,1,2,2,0,1,20
+237,gonzalez,cruz,andrea guadalupe,secundaria tecnica 14,matutino,8,e,13,f,2,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,2,1,1,1,1,1,3,1,19
+238,lugo,arriola,jimena,secundaria tecnica 14,matutino,8,e,13,f,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,1,0,1,10
+239,ayla,bautista,ereika jakeline,secundaria tecnica 14,matutino,8,e,13,f,2,2,0,1,0,0,0,0,0,2,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,21
+240,maya,soria,jocelyn,secundaria tecnica 14,matutino,8,e,14,f,4,1,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,12
+241,juares,gonzalez,diana guadalupe juares gonzalez,secundaria tecnica 14,matutino,8,e,14,f,1,0,0,0,0,0,0,0,1,2,0,2,0,0,0,1,0,0,0,0,0,1,1,1,0,2,1,2,15
+242,cruz,martinez,mildred giovanna,secundaria tecnica 14,matutino,7,d,12,f,2,1,0,1,0,0,0,0,2,2,1,2,1,1,0,0,1,1,0,0,2,2,1,2,1,1,0,2,26
+243,chavez,montero,estrella,secundaria tecnica 14,matutino,7,d,13,f,2,3,1,3,1,2,1,2,1,3,2,0,0,0,0,0,0,0,10,0,3,1,1,0,1,1,4,4,46
+244,domingez,fernando,fabiola,secundaria tecnica 14,matutino,7,d,13,f,1,1,0,0,0,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,11
+245,mejia,medina,dana paola,secundaria tecnica 14,matutino,8,b,14,f,1,1,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,1,1,1,1,0,1,2,1,2,3,2,22
+246,hernandez,antonio,perla lucero,secundaria tecnica 14,matutino,8,b,14,f,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,1,0,9
+247,alvarez,ortiz,fatima sofia,secundaria tecnica 14,matutino,7,f,12,f,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,6
+248,flores,rodriguez,ingrid sarai,secundaria tecnica 14,matutino,7,f,13,f,0,1,0,0,0,1,0,3,1,0,1,1,0,1,1,0,0,0,1,1,1,0,1,1,1,1,1,1,19
+249,martinez,gomez,rebeca,secundaria tecnica 14,matutino,7,d,13,f,2,1,0,3,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1,0,1,3,1,1,3,1,4,25
+250,lopez,lopez,fatima,secundaria tecnica 14,matutino,7,d,12,f,0,2,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,4,1,2,0,0,1,1,2,1,2,5,25
+251,sanchez,ledesma,america yatziri,secundaria tecnica 14,matutino,8,e,13,f,2,1,0,0,0,0,0,1,1,3,0,0,1,2,1,0,0,0,2,0,2,2,1,1,2,0,1,1,24
+252,zalazar,mendoza,aranza,secundaria tecnica 14,matutino,8,e,13,f,2,2,2,0,0,0,0,0,0,3,0,1,1,1,0,2,0,1,0,2,0,1,2,3,1,0,0,0,24
+253,rodriguez,aguilar,maria guadalupe rodriguez aguilar,secundaria tecnica 14,matutino,8,e,13,f,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,10
+254,velazquez,gudino,miriam judith,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0,1,2,0,0,0,1,1,0,2,0,2,0,16
+255,medoza,olalde,maria juana,secundaria tecnica 14,matutino,8,e,14,f,1,0,2,1,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,1,15
+256,mejia,vega,liliana,secundaria tecnica 14,matutino,7,f,13,f,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3
+257,ramirrez,gutierrez,daniela,secundaria tecnica 14,matutino,7,f,13,f,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+258,rivera,hernandez,daira,secundaria tecnica 14,matutino,8,b,13,f,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,2,1,1,0,1,2,0,14
+259,sosa,pilar,madai,secundaria tecnica 14,matutino,7,d,12,f,1,0,0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,8
+260,mancilla,gonzalez,zaira paloma,secundaria tecnica 14,matutino,7,d,13,f,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,0,1,1,2,0,1,0,0,1,0,0,14
+261,villa,lugo,dulce estrella,secundaria tecnica 14,matutino,7,d,13,f,1,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,1,2,1,1,1,1,16
+262,vazquez,rodriges,dalia naomi,secundaria tecnica 14,matutino,7,d,13,f,2,1,0,2,1,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,13
+263,rosales,angeles,jocelyn alexandra,secundaria tecnica 14,matutino,7,f,12,f,0,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,2,10
+264,valdes,turrent,ana paula,saint agustin school,matutino,7,0,12,f,1,2,0,1,0,0,0,0,1,2,0,0,0,0,1,2,0,2,0,0,0,2,0,3,2,2,0,3,24
+265,monroy,velazquez,daniela,saint agustin school,matutino,7,0,12,f,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,6
+266,cilveti,correa,maria jose,saint agustin school,matutino,8,0,13,f,3,3,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,4,0,4,1,1,1,2,24
+267,lemus,grados,ana celine,saint agustin school,matutino,8,0,14,f,2,2,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,3,3,2,0,0,2,2,2,3,2,2,30
+268,ramos,arroyo,brenda alejandra,secundaria tecnica 14,matutino,9,0,14,f,1,1,0,2,0,1,4,1,0,3,3,1,0,1,0,0,1,0,0,0,2,0,1,0,1,1,3,1,28
+269,montes,ortiz,maria fernanda,secundaria tecnica 14,matutino,9,0,14,f,1,2,1,0,0,0,0,2,1,1,0,0,1,2,2,1,0,1,1,0,3,0,1,3,3,3,1,4,34
+270,aguas,valdes,areli sofia,secundaria tecnica 14,matutino,9,0,14,f,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,2,1,12
+271,vega,reyes,maria guadalupe,secundaria tecnica 14,matutino,9,0,15,f,1,1,0,1,0,1,0,0,1,2,1,1,2,1,1,0,0,1,0,1,1,0,2,0,0,1,2,1,22
+272,juarez,morales,jennifer,secundaria tecnica 14,matutino,9,0,14,f,0,1,0,2,0,0,0,0,2,4,0,0,0,0,0,1,1,1,0,0,0,2,1,2,1,1,0,3,22
+273,luna,vargas,maria fernanda,secundaria tecnica 14,matutino,9,0,14,f,1,1,0,0,0,0,0,1,1,1,0,1,0,2,0,1,0,0,3,2,1,0,1,1,0,0,0,1,18
+274,garcia,hernandez,maria mayte,secundaria tecnica 14,matutino,8,b,13,f,3,2,0,0,0,0,0,1,1,1,1,0,0,1,0,2,0,2,0,2,0,2,1,1,1,0,0,2,23
+275,correa,correa,cristina,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,1,0,0,0,0,0,3,1,2,0,1,1,0,1,1,2,3,1,2,1,1,4,1,1,1,30
+276,diaz,ramires,carolina,secundaria tecnica 14,matutino,8,e,14,f,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,2,1,2,1,2,0,0,1,0,0,1,1,1,17
+277,hernandez,zarate,shunashi,secundaria tecnica 14,matutino,8,e,14,f,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,2,1,0,1,1,1,1,1,1,1,1,0,3,17
+278,mendoza,mendoza,elizabeth,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,2,0,0,0,0,0,1,0,1,1,2,1,1,1,0,0,0,1,2,1,0,1,1,2,3,23
+279,de jesus,garcia,yamilet,secundaria tecnica 14,matutino,7,d,13,f,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,1,11
+280,castillo,chavez,dannya yohana,secundaria tecnica 14,matutino,7,f,13,f,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,2,2,0,12
+281,garcia,villa,ana maria,secundaria tecnica 14,matutino,7,f,13,f,1,0,0,0,0,0,0,0,0,2,0,1,0,0,1,1,0,3,0,0,0,0,1,1,2,0,1,0,14
+282,morales,soto,itzel alejandra,secundaria tecnica 14,matutino,8,e,13,f,3,1,0,1,0,0,0,0,2,2,0,1,0,1,0,1,0,1,0,1,2,1,1,1,2,4,3,1,29
+283,merida,gomez,montserrat perla,secundaria tecnica 14,matutino,7,f,12,f,0,1,0,0,0,0,0,0,1,2,0,1,2,1,0,0,0,1,1,0,1,1,0,1,2,1,0,1,17
+284,mejia,ortiz,mariana judith,secundaria tecnica 14,matutino,7,f,19,f,1,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,2,0,13
+285,ruiz,montoya,lucia itzamar,secundaria tecnica 14,matutino,7,d,13,f,2,2,0,0,0,0,0,1,2,1,0,1,1,2,0,1,0,2,0,0,1,0,1,1,1,1,2,0,22
+286,vargas,botello,andrea guadalupe,secundaria tecnica 14,matutino,7,f,13,f,1,1,0,0,1,0,0,1,2,3,3,1,0,2,1,1,0,1,2,1,0,0,0,1,2,1,1,2,28
+287,flores,ramirez,brenda alejandra,secundaria tecnica 14,matutino,9,0,14,f,3,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,0,0,1,0,2,0,16
+288,felix,suarez,alejandra,secundaria tecnica 14,matutino,9,0,14,f,1,1,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,9
+289,hernandez,uribe,lucero,secundaria tecnica 14,matutino,9,0,14,f,4,1,0,3,0,0,0,0,1,0,0,2,0,1,0,1,0,2,1,2,0,0,2,2,1,1,2,1,27
+290,rios,anaya,andrea wendolyn,secundaria tecnica 14,matutino,9,0,14,f,1,2,0,1,0,0,0,0,0,1,1,1,1,1,1,0,1,2,0,1,0,1,1,1,0,1,0,1,19
+291,vargas,llamas,vannia cecilia,secundaria tecnica 14,matutino,9,0,14,f,1,0,0,1,3,0,0,0,1,1,1,3,1,0,0,1,0,1,0,1,0,1,0,2,2,1,1,2,24
+292,luna,resendiz,jaqueline,secundaria tecnica 14,matutino,9,0,15,f,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,1,0,0,1,1,2,2,18
+293,loredo,dorantes,fatima,saint agustin school,matutino,7,0,12,f,2,2,0,0,0,0,0,0,1,0,0,3,0,1,2,3,0,4,0,1,1,2,1,1,1,2,1,2,30
+294,urusquieta,raigosa,sofia,saint agustin school,matutino,7,0,13,f,1,1,0,0,0,0,0,0,1,3,2,3,1,3,1,1,2,1,0,1,1,1,0,1,1,2,1,2,30
+295,aguiniga,gutierrez,emily victoria,saint agustin school,matutino,7,0,12,f,0,1,0,0,0,0,0,0,0,0,1,0,0,3,0,0,1,1,0,0,0,0,1,0,1,1,0,0,10
+296,garcia,ortiz,ximena,saint agustin school,matutino,7,0,13,f,1,1,0,1,0,0,0,0,1,0,1,2,0,1,0,1,0,1,1,0,1,0,1,2,1,1,0,1,18
+297,cerecedo,vargas,anna sofia,saint agustin school,matutino,7,0,12,f,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0,1,2,1,0,0,0,1,1,1,1,0,2,1,19
+298,bucio,esquivel,paulinne marie,saint agustin school,matutino,8,0,14,f,1,2,0,1,0,0,0,0,3,1,1,0,1,0,0,1,0,1,0,1,0,0,0,2,2,2,3,0,22
+299,moreno,noriega,nolwen frinette,saint agustin school,matutino,8,0,13,f,2,3,0,1,1,0,0,0,1,3,0,0,0,0,1,3,0,2,1,2,0,3,1,3,2,2,2,1,34
+300,velasco,rodriguez,natalia de jesus,saint agustin school,matutino,8,0,13,f,2,2,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1,0,2,1,1,0,1,16
+301,napoles,vera,ximena danae,saint agustin school,matutino,8,0,14,f,2,2,0,4,0,0,0,0,1,0,0,3,0,1,0,3,0,3,0,3,0,2,1,2,1,2,1,1,32
+302,belmonte,flores,mariela alejandra,saint agustin school,matutino,9,0,15,f,3,1,1,0,0,0,0,0,1,1,0,2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,15
+303,soria,tinoco,valeria,saint agustin school,matutino,9,0,15,f,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,3,0,2,1,2,0,0,3,1,2,2,19
+304,puga,balderas,rita montserrat,secundaria tecnica 14,matutino,9,0,16,f,1,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,0,12
+305,lopez,gudino,daniela,secundaria tecnica 14,matutino,9,0,14,f,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,16
+306,rodriguez,bustamante,noemi,secundaria tecnica 14,matutino,9,0,14,f,4,3,0,3,0,2,0,0,2,2,2,1,0,0,0,1,1,0,0,2,1,1,2,2,1,0,1,1,32
+307,briseno,garcia,carolina,secundaria tecnica 14,matutino,9,0,14,f,3,0,0,1,0,0,0,0,1,0,1,1,0,2,2,1,1,1,0,1,0,0,2,1,0,1,0,1,20
+308,coronel,martinez,liliana,secundaria tecnica 14,matutino,9,0,14,f,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,2,0,0,1,1,1,1,0,0,11
+309,hernandez,hernandez,montserrat,secundaria tecnica 14,matutino,9,0,14,f,1,1,0,2,1,0,1,0,0,1,1,0,1,1,2,1,2,5,0,2,1,0,3,1,1,1,0,1,30
+310,silva,morales,nadia aide,secundaria tecnica 14,matutino,9,0,14,f,1,2,0,1,0,0,0,0,2,0,1,0,2,1,1,1,0,2,1,0,0,1,1,1,2,0,1,1,22
+311,esana,rosas,karen thonatzy,secundaria tecnica 14,matutino,9,0,14,f,1,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,3,2,1,0,1,1,2,2,0,1,1,21
+312,santos,diaz,gabriela,secundaria tecnica 14,matutino,9,0,15,f,1,1,0,1,0,0,1,0,1,1,1,1,1,2,0,1,2,1,2,1,2,1,1,2,1,2,0,0,27
+313,briceno,gonzalez,diana guadalupe,secundaria tecnica 14,matutino,9,0,14,f,8,2,0,4,3,0,0,10,1,0,1,0,1,0,0,2,3,2,0,2,0,1,0,1,2,1,4,1,49
+314,ledezma,martinez,elena,secundaria tecnica 14,matutino,9,0,14,f,1,3,0,0,0,0,0,0,0,2,1,2,3,4,1,1,0,3,1,2,0,2,1,2,1,2,1,1,34
+315,flores,perez,alejandra,secundaria tecnica 14,matutino,8,b,13,f,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,1,5,0,2,2,1,0,0,1,1,1,4,22
+316,bustos,sanchez,tania yunuen,secundaria tecnica 14,matutino,8,b,14,f,1,1,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,1,1,2,0,1,0,1,1,1,1,2,17
+317,galicia,hernandez,daniela,secundaria tecnica 14,matutino,8,e,13,f,1,2,0,0,0,0,0,0,2,2,0,1,0,1,1,1,1,0,1,1,0,0,0,0,1,1,2,1,19
+318,hernandez,rivera,juliana jaqueline,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,0,1,0,1,1,2,1,1,0,1,1,1,1,2,1,0,1,0,1,1,2,1,2,1,0,25
+319,lozano,arteaga,jocelin michelle,secundaria tecnica 14,matutino,8,e,13,f,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,2,9
+320,martinez,balderas,maria guadalupe,secundaria tecnica 14,matutino,8,e,13,f,2,0,0,1,0,0,1,0,1,1,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,11
+321,martinez,salgado,gabriela rubi,secundaria tecnica 14,matutino,8,e,13,f,2,2,0,0,0,0,0,0,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,10
+322,aguilera,camargo,judith paola,secundaria tecnica 14,matutino,7,d,13,f,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,7
+323,ferruzca,morales,wendy ximena,secundaria tecnica 14,matutino,7,d,12,f,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,8
+324,ferrusca,fonseca,brenda jocabec,secundaria tecnica 14,matutino,7,d,12,f,5,2,1,2,0,0,0,0,1,2,2,1,1,2,1,1,1,1,0,2,1,1,2,1,1,1,1,1,34
+325,gonzalez,bedolla,georgina,secundaria tecnica 14,matutino,7,d,13,f,2,1,0,1,1,0,1,0,0,0,0,2,2,1,1,0,1,1,0,0,1,0,1,0,1,0,2,0,19
+326,marcos,martinez,lucia guadalupe,secundaria tecnica 14,matutino,8,b,13,f,4,2,0,2,0,0,0,1,1,1,0,1,0,0,0,2,0,2,1,1,1,1,1,1,1,1,0,2,26
+327,maqueda,sanchez,biridiana,secundaria tecnica 14,matutino,8,b,13,f,2,1,0,0,0,0,0,0,1,1,0,3,0,2,1,1,0,1,1,1,0,1,0,1,1,1,1,0,20
+328,lucio,del rocio,juana perengana,secundaria tecnica 14,matutino,9,h,20,f,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+329,bueno,ramirez,fatima itzel,secundaria tecnica 14,matutino,7,f,12,f,1,1,0,0,0,0,0,0,1,1,1,1,1,1,2,1,0,0,0,0,0,1,0,1,1,0,1,0,15
+330,espino,cruz,julissa itzel,secundaria tecnica 14,matutino,7,f,13,f,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,8
+331,juarez,chico,laura luz,secundaria tecnica 14,matutino,7,d,13,f,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0,13
+332,hernandez,vazquez,naomi,secundaria tecnica 14,matutino,7,d,12,f,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2,0,1,0,0,2,1,1,1,1,1,16
+333,najera,gutierrez,monica ariadna,secundaria tecnica 14,matutino,7,d,13,f,1,2,0,1,0,2,1,0,1,1,1,2,1,1,3,2,2,0,1,1,1,1,3,1,1,2,1,1,34
+334,pena,olvera,america alexandra,secundaria tecnica 14,matutino,8,e,13,f,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,10
+335,perez,gonzalez,alexia dayana,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,0,0,0,0,1,3,1,3,2,0,1,0,2,0,2,1,1,1,1,1,2,1,1,1,5,32
+336,montoya h,henandez,andrea,secundaria tecnica 14,matutino,8,e,14,f,1,1,0,0,0,0,2,0,0,1,0,1,2,1,1,1,0,1,0,1,1,1,1,1,1,1,1,2,22
+337,reseniz,leal,evelin arlette,secundaria tecnica 14,matutino,8,e,13,f,1,4,1,0,0,0,0,0,0,0,0,0,2,1,0,2,2,1,1,2,1,0,1,0,1,0,1,0,21
+338,miranda,villazana,karla,secundaria tecnica 14,matutino,8,e,13,f,3,3,1,2,0,0,2,0,0,5,4,2,0,1,1,2,1,2,0,2,0,2,1,1,1,1,2,2,41
+339,vautista,ortiz perez,maria del carmen,secundaria tecnica 14,matutino,7,f,13,f,1,0,0,0,0,0,2,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7
+340,lopez,mata,karina,secundaria tecnica 14,matutino,7,f,12,f,1,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,7
+341,padilla,nartinez,angla guadalupe,secundaria tecnica 14,matutino,7,f,14,f,0,1,0,0,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+342,valencia,corona,valeria,secundaria tecnica 14,matutino,8,b,13,f,1,1,0,2,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,1,14
+343,santos,fernanda,maria fernanda,secundaria tecnica 14,matutino,8,b,13,f,2,2,0,0,0,0,0,0,1,2,0,2,1,2,0,0,0,2,0,0,0,0,0,1,0,1,0,2,18
+344,zarazua,hernandez,angeles maribel,secundaria tecnica 14,matutino,8,b,14,f,0,1,2,1,0,0,0,0,1,1,1,1,0,0,0,1,2,1,1,1,0,1,1,1,0,1,1,1,20
+345,sanchez,espinoza,maria fernanda,secundaria tecnica 14,matutino,7,d,12,f,1,1,0,0,0,0,2,0,1,1,0,1,0,0,1,0,1,0,1,0,0,0,1,1,1,0,0,0,13
+346,hurtado,terrazas,irene,secundaria tecnica 14,matutino,9,0,14,f,2,1,0,0,0,0,0,0,0,0,1,1,1,0,0,5,1,2,0,0,1,3,2,2,2,1,0,2,27
+347,ramirez,sanchez,estrella isis,secundaria tecnica 14,matutino,9,0,14,f,3,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,16
+348,guevara,rivera,ana paula,saint agustin school,matutino,7,0,13,f,1,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,1,1,1,0,1,0,2,0,0,0,2,16
+349,koh,rangel,pui hui amy,saint agustin school,matutino,7,0,12,f,1,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,0,2,1,1,1,0,1,0,14
+350,ferrusca,ortiz,gala fabiola,saint agustin school,matutino,8,0,13,f,2,1,0,0,0,0,0,0,1,0,0,1,0,1,0,5,0,3,1,3,0,3,1,8,1,3,1,5,40
+351,palacios,garcia,monserrat,secundaria tecnica 14,matutino,9,0,14,f,3,0,0,1,4,0,0,0,4,0,2,0,1,1,1,1,0,2,2,4,0,1,2,1,0,2,1,2,35
+352,de jesus,rodriguez,maria elizabeth,secundaria tecnica 14,matutino,9,0,14,f,3,1,0,1,0,0,0,1,0,1,0,1,1,1,0,3,2,4,2,5,0,3,0,4,1,2,2,3,41
+353,aguilar,ortiz,daniela,saint agustin school,matutino,7,0,13,f,2,0,0,0,0,0,0,0,1,1,0,1,0,0,0,2,1,1,0,0,2,4,0,1,2,1,1,3,23
+354,martinez,duarte,maria fernanda,saint agustin school,matutino,8,0,14,f,2,1,0,0,0,0,1,0,4,1,0,1,1,1,1,2,1,1,1,2,1,1,0,2,1,1,1,3,30
+355,soria,amezcua,cynthia marlen,saint agustin school,matutino,9,0,15,f,1,2,0,0,0,0,0,0,1,4,0,2,0,2,0,3,0,2,0,2,2,2,1,1,1,1,1,2,30
+356,martinez,gutierrez,mariana,secundaria tecnica 14,matutino,9,0,14,f,2,1,0,0,1,2,1,1,2,1,0,0,0,0,1,2,2,1,1,1,2,2,0,1,1,1,1,1,28
+357,roblero,escobar,angyela lucia,secundaria tecnica 14,matutino,9,0,15,f,1,1,0,0,0,0,1,0,0,2,1,1,2,1,0,1,1,0,0,1,1,1,0,0,0,1,1,2,19
+358,sanchez,olvera,fatima miriam,secundaria tecnica 14,matutino,9,0,14,f,1,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,2,0,2,0,2,1,1,1,1,15
+359,silva,palacios,jahmile,secundaria tecnica 14,matutino,9,0,15,f,2,1,0,1,0,0,1,0,1,1,0,1,1,1,0,2,1,1,0,2,5,1,0,1,1,2,1,2,29
+360,de jesus,sanchez,jenifer,secundaria tecnica 14,matutino,8,b,13,f,1,1,0,0,0,0,0,0,0,1,0,0,0,1,2,0,2,1,0,1,0,1,1,2,1,1,1,1,18
+361,gonzalez,ramirez,karla alondra,secundaria tecnica 14,matutino,8,e,14,f,2,3,0,1,0,0,1,1,2,5,0,3,0,1,0,1,1,1,1,1,0,2,0,2,1,1,1,2,33
+362,cornejo,cornejo,fatima,secundaria tecnica 14,matutino,8,e,13,f,1,0,0,2,0,1,0,0,1,1,0,1,1,0,0,1,2,1,1,1,0,1,0,1,1,0,1,1,19
+363,mata,perez,susana paulina,secundaria tecnica 14,matutino,8,e,13,f,0,1,0,0,0,0,1,1,0,2,2,2,0,1,2,0,0,2,0,1,1,2,1,1,1,0,1,1,23
+364,barcenas,morales,nadia carolina,secundaria tecnica 14,matutino,7,d,12,f,1,1,0,0,0,0,0,0,2,1,2,1,0,0,2,1,1,1,1,1,1,0,1,2,1,1,1,1,23
+365,perez,estrada,danna paola,secundaria tecnica 14,matutino,8,e,13,f,2,1,0,0,0,0,0,1,2,1,0,3,0,1,2,1,0,1,0,2,0,2,0,1,1,1,1,1,24
+366,carrillo,ortiz,mabel samantha,saint agustin school,matutino,7,0,12,f,2,1,0,1,0,0,0,0,1,1,0,1,0,1,1,2,1,1,1,1,2,2,2,1,0,2,1,2,27
+367,martinez,duarte,regina,saint agustin school,matutino,7,0,12,f,2,1,1,0,0,0,0,0,2,1,0,0,1,0,1,1,1,0,0,2,1,4,1,1,4,3,5,4,36
+368,munoz,rosa,mariel,saint agustin school,matutino,7,0,12,f,2,1,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,18
+369,yepez,menchaca,mariana,saint agustin school,matutino,8,0,14,f,2,1,0,1,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,2,1,1,1,0,1,1,16
+370,rojas,garcia,ana cristina,secundaria tecnica 14,matutino,9,0,14,f,0,2,0,1,0,0,3,0,10,14,0,1,1,1,0,1,0,1,0,1,0,1,1,1,1,2,2,1,45
+371,rocha,camacho,valeria,secundaria tecnica 14,matutino,9,0,14,f,0,1,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,1,0,1,0,1,1,0,1,2,15
+372,hernandez,perez,maria de los angeles,secundaria tecnica 14,matutino,9,0,14,f,0,1,1,1,0,1,0,0,2,0,1,1,1,3,5,1,0,3,1,4,1,2,1,1,1,1,2,0,35
+373,lara,hernandez,maria guadalupe,secundaria tecnica 14,matutino,8,e,14,f,2,0,0,1,0,0,0,0,2,1,0,1,0,0,0,2,2,0,2,0,1,0,1,1,2,1,1,2,22
+374,martinez,martinez,jocelin,secundaria tecnica 14,matutino,8,e,13,f,2,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0,0,1,1,1,1,2,17
+375,resendiz,de jesus,gilda,secundaria tecnica 14,matutino,8,b,14,f,1,1,0,0,0,0,0,1,1,2,0,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,1,0,17
+376,martinez,diaz,damaris norma,secundaria tecnica 14,matutino,8,b,13,f,1,1,0,0,0,1,0,1,1,1,0,0,1,0,1,0,3,1,1,1,1,1,0,1,1,1,0,1,20
+377,esparza,vega,angela yesenia,secundaria tecnica 14,matutino,7,f,13,f,1,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,1,3,1,1,2,2,1,1,0,2,1,2,24
+378,gonzalez,camacho,daniela,secundaria tecnica 14,matutino,7,f,13,f,2,1,0,0,0,0,1,1,1,1,2,1,0,1,0,1,1,0,2,0,1,0,0,0,0,0,1,0,17
+379,prado,urrea,giselle,secundaria tecnica 14,matutino,7,d,12,f,1,1,0,1,0,1,2,0,1,1,0,0,1,1,0,0,0,2,0,1,1,2,0,1,0,1,0,3,21
+380,rodriguez,orozco,daniela,secundaria tecnica 14,matutino,8,e,13,f,1,0,0,1,0,0,1,1,2,1,0,0,0,2,0,2,1,2,1,2,1,4,1,1,1,1,1,1,28
+381,mondragon,navarrete,dulce andrea,secundaria tecnica 14,matutino,8,e,13,f,1,1,0,0,0,0,0,0,2,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,2,1,1,20
+382,martinez,gonzalez,yareli,secundaria tecnica 14,matutino,7,f,12,f,2,0,0,0,0,0,0,0,1,1,1,2,1,4,1,1,0,0,1,2,5,1,1,1,1,3,1,1,31
+383,trejo,santana,valeria guadalupe,secundaria tecnica 14,matutino,8,b,13,f,1,1,0,1,0,0,1,0,0,1,1,1,1,1,0,0,1,2,0,0,1,0,1,1,1,1,1,1,19
+384,romero,romero,jenny,secundaria tecnica 14,matutino,7,f,12,f,1,0,0,1,0,1,2,1,1,1,1,0,1,1,0,0,2,0,1,1,0,0,0,0,2,1,2,3,23
+385,velazquez,perez,thelma sofia,secundaria tecnica 14,matutino,7,f,12,f,1,1,0,0,0,0,0,0,0,1,0,0,1,1,2,0,1,1,0,1,0,0,0,1,1,0,0,0,12
+386,0,0,isabella ricardez,carol baur,matutino,8,b,14,f,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,15
+387,0,0,evelyn ponce fernandez,carol baur,matutino,8,b,14,f,1,3,0,1,0,0,0,2,1,1,1,0,0,1,1,1,0,1,1,1,0,0,1,0,1,0,2,4,24
+388,0,0,maria jose,carol baur,matutino,9,a,15,f,1,1,0,1,0,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,0,1,0,1,1,0,0,1,14
+389,0,0,natalia lopez salgado,carol baur,matutino,9,b,15,f,1,2,1,3,0,0,0,2,1,0,1,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,17
+390,0,0,sofia arias,carol baur,matutino,9,b,16,f,1,1,0,0,0,0,0,0,2,1,0,1,0,2,0,0,0,1,0,2,1,3,1,3,2,1,3,2,27
+391,0,0,ana sofia,carol baur,matutino,7,b,14,f,2,1,0,1,0,0,0,0,1,1,0,2,0,0,0,1,0,0,0,3,0,1,0,3,2,1,2,2,23
+392,0,0,fatima figueroa,carol baur,matutino,7,b,13,f,2,1,0,0,0,0,0,0,2,1,1,0,0,0,1,0,0,1,0,0,0,0,2,1,3,1,0,1,17
+393,0,0,andrea delgado espinosa,carol baur,matutino,7,a,14,f,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,7
+394,0,0,mariana garza garza,carol baur,matutino,7,a,13,f,2,1,0,2,0,0,0,0,1,1,0,2,0,1,0,1,0,0,0,1,0,1,2,1,2,1,0,0,19
+395,0,0,emilia,carol baur,matutino,7,b,13,f,1,4,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,2,1,0,1,1,2,1,1,1,1,21
+396,0,0,fernanda alatorre,carol baur,matutino,8,a,14,f,0,2,0,1,0,0,0,2,0,4,0,2,1,1,0,1,1,3,1,2,1,2,7,2,8,2,4,2,49
+397,0,0,madian,carol baur,matutino,8,a,13,f,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,2,0,1,1,1,1,0,2,2,2,1,2,0,19
+398,0,0,ana paula ramos varela,carol baur,matutino,9,a,15,f,0,1,0,1,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,10
+399,0,0,ameyalli,carol baur,matutino,9,a,14,f,0,2,0,2,0,0,0,0,0,2,0,1,0,0,0,3,0,1,3,2,1,2,3,0,0,2,1,1,26
+400,0,0,livia dagostin,carol baur,matutino,9,b,15,f,1,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,9
+401,0,0,camila fdz,carol baur,matutino,9,b,14,f,2,1,0,3,0,0,0,0,0,5,0,1,0,1,0,0,0,0,0,2,0,0,0,1,1,2,2,2,23
+402,0,0,ana laura garza garza,carol baur,matutino,9,b,15,f,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,0,0,2,1,0,0,1,2,2,1,1,19
+403,0,0,camila mendez,carol baur,matutino,7,b,14,f,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,1,0,0,1,1,1,1,11
+404,0,0,karla marcial,carol baur,matutino,7,a,12,f,1,1,0,1,0,0,0,1,0,1,1,1,1,0,0,0,2,0,4,0,1,0,0,0,2,1,2,1,21
+405,0,0,arlet velazquez pina,carol baur,matutino,7,a,14,f,1,1,0,1,0,0,0,0,1,2,1,1,0,4,0,1,0,0,0,1,2,1,1,1,2,1,2,2,26
+406,0,0,marisol ramirez gastelum,carol baur,matutino,7,a,13,f,1,0,0,0,0,0,0,0,1,2,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,2,1,0,13
+407,0,0,fernanda,carol baur,matutino,7,b,14,f,2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,0,2,0,11
+408,0,0,camila,carol baur,matutino,8,a,15,f,1,2,0,3,0,0,0,0,2,0,0,0,0,0,0,2,0,0,1,1,1,1,3,0,3,1,2,1,24
+409,0,0,leisa,carol baur,matutino,8,a,15,f,1,0,0,0,2,0,1,0,2,0,0,2,0,2,0,1,0,2,3,3,1,1,1,3,2,1,1,1,30
+410,0,0,fernanda alvarez vargas,carol baur,matutino,8,b,14,f,3,1,0,0,0,0,0,0,1,0,2,0,1,3,0,1,0,0,0,0,0,0,1,2,1,1,1,1,19
+411,0,0,ximena,carol baur,matutino,8,b,15,f,2,1,0,1,0,0,0,0,1,0,0,0,2,2,1,3,0,2,0,2,0,0,0,0,1,1,0,1,20
+412,0,0,luisa cueto,carol baur,matutino,8,b,15,f,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,1,2,1,1,1,2,20
+413,0,0,maria jose badia,carol baur,matutino,9,a,16,f,1,1,0,0,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0,1,1,2,1,2,1,0,17
+414,0,0,anna sophia,carol baur,matutino,9,a,15,f,3,1,0,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,14
+415,0,0,enmisabth angelica,carol baur,matutino,9,b,16,f,1,1,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,2,0,1,1,0,0,1,1,1,1,1,16
+416,0,0,joselyn ortega martinez,carol baur,matutino,7,b,14,f,1,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,1,0,1,0,0,1,2,1,1,13
+417,0,0,camila olesz,carol baur,matutino,7,a,12,f,1,2,0,1,0,0,2,0,0,0,1,2,1,1,0,1,1,1,1,1,0,0,1,2,1,1,2,2,25
+418,0,0,mariajose lopez coss,carol baur,matutino,7,a,14,f,1,3,0,0,1,0,0,2,1,2,1,1,1,2,0,3,0,3,2,3,0,3,1,1,3,2,1,1,38
+419,0,0,diana sofia,carol baur,matutino,8,a,14,f,2,1,1,0,0,0,0,0,0,2,1,0,1,0,0,1,0,1,0,0,0,1,0,1,1,1,1,1,16
+420,0,0,gina,carol baur,matutino,8,b,14,f,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,6
+421,0,0,danna paola sanchez calderon,carol baur,matutino,8,b,15,f,0,1,1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,0,0,0,1,2,0,1,0,1,0,14
+422,0,0,andrea naomi,carol baur,matutino,9,a,15,f,1,1,0,0,0,0,0,0,1,1,1,1,1,1,0,2,0,1,0,1,0,1,0,1,1,0,1,1,17
+423,0,0,kamila colorado,carol baur,matutino,9,b,15,f,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,9
+424,0,0,lorain gonzalez,carol baur,matutino,7,a,12,f,2,0,0,0,0,0,0,0,0,1,0,4,0,1,0,3,0,3,0,2,0,2,1,2,1,1,1,2,26
+425,0,0,cristina,carol baur,matutino,7,b,14,f,1,1,0,1,0,0,1,0,2,3,0,1,1,2,0,0,2,2,1,2,2,2,1,1,1,1,2,2,32
+426,0,0,regina,carol baur,matutino,8,a,14,f,1,2,0,3,0,0,0,0,0,0,1,1,0,1,0,1,0,3,1,1,0,1,0,1,1,1,1,0,20
+427,0,0,jimena,carol baur,matutino,8,a,13,f,2,1,0,1,0,0,0,0,0,1,0,2,0,1,0,1,0,1,0,1,0,0,2,1,1,3,2,6,26
+428,0,0,itzel,carol baur,matutino,8,b,14,f,0,2,0,1,0,0,0,1,3,2,1,1,1,1,0,1,0,0,1,2,1,1,1,2,0,1,2,1,26
+429,0,0,camila hdez,carol baur,matutino,8,b,14,f,2,1,0,1,0,1,0,0,1,1,0,2,0,1,0,1,0,1,1,1,1,2,0,1,0,2,1,3,24
+430,0,0,andrea,carol baur,matutino,9,a,15,f,1,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,0,16
+431,0,0,ana paula diaz,carol baur,matutino,7,b,13,f,1,2,0,1,0,0,0,0,1,1,1,2,0,0,0,1,1,1,0,0,1,1,1,2,2,0,1,3,23
+432,0,0,lorena flores ramos,carol baur,matutino,8,a,15,f,2,1,0,1,0,0,1,0,2,1,0,1,0,1,0,1,1,0,0,1,1,1,1,1,1,2,1,1,22
+433,0,0,maria teresa,carol baur,matutino,8,a,14,f,2,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,1,2,1,1,1,1,1,1,1,19
+434,0,0,paulina mendoza,carol baur,matutino,8,b,15,f,1,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1,1,1,0,2,1,1,0,1,1,2,1,0,19
+435,0,0,ximena,carol baur,matutino,9,a,15,f,0,1,0,0,0,1,0,0,1,1,0,1,1,0,0,3,0,1,0,1,0,1,1,2,1,1,1,1,19
+436,0,0,regina chaires,carol baur,matutino,9,b,15,f,1,3,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,2,2,1,1,1,0,1,2,18
+437,0,0,luz vega rodriguez,carol baur,matutino,8,a,15,f,1,2,0,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,0,2,2,2,0,3,1,2,1,3,29
+438,matozo,choperena,ana sofia,international school of queretaro,matutino,7,b,13,f,1,1,0,2,0,0,0,0,0,1,0,1,1,3,0,2,1,3,0,3,0,1,2,2,1,2,0,1,28
+439,ramirez,carvajal,valeria,international school of queretaro,matutino,8,c,14,f,2,4,0,6,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,2,0,1,2,0,2,1,0,2,27
+440,jimenez,garcia,melissa,international school of queretaro,matutino,8,b,14,f,1,4,0,6,0,0,0,0,2,3,0,1,0,2,0,4,0,0,1,3,1,3,3,0,1,1,1,4,41
+441,ramirez,tapia,ana paula,international school of queretaro,matutino,7,c,14,f,1,1,0,0,0,0,0,0,2,2,1,0,0,0,0,3,1,1,1,1,0,3,1,3,1,1,0,2,25
+442,benavides,aleman,alejandra sofia,international school of queretaro,matutino,7,a,13,f,1,4,0,0,0,0,0,0,2,1,1,1,1,0,0,2,1,0,0,0,0,1,0,1,1,1,2,4,24
+443,kilian,meini,giovanna,international school of queretaro,matutino,8,b,14,f,2,1,0,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0,0,1,0,0,1,1,1,1,1,1,15
+444,marchal,.,noee,international school of queretaro,matutino,8,c,15,f,1,1,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,18
+445,minghi,vega,manuela,international school of queretaro,matutino,7,c,13,f,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,2,12
+446,islas,pineda,ivana,international school of queretaro,matutino,7,c,13,f,0,1,0,0,0,0,0,0,1,1,0,0,0,3,0,0,0,1,0,0,0,0,1,1,1,0,0,2,12
+447,miot,cavelot,raphalle emma,international school of queretaro,matutino,7,c,14,f,1,2,0,1,0,1,0,2,3,2,2,3,1,3,2,15,1,2,2,4,1,4,1,2,2,2,2,2,63
+448,minghi,vega,maria,international school of queretaro,matutino,7,b,13,f,1,0,0,0,0,0,0,0,1,0,1,1,0,2,1,1,0,2,1,1,0,2,1,1,1,1,1,0,19
+449,kang,kang,dongyoun kang,international school of queretaro,matutino,7,a,13,f,3,3,0,0,0,0,0,1,1,1,1,1,0,0,1,2,0,0,1,1,0,0,1,1,1,1,0,1,21
+450,hernandez,vidals,yanelie,international school of queretaro,matutino,8,b,14,f,1,1,0,0,0,0,0,0,2,1,0,1,0,1,1,0,1,1,0,0,0,1,1,2,1,1,1,2,19
+451,sanchez,navarro,alejandra,international school of queretaro,matutino,8,c,15,f,2,1,1,3,0,0,0,0,0,2,0,0,0,1,3,2,3,3,1,2,0,1,2,0,1,1,0,0,29
+452,seo,seo,haneul,international school of queretaro,matutino,8,a,14,f,2,3,0,0,1,0,1,1,1,3,0,0,0,1,1,0,0,2,1,1,1,3,1,1,1,1,1,1,28
+453,perales,jacome,sandra,international school of queretaro,matutino,8,a,13,f,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,9
+454,sendra,altamirano,regina,international school of queretaro,matutino,7,c,13,f,0,1,0,1,0,0,2,0,1,1,1,2,1,1,0,0,0,2,1,0,1,1,1,1,1,0,2,2,23
+455,strewart,no tengo,brianna elise patricia,international school of queretaro,matutino,7,c,13,f,1,0,0,1,0,0,0,1,0,0,1,2,0,1,0,2,1,3,0,1,0,2,1,1,1,1,1,1,22
+456,figueroa,guipzot,camila,international school of queretaro,matutino,7,b,13,f,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,1,9
+457,gamba,ducoing,rebeca,international school of queretaro,matutino,7,b,14,f,1,1,0,0,0,0,0,0,2,0,0,2,0,1,0,2,0,2,0,1,0,1,1,2,1,3,0,1,21
+458,dieguez,gomez,maria fernanda,international school of queretaro,matutino,7,b,14,f,1,2,0,3,0,0,0,0,1,0,1,3,0,1,0,1,0,1,0,1,0,2,1,1,1,0,1,3,24
+459,saldana,ruiz,regina,international school of queretaro,matutino,8,c,15,f,1,1,0,1,0,0,0,0,1,2,0,0,0,0,0,1,0,1,2,1,0,0,1,3,0,1,5,1,22
+460,snyder,salinas,maria fernanda,international school of queretaro,matutino,7,c,14,f,1,1,0,0,0,0,0,0,0,0,1,1,0,1,2,2,1,1,2,1,0,0,1,1,1,2,0,1,20
+461,caballero,rojas,mariana,international school of queretaro,matutino,8,a,13,f,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,0,1,2,1,0,0,1,1,13
+462,cho,cho,yujin,international school of queretaro,matutino,8,a,15,f,2,4,0,0,0,0,1,1,1,0,0,2,0,2,0,1,1,3,1,2,0,2,1,1,1,2,4,3,35
+463,kai,no tengo,minori,international school of queretaro,matutino,8,a,14,f,2,1,1,11,0,0,0,0,0,0,3,3,0,1,4,7,0,3,1,0,0,0,0,2,2,0,3,0,44
+464,loya,cruz,maria jose,international school of queretaro,matutino,7,a,13,f,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,0,1,0,9
+465,ballester,torres,sofia,international school of queretaro,matutino,7,a,13,f,0,1,0,0,0,0,0,0,1,1,0,0,0,2,0,1,1,1,1,0,1,1,1,0,1,1,1,1,16
+466,cervantes,jimenez,andrea miranda,international school of queretaro,matutino,8,b,14,f,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,2,1,0,16
+467,sandoval,jimenez,maria fernanda,international school of queretaro,matutino,8,a,14,f,1,1,0,0,0,0,2,1,4,1,0,1,0,1,0,0,1,0,0,2,4,3,1,1,1,1,1,2,29
+468,park,jo,ana karen sung eun,international school of queretaro,matutino,8,a,15,f,4,1,0,2,0,1,2,1,3,2,1,5,1,3,1,2,1,1,1,0,3,2,1,1,1,2,2,1,45
+469,pliego,villa,celina,international school of queretaro,matutino,7,a,13,f,1,1,0,0,0,0,0,0,0,1,1,2,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,15
+470,hernandez,vera,fernanda,international school of queretaro,matutino,8,b,14,f,4,2,0,2,0,0,0,2,2,1,0,5,0,2,0,5,0,2,0,1,4,1,3,2,1,3,1,4,47
+471,garcia,martinez,jessica,international school of queretaro,matutino,8,a,14,f,2,1,0,3,0,1,0,0,3,1,0,0,0,1,1,4,1,1,0,1,1,2,1,1,1,3,1,1,31
