@@ -93,40 +93,42 @@ if __name__ == "__main__":
     h = Hunspell('es_MX',hunspell_data_dir='C:/Users/Alex Isasi/AppData/Local/Programs/Python/Python37/Lib/site-packages/dictionaries')
     #nlp = spacy.load("es_core_news_md")
     ruta_origen = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/SECU_TODO_CLEAN.csv'
-    ruta_destino = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/palabras_limpias.csv'
+    ruta_destino = 'C:/Users/Alex Isasi/Documents/GitHub/EvaluacionCognitiva/Bases de datos/Secundaria/palabras_limpias_faltante.csv'
     print('Recopilando datos de: ',ruta_origen)
     df = pd.read_csv(ruta_origen, encoding='latin1') #documento con muestras, modificar valor del argumento encoding por si arroja error al inicio
-    cols = [ #empieza prueba 1
-        'idPersona',
-        'sexo',
-        'por_que_pelota_que_canta', #ok
-        'explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos', #ok
-        'que_otra_cosa_podria_ser_una_pelota_de_pelos', #ok
-        'explica_tu_respuesta_en_la_frase_pelota_de_plata', #ok
-        'c1t', #ok
-        'c2t', #ok
-        'c3t', #ok
-        'c4t', #ok 
-        'c5t', #ok
-        'c6t', #ok
-        'que_significa_1', #ok
-        'por_que_crees_que_si_o_no_es_posible_1', #ok
-        'que_significa_2', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_2', #ok
-        'que_significa_3', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_3', #error #ok
-        'que_significa_4', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_4', #ok 
-        'que_significa_5', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_5', #ok
-        'que_significa_6', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_6', #ok
-        'que_significa_7', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_7', #ok
-        'que_significa_8', #ok
-        'por_que_crees_que_si_o_que_no_es_posible_8', #ok
-        'que_significa_9', 
-        'por_que_crees_que_si_o_que_no_es_posible_9'
+    cols = [
+        'por_que_pelota_de_pelos'
+        #empieza prueba 1
+        #'idPersona',
+        #'sexo',
+        #'por_que_pelota_que_canta', #ok
+        #'explica_lo_que_quiere_decir_mi_hermanito_es_una_pelota_de_gritos', #ok
+        #'que_otra_cosa_podria_ser_una_pelota_de_pelos', #ok
+        #'explica_tu_respuesta_en_la_frase_pelota_de_plata', #ok
+        #'c1t', #ok
+        #'c2t', #ok
+        #'c3t', #ok
+       # 'c4t', #ok 
+        #'c5t', #ok
+        #'c6t', #ok
+        #'que_significa_1', #ok
+        #'por_que_crees_que_si_o_no_es_posible_1', #ok
+        #'que_significa_2', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_2', #ok
+        #'que_significa_3', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_3', #error #ok
+        #'que_significa_4', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_4', #ok 
+        #'que_significa_5', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_5', #ok
+        #'que_significa_6', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_6', #ok
+        #'que_significa_7', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_7', #ok
+        #'que_significa_8', #ok
+        #'por_que_crees_que_si_o_que_no_es_posible_8', #ok
+       # 'que_significa_9', 
+        #'por_que_crees_que_si_o_que_no_es_posible_9'
     ]
     my_dict = Dictionary()
     new_df = pd.DataFrame()
