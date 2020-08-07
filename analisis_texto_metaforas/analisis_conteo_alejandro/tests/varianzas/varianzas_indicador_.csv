@@ -1,0 +1,8 @@
+"","variables","bartlett_estadistico","bartlett_pvalor","bartlett_grados","bartlett_conclusion","levene_estadistico","levene_pvalor","levene_conclusion"
+"1","suma_total_sustantivos",81.2351448863421,2.00396295122516e-19,1,"Rechaza hipotesis nula",57.7434643948712,7.51737925879959e-14,"Rechaza hipotesis nula"
+"2","suma_total_verbos",80.3256636916498,3.17518289616601e-19,1,"Rechaza hipotesis nula",35.1323290590248,4.391701853178e-09,"Rechaza hipotesis nula"
+"3","suma_total_adjetivos",57.6183650584362,3.18240326996211e-14,1,"Rechaza hipotesis nula",36.2116114063338,2.57779761938727e-09,"Rechaza hipotesis nula"
+"4","suma_total_adverbios",25.136096062506,5.34234460438949e-07,1,"Rechaza hipotesis nula",12.8757494888133,0.000350909317900315,"Rechaza hipotesis nula"
+"5","total_palabras_clasificadas",126.579861530192,2.29574861908157e-29,1,"Rechaza hipotesis nula",76.7465648011665,9.58918051868669e-18,"Rechaza hipotesis nula"
+"6","total_palabras",99.5785718172743,1.88533308716136e-23,1,"Rechaza hipotesis nula",63.313061075094,5.30948705546603e-15,"Rechaza hipotesis nula"
+"7","gran_total",12.4706890438256,0.000413387576134871,1,"Rechaza hipotesis nula",6.26332745084795,0.0125033533517056,"Rechaza hipotesis nula"

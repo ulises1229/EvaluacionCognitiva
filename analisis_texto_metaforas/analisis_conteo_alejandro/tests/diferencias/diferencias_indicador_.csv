@@ -1,0 +1,8 @@
+"","variables","wilcox_estadistico","wilcox_pvalor","wilcox_conclusion"
+"1","suma_total_sustantivos",91561.5,0.0201365588474062,"Rechaza hipotesis nula"
+"2","suma_total_verbos",90877,0.0123455910646845,"Rechaza hipotesis nula"
+"3","suma_total_adjetivos",83492.5,1.0434237798316e-05,"Rechaza hipotesis nula"
+"4","suma_total_adverbios",98725.5,0.632283945248691,"No puede rechazar hipotesis nula"
+"5","total_palabras_clasificadas",90561.5,0.0098547602552969,"Rechaza hipotesis nula"
+"6","total_palabras",85377,8.99466296154397e-05,"Rechaza hipotesis nula"
+"7","gran_total",66733.5,2.70118974074253e-18,"Rechaza hipotesis nula"
