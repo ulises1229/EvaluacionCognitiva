@@ -1,1 +1,0 @@
-start lexmex.exe
