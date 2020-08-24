@@ -1,30 +1,39 @@
 testing <- function(data, type, r) {
-    
+    #quit(save="default", status = 0, runLast = TRUE)
     if(!dir.exists(type)){
         dir.create(type)
     }
+
     setwd(type)
-    variables <- names(data[,7:13])
+    variables <- names(data[,16:30])
     result <- data.frame(variables)
     test_names <- test_type(type)
-    grupo <- data$nivel
+
         for(test in test_names){
+            cont <- 0
             estadisticos <- c()
             pvalores <- c()
             conclusiones <- c()
             grados <- c()
             
-            for(x in 7:13){
-                var<-as.numeric(na.exclude(as.vector(unlist(data[,x]))))
+            for(x in 16:30){
+                cont <- cont + 1
+                var<-as.vector(unlist(data[,x]))
+                grupo <- as.vector(unlist(data[,cont]))
+                var <- var[!is.na(var)]
+                grupo <- grupo[!is.na(grupo)]
                 obj <- Test(test_type = test, vec_data = var, type = type, grupo = grupo)
                 st <- executioner(obj)
                 def_str <- get_conclusion(st$p.value)
+
                 if(test == 'bartlett'){
                     grados[length(grados)+1] <- st$parameter
                 }
                 estadisticos[length(estadisticos)+1] <- st$statistic
                 pvalores[length(pvalores)+1] <- st$p.value
                 conclusiones[length(conclusiones)+1] <- def_str
+                print(st$statistic)
+                print(st$p.value)
             }
             
             result$stad <- estadisticos
@@ -46,6 +55,17 @@ Test <- function(test_type, vec_data, type, grupo){
     print(value)
 }
 
+is_error <- function(ex){
+    tryCatch(ex,
+             error = function(e){
+                    message("Error, valores retornados en cero:\n", e)
+                    res <- list("p.value" = 0, "statistic" = 0, "parameter" = 0)
+                    return(res)
+             }
+    )
+}
+
+
 executioner <- function(obj) {
     UseMethod("executioner")
 }
@@ -60,7 +80,15 @@ executioner.normalidad <- function(obj) {
         jarque.test(obj$vector_info)
     }
     else if (obj$tipo_test == 'anderson') {
-       ad.test(obj$vector_info)
+        suma <- sum(obj$vector_info != "") 
+        if(suma<=7){
+            result <- list("p.value" = 0, "statistic" = 0)
+            return(result)
+        }
+        else{
+            ad.test(obj$vector_info)
+        }
+        
     }
     else if (obj$tipo_test == 'kolmogorov') {
        lillie.test(obj$vector_info)
@@ -74,27 +102,27 @@ executioner.normalidad <- function(obj) {
     else if (obj$tipo_test == 'shapwilk') {
        shapiro.test(obj$vector_info)
     }
-    #regresar test y dependiendo del test ejecutar otra función desde aqui para 
+    
 }
 
 executioner.varianzas <- function(obj) {
     if(obj$tipo_test == 'bartlett'){
-       test <- bartlett.test(obj$vector_info ~ obj$group)
-       
+        result <- is_error({bartlett.test(obj$vector_info ~ obj$group)})
+        print(result$p.value)
     }
     else if (obj$tipo_test == 'levene') {
-       test <- levene.test(obj$vector_info, obj$group)
+        result <- levene.test(obj$vector_info, obj$group)
     }
-    return(test)
+    return(result)
 }
 
 executioner.diferencias <- function(obj) {
     if(obj$tipo_test == 'wilcox'){
         print('Entra a wilcox')
-        wilcox.test(obj$vector_info ~ obj$group)
+        wilcox.test(obj$vector_info, obj$group)
     }
 }
-    
+
 get_conclusion <- function(p){
     if(p <= 0.05){
         return('Rechaza hipotesis nula')
@@ -105,9 +133,9 @@ get_conclusion <- function(p){
 
 test_type <- function(type) {
     if(type == 'normalidad'){
-        test_names <- c('jarque', 'anderson', 'kolmogorov', 'pearson', 'shapfran', 'shapwilk')
+        test_names <- c('jarque','anderson', 'kolmogorov', 'pearson', 'shapfran', 'shapwilk') 
     } else if (type == 'varianzas') {
-        test_names <- c('bartlett', 'levene')
+        test_names <- c('bartlett') #levene
     } else if (type == 'diferencias') {
        test_names <- c('wilcox')
     }
