@@ -1,0 +1,899 @@
+,que mi hermanito grita mucho,limpio,similarity,wmdistances,n_similarities,distance,1
+0,si. porque canta,['canta'],False,False,False,False,2
+1,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+2,NS,['NS'],False,False,False,False,1
+3,que mi hermano habla y llora mucho,"['hermano', 'llora']",0.27072164,0.0467760107619966,0.32829186,0.935484716668725,3
+4,porque es muy travieso o llora mucho,"['travieso', 'llora']",0.34202784,0.04517254069603631,0.50417924,0.7995870411396027,3
+5,sus hemanos gritan mucho,"['hermanos', 'gritan']",0.37636167,0.045068640532251465,0.587024,0.8051643259823322,3
+6,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+7,porque algunos gritamos cuando queremos,['gritamos'],False,False,False,False,2
+8,es muy irritante y llora mucho,"['irritante', 'llora']",0.28100058,0.04417756825083903,0.39172617,0.8431226462125778,3
+9,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+10,mi hermano es un griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+11,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+12,NS,['NS'],False,False,False,False,1
+13,su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+14,que grita mucho y no para de reir,"['grita', 'reír']",0.668244,0.032122791350467285,0.63773954,0.8510307371616364,3
+15,que su hermano es chillon,"['hermano', 'chillón']",0.21784061,0.04702518017876213,0.30738476,0.9670466724783182,3
+16,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+17,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+18,lenguaje literal,"['lenguaje', 'literal']",False,False,False,False,2
+19,que mi hermano esta gritando,"['hermano', 'gritando']",0.28197762,0.04605592103113118,0.45310497,0.8738200459629297,3
+20,que es griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+21,mi hermano es una pelota que grita mucho,"['hermano', 'pelota', 'grita']",0.51905614,0.030293300670260773,0.60425675,0.9633973501622677,3
+22,porque cuando no le dan algo se enoja y empieza a gritar,"['enoja', 'empieza', 'gritar']",0.4008088,0.048021492288455106,0.5912515,0.7906476557254791,3
+23,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+24,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+25,0,[],False,False,False,False,0
+26,es como cuando grita mucho muy fuerte,"['grita', 'fuerte']",0.5973565,0.03090301618133704,0.5692198,0.8915203660726547,3
+27,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+28,no grita porque no es como su hermano,"['grita', 'hermano']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,1
+29,que se asusta siempre o es muy enojona y grita mucho de furia,"['asusta', 'enojona', 'grita', 'furia']",0.43866968,0.03468124458409644,0.6052917,0.9011772642843425,3
+30,es lloron y es pelota de gritos,"['llorón', 'pelota', 'gritos']",0.32233697,0.04400163904755245,0.4947111,0.8908650502562523,3
+31,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+32,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+33,que bota,['bota'],0.3015542,0.044172939882122786,0.32965043,0.932591050863266,1
+34,que su hermano siempre esta gritando,"['hermano', 'gritando']",0.28197762,0.04605592103113118,0.45310497,0.8738200459629297,3
+35,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+36,que es aburrido,['aburrido'],0.1996172,0.04752229242104667,0.21235228,0.9529004879295826,1
+37,que su hermano siempre o la mayoria de veces grita o llora,"['hermano', 'mayoría', 'grita', 'llora']",0.4654215,0.03345022209128755,0.6046258,0.9113002615049481,3
+38,porque su hermanito es pequeno y grita por eso,"['hermanito', 'pequeño', 'grita']",0.79035825,0.014689457331273258,0.8110508,0.9186737810571989,3
+39,cuando un hermanito grita porque quiere algo,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+40,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,1
+41,si. porque siempre chilla,['chilla'],0.4009888,0.04797249944392849,0.53725517,0.6683789491653442,3
+42,que esta gritando todo el dia,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+43,porque las hermanas por todo se enojan,"['hermanas', 'enojan']",0.2813771,0.04464077402035315,0.44135043,0.830888070166111,3
+44,su hermano es muy travieso,"['hermano', 'travieso']",0.26195315,0.047997546037951,0.38341755,0.9048068914562464,3
+45,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+46,que su hermano es griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+47,es muy escandaloso,['escandaloso'],0.21627086,0.04581402271363992,0.23753607,0.9076169356703758,3
+48,llora por ella ,['llora'],0.35079637,0.045380870698831094,0.3590144,0.8302648663520813,1
+49,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+50,porque esa pelota esta muy poco inflada,"['pelota', 'inflada']",0.36652145,0.046571657303211965,0.40923604,0.930337518453598,1
+51,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+52,una persona que grita mucho,"['persona', 'grita']",0.69413954,0.03124313810532369,0.6832276,0.8396872282028198,3
+53,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+54,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+55,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+56,es un nino griton,"['niño', 'gritón']",0.3431229,0.04629898084522524,0.53251815,0.8067933395504951,3
+57,que mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+58,que es griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+59,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+60,que su hermano es muy griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+61,mi hermano siempre grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+62,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+63,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+64,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+65,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+66,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+67,que es un gordito que grita,"['gordito', 'grita']",0.69620055,0.031042735982137217,0.6558389,0.8245304971933365,3
+68,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+69,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+70,que mi hermano es griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+71,porque se expresa de manera en la que es como llora mucho,"['expresa', 'llora']",0.32419956,0.04263439703496605,0.4537499,0.8595235496759415,3
+72,que es gordo y grita mucho,"['gordo', 'grita']",0.57035685,0.031659394037703396,0.5093061,0.9723247308284044,3
+73,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+74,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+75,que a cada rato grita,"['rato', 'grita']",0.70603997,0.03229101933081209,0.6714142,0.8547987341880798,3
+76,que el hermano es una persona gritona,"['hermano', 'persona', 'gritona']",0.30144352,0.046909271960023535,0.44833302,0.9104298986494541,3
+77,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+78,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+79,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+80,mas o menos le entendi,['entendi'],False,False,False,False,1
+81,que es muy enojon,['enojón'],0.33239627,0.04404902114655238,0.3514654,0.8508727848529816,3
+82,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+83,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+84,NS,['NS'],False,False,False,False,1
+85,que los bebes lloran,"['bebés', 'lloran']",0.38083455,0.045082745570405945,0.5589644,0.7740065604448318,3
+86,que mi hermano grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+87,que su hermano tiene una cabeza redonda y siempre grita,"['hermano', 'cabeza', 'redonda', 'grita']",0.38011774,0.034061433728890936,0.5187576,0.9704639138653874,3
+88,que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+89,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+90,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+91,mi  hermano bebe chilla y grita mucho,"['hermano', 'bebé', 'chilla', 'grita']",0.46893442,0.035840758140309785,0.6354011,0.8834671834483743,3
+92,que mi hermano siempre grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+93,que tu hermano cada vez que salta grita,"['hermano', 'salta', 'grita']",0.43737352,0.03127747521367774,0.48212928,0.970213041951259,3
+94,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+95,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+96,que mi hermanito siempre grita y no suelta la pelota,"['hermanito', 'grita', 'suelta', 'pelota']",0.66324174,0.022700354144887167,0.7864597,0.9086000267416239,3
+97,que su hermanito grita pelotas pelotas,"['hermanito', 'grita', 'pelotas', 'pelotas']",0.6236358,0.022699591569409674,0.68856335,0.8684853259474039,1
+98,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+99,circular comelona,"['circular', 'comelona']",False,False,False,False,2
+100,su hermano grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+101,(dormido),['dormido'],False,False,False,False,1
+102,que grita demasiado,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+103,mi hermana es una pelota de risa,"['hermana', 'pelota', 'risa']",0.39508557,0.04572702498750732,0.60870826,0.8413876816630363,2
+104,NS,['NS'],False,False,False,False,1
+105,que ese hermanito llora mucho y grita mucho,"['hermanito', 'llora', 'grita']",0.7835988,0.016817634944048948,0.7636749,0.8870404089490572,3
+106,que es muy gritona,['gritona'],0.32540452,0.04616129726975682,0.24782684,0.9303606376051903,3
+107,que mi  hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+108,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+109,que su hermano es griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+110,que llora y grita cuando necesita algo,"['llora', 'grita', 'necesita']",0.5242655,0.02966028741343541,0.6273056,0.8836028923590978,3
+111,que es muy divertido y grita mucho,"['divertido', 'grita']",0.61459863,0.03071336087877756,0.57660484,0.9144903644919395,3
+112,que es muy gritona,['gritona'],0.32540452,0.04616129726975682,0.24782684,0.9303606376051903,3
+113,porque esta gordito y es griton,"['gordito', 'gritón']",0.32530499,0.04471863764685471,0.5462071,0.7626022771000862,3
+114,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+115,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+116,si ,[],False,False,False,False,1
+117,si que es un bebe y que le meten un ladrillo por  la boca para callarlo,"['bebé', 'meten', 'ladrillo', 'boca', 'callarlo']",0.2841019,0.049675040926066796,0.33052778,0.9056352525949478,1
+118,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+119,porque grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+120,si porque tal vez asi es y les guste decirle asi,"['guste', 'decirle']",0.23021205,0.04399195253924749,0.36496097,0.9275513403117657,1
+121,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+122,NS,['NS'],False,False,False,False,1
+123,de que mi pelota es muy gritona commo mi hermano,"['pelota', 'gritona', 'commo', 'hermano']",0.29419097,0.04612579328848892,0.3854341,0.967134241014719,1
+124,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+125,que mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+126,que mi  hermano siempre grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+127,que el hermano siempre grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+128,que su hermano rueda,"['hermano', 'rueda']",0.19064693,0.050025113177485155,0.14036883,1.0407045669853687,2
+129,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+130,que es griton y juega con una pelota,"['gritón', 'juega', 'pelota']",0.29335824,0.044227735821439684,0.4913438,0.8605688561995825,2
+131,que es muy jugueton y grita mucho,"['juguetón', 'grita']",0.668899,0.03190325356492228,0.62060857,0.951077975332737,3
+132,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+133,tu hermanito satltara y saltara y no tiene sentido,"['hermanito', 'satltara', 'saltara', 'sentido']",0.6282368,0.030961208746612814,0.5837724,0.9103646837174892,2
+134,que su hermano no para de gritar,"['hermano', 'gritar']",0.30942032,0.04890670922873508,0.43793315,0.9036710057407618,3
+135,que cuando juega con la pelota grita,"['juega', 'pelota', 'grita']",0.540622,0.029724556052239972,0.64511317,0.9018543362617493,2
+136,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+137,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+138,que no puede haber pelotas asi,['pelotas'],0.24727169,0.044247946640098054,0.336475,0.8215424716472626,1
+139,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+140,que cuando rebota suena como un grito,"['rebota', 'suena', 'grito']",0.31507936,0.04553959273200396,0.31875324,0.990903839468956,2
+141,que mi hermanito siempre grita a cada segundo,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+142,una pelota de gritos porque los bebes siempre lloran. gritan. eructan y muchas mas cosas,"['pelota', 'gritos', 'bebés', 'lloran', 'gritan', 'eructan']",0.36392567,0.04470343441230647,0.6620515,0.7851707662145296,3
+143,que su hermano grita mucho y le gusta saltar,"['hermano', 'grita', 'gusta', 'saltar']",0.47744557,0.03741280571281439,0.6791901,0.8789581181481481,3
+144,o sea que chilla mucho,['chilla'],0.4009888,0.04797249944392849,0.53725517,0.6683789491653442,3
+145,que su hermano grita bien alto,"['hermano', 'grita', 'alto']",0.4827268,0.030714569972118334,0.5826529,0.9383040231962999,3
+146,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+147,pues se refiere a que su hermanito es muy griton o grita mucho,"['refiere', 'hermanito', 'gritón', 'grita']",0.6831845,0.02331582765044576,0.8007205,0.8447710182517767,3
+148,que su hermano grita o llora todo el dia,"['hermano', 'grita', 'llora']",0.51381445,0.03061853086563629,0.5685067,0.9300397994617621,3
+149,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+150,porque le encanta gritar,"['encanta', 'gritar']",0.40947315,0.05076217060341067,0.57707816,0.7933090031147003,3
+151,que es muy griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+152,que su hermano es chillon o griton,"['hermano', 'chillón', 'gritón']",0.23129669,0.04501031862769467,0.43029892,0.9097956232726574,3
+153,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+154,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+155,que cuando grita es que quiere algo,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+156,mi hermanito grita porque se eleva la pelota,"['hermanito', 'grita', 'eleva', 'pelota']",0.7888405,0.015330262339668685,0.80453837,0.9203979596495628,2
+157,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+158,que su hermanito grita y es redondo,"['hermanito', 'grita', 'redondo']",0.74694324,0.015587159406240681,0.78610706,0.8817804132898649,2
+159,porque su hermano se la pasa gritando todo el tiempo,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,3
+160,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+161,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+162,que su hermano llora mucho,"['hermano', 'llora']",0.27072164,0.0467760107619966,0.32829186,0.935484716668725,3
+163,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+164,que llora mucho y molesta,"['llora', 'molesta']",0.4294014,0.04196412319002136,0.6167488,0.7750433087348938,3
+165,que su hermano grita muy fuerte diario,"['hermano', 'grita', 'fuerte', 'diario']",0.45262596,0.03336286688677013,0.5985666,0.9210321912541986,3
+166,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+167,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+168,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+169,porque seguramente es un bebe y los bebes gritan y lloran,"['seguramente', 'bebé', 'bebés', 'gritan', 'lloran']",0.37904525,0.04576464479612847,0.66461396,0.7779492616653443,3
+170,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+171,creo que es mi hermano pero  grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+172,que hermanito es un griton. chillon. comelon. etc.,"['hermanito', 'gritón', 'chillón', 'comelón', 'etc.']",0.46725422,0.033470448063719654,0.64455706,0.8929485739208758,3
+173,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+174,que el hermano es travieso y grita mucho,"['hermano', 'travieso', 'grita']",0.5079688,0.031075919107004288,0.5984688,0.9095879159867764,3
+175,que su hermano grita mucho y todo lo que dice tiene que ver con pelotas,"['hermano', 'grita', 'pelotas']",0.47930622,0.030479876735191327,0.5668553,0.9271323345601559,3
+176,que su hermano grita y llora mucho,"['hermano', 'grita', 'llora']",0.51381445,0.03061853086563629,0.5685067,0.9300397994617621,3
+177,que mi hermanita grita,"['hermanita', 'grita']",0.6883217,0.03060988446629692,0.66486883,0.8500299975275993,3
+178,grita siempre me grita,"['grita', 'grita']",1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+179,que un nino llora y grita cuando no le hacen caso o algo asi,"['niño', 'llora', 'grita', 'caso']",0.5044847,0.03429003569779863,0.6672342,0.8593752905726433,3
+180,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+181,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+182,que su hermano es muy enojon,"['hermano', 'enojón']",0.2615216,0.045843074856741606,0.3113681,0.9457886759191751,3
+183,que su hermano grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+184,porque es muy escandalosa,['escandalosa'],0.18888973,0.04640232253151736,0.15648094,1.0233860835433006,3
+185,que se la pasa gritando,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+186,grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+187,que su hermano siempre esta gritando,"['hermano', 'gritando']",0.28197762,0.04605592103113118,0.45310497,0.8738200459629297,3
+188,que es un griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+189,porque llora y grita y hace berrinches,"['llora', 'grita', 'berrinches']",0.5190684,0.029419932288693256,0.580693,0.9071934452901284,3
+190,mi hermanito es un nino que es de lo mejor de lo mejor,"['hermanito', 'niño']",0.71401846,0.03440907018785714,0.64540523,0.8649997748434544,3
+191,porque grita muchas veces,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+192,mi hermano es un griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+193,que su hermano es chico y todavia no puede razonar y todo lo resuelve a gritos ,"['hermano', 'chico', 'razonar', 'resuelve', 'gritos']",0.26829123,0.04523143740314827,0.44186503,0.8946618624031544,3
+194,que mi hermana es una persona de gritos,"['hermana', 'persona', 'gritos']",0.3940956,0.046721440811083426,0.5966846,0.7611225793759028,3
+195,que su hermana todo el tiempo grita,"['hermana', 'grita']",0.7171359,0.0329066861236656,0.6899859,0.8140728622674942,3
+196,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+197,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+198,que llora y grita mucho,"['llora', 'grita']",0.6753982,0.030541419526430143,0.6082816,0.8747074156999588,3
+199,no es una pelota de gritos es namas una pelota para jugar.,"['pelota', 'gritos', 'namas', 'pelota', 'jugar']",0.36425963,0.04486418406649399,0.48383367,0.8916075080633163,1
+200,que mi hermanito esta triste ,"['hermanito', 'triste']",0.62783223,0.03018375070830313,0.62923944,0.8757773078978062,3
+201,que mi hermano pequeno grita muchisimo,"['hermano', 'pequeño', 'grita', 'muchísimo']",0.49396497,0.0345486192877648,0.64103866,0.9322490552440286,3
+202,que mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+203,porque su hermano grita mucho o todo el dia,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+204,que mi hermano nunca deja de gritar,"['hermano', 'deja', 'gritar']",0.2791744,0.04620029983143898,0.45982927,0.8906539045274258,3
+205,que llora. que grita,"['llora', 'grita']",0.6753982,0.030541419526430143,0.6082816,0.8747074156999588,3
+206,que el hermanito bebe siempre grita,"['hermanito', 'bebé', 'grita']",0.7613673,0.016833821908586302,0.7659948,0.9121638710300127,3
+207,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+208,porque todo tiene que ser una pelota,['pelota'],0.36652145,0.046571657303211965,0.40923604,0.930337518453598,1
+209,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+210,mi hermano se la pasa gritando,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,3
+211,que los ninos chicos gritan mucho,"['niños', 'chicos', 'gritan']",0.38880056,0.05270188939441048,0.5881612,0.7150800923506418,3
+212,porque es latoso,['latoso'],0.50072277,0.047096124709969926,0.5311873,0.7949573844671249,3
+213,no para de gritar. o sea yo ,['gritar'],0.4281937,0.05028127880004235,0.511367,0.7666374444961548,3
+214,que mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+215,bueno si es bebe si y  si no tambiengrita y grita,"['bebé', 'tambiengrita', 'grita']",0.642051,0.03231375954548794,0.6059413,0.9123926088213921,2
+216,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+217,0,[],False,False,False,False,0
+218,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+219,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+220,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+221,NS,['NS'],False,False,False,False,1
+222,porque cuando quiere algo y no se lo das empieza a llorar y gritar,"['das', 'empieza', 'llorar', 'gritar']",0.36907494,0.05096650482387878,0.5585532,0.8176660034805536,3
+223,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+224,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+225,su hermano es un nino muy griton,"['hermano', 'niño', 'gritón']",0.29229757,0.04678750596550457,0.47993064,0.884763748695453,3
+226,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+227,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+228,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+229,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+230,que es una pelota de gritos,"['pelota', 'gritos']",0.36312872,0.04466606836960803,0.49769545,0.8722425028681755,1
+231,que su hermano es griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+232,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+233,es una pelota muy gritos,"['pelota', 'gritos']",0.36312872,0.04466606836960803,0.49769545,0.8722425028681755,1
+234,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+235,no ,[],False,False,False,False,1
+236,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+237,que su hermano es griton *,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+238,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+239,que su hermano es griton ,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+240,que su hermano es griton *,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+241,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+242,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+243,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+244,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+245,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+246,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+247,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+248,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+249,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+250,que mi hermanito tiene una pelota de gritos,"['hermanito', 'pelota', 'gritos']",0.5754191,0.031013500219749666,0.65185654,0.8853971337278684,2
+251,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+252,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+253,un hermanito chiquito es un bebe que llora por comida. leche o que le cambien el panal.,"['hermanito', 'chiquito', 'bebé', 'llora', 'comida', 'leche', 'cambien', 'pañal']",0.3678724,0.038788902122955216,0.6485841,0.8598754182457924,3
+254,su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+255,los ninos pequenos gritan mucho *,"['niños', 'pequeños', 'gritan']",0.4161161,0.05283579870158471,0.6298965,0.7311493506034216,3
+256,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+257,su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+258,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+259,que su hermano es gordito como una pelota y que su hermano grita mucho,"['hermano', 'gordito', 'pelota', 'hermano', 'grita']",0.42804328,0.037103347080560074,0.55092955,0.9321615293622016,3
+260,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+261,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+262,que el grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+263,es que su hermanito es igual a una pelota que grita mucho,"['hermanito', 'pelota', 'grita']",0.7888405,0.015330262339668685,0.80453837,0.9203979596495628,3
+264,porque grita mucho. pero te agrega pelota,"['grita', 'agrega', 'pelota']",0.68326074,0.030141926595352662,0.67401385,0.9247437417507172,2
+265,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+266,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+267,que su hermano llora mucho *,"['hermano', 'llora']",0.27072164,0.0467760107619966,0.32829186,0.935484716668725,3
+268,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+269,mi hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+270,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+271,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+272,qu tu hermano grita mucho*,"['qu', 'hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+273,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+274,que grita mucho*,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+275,que grita mucho*,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+276,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+277,que su hermano llora mucho *,"['hermano', 'llora']",0.27072164,0.0467760107619966,0.32829186,0.935484716668725,3
+278,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+279,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+280,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+281,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+282,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+283,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+284,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+285,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+286,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+287,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+288,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+289,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+290,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+291,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+292,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+293,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+294,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+295,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+296,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+297,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+298,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+299,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+300,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+301,NS,['NS'],False,False,False,False,1
+302,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+303,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+304,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+305,mi hermano tiene una pelota de gritos,"['hermano', 'pelota', 'gritos']",0.3056348,0.0459765322817474,0.4533493,0.9283965242405733,1
+306,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+307,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+308,mi hermanito tiene una pelota de gritos,"['hermanito', 'pelota', 'gritos']",0.5754191,0.031013500219749666,0.65185654,0.8853971337278684,1
+309,es una presion,['presion'],False,False,False,False,2
+310,la pelota tiene gritos,"['pelota', 'gritos']",0.36312872,0.04466606836960803,0.49769545,0.8722425028681755,1
+311,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+312,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+313,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+314,que su hermana es una pelota de gritos,"['hermana', 'pelota', 'gritos']",0.38684306,0.04608596033104454,0.58193195,0.8178269217411677,1
+315,que su hermano grita mucho *,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+316,que su hermano grita mucho ,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+317,que su hermano es una pelota y que grita,"['hermano', 'pelota', 'grita']",0.51905614,0.030293300670260773,0.60425675,0.9633973501622677,2
+318,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+319,porque grita cada rato,"['grita', 'rato']",0.70603997,0.03229101933081209,0.6714142,0.8547987341880798,3
+320,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+321,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+322,que su hermano grita o llora mucho*,"['hermano', 'grita', 'llora']",0.51381445,0.03061853086563629,0.5685067,0.9300397994617621,3
+323,qu su hermano grita mucho*,"['qu', 'hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+324,fer rovin,"['fer', 'rovin']",False,False,False,False,1
+325,que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+326,que es gritona,['gritona'],0.32540452,0.04616129726975682,0.24782684,0.9303606376051903,3
+327,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+328,que su hermano grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+329,que grita mucho*,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+330,que su hermano es una pelota y grita para que lo ayuden,"['hermano', 'pelota', 'grita', 'ayuden']",0.46984422,0.033960573971662515,0.62165046,0.9449702529236674,3
+331,que grita mucho*,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,0
+332,el nino siempre esta gritando,"['niño', 'gritando']",0.4006726,0.04628485538267511,0.6204053,0.7626143395900726,3
+333,que esta gordito y grita mucho,"['gordito', 'grita']",0.69620055,0.031042735982137217,0.6558389,0.8245304971933365,3
+334,que el hermanito grita todo el dia*,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+335,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+336,es decir. que grita el hermanitp y la pelota,"['grita', 'hermanitp', 'pelota']",0.68326074,0.030141926595352662,0.67401385,0.9247437417507172,2
+337,que su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+338,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+339,porque es gordito y grita mucho*,"['gordito', 'grita']",0.69620055,0.031042735982137217,0.6558389,0.8245304971933365,3
+340,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+341,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+342,que grita mucho*,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+343,que grita mucho todo el tiempo. es porque esta feliz,"['grita', 'feliz']",0.6702042,0.030170076119252334,0.6360364,0.9690786749124527,3
+344,a mi me gusta jugar futbol con la pelota porque suena,"['gusta', 'jugar', 'futbol', 'pelota', 'suena']",0.38379225,0.05252968604082657,0.58044624,0.811669334769249,2
+345,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+346,que cuando quiere algo grita o cuando juega grita mucho,"['grita', 'juega', 'grita']",0.75178146,0.031646527355810646,0.6174722,0.898125151793162,3
+347,porque es muy griton. muy latoso.,"['gritón', 'latoso']",0.37946582,0.043528147099503936,0.5584624,0.7951254546642303,3
+348,que su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+349,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+350,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+351,que como su hermanito grita mucho. tiene una pelota de gritos,"['hermanito', 'grita', 'pelota', 'gritos']",0.68156433,0.022515601205006015,0.78995156,0.8938353415578604,2
+352,porque grita mucho y la pelota al rebotar suena,"['grita', 'pelota', 'rebotar', 'suena']",0.68326074,0.030141926595352662,0.67401385,0.9247437417507172,2
+353,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+354,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+355,que siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+356,chilla mucho cuando no tiene lo que quiere,['chilla'],0.4009888,0.04797249944392849,0.53725517,0.6683789491653442,3
+357,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+358,que su hermanito es muy griton,"['hermanito', 'gritón']",0.62910444,0.030249173371832232,0.63075066,0.853499960154295,3
+359,que siempre esta gritando,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+360,que tiene muchos granos ***,['granos'],False,False,False,False,1
+361,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+362,que grita mucho y es muy travieso,"['grita', 'travieso']",0.6666297,0.03185006235447628,0.6265745,0.8440295904874802,3
+363,que hace mucho berrinche o emocion,"['berrinche', 'emoción']",0.23733273,0.04708306777006356,0.32395297,0.8982070125639439,3
+364,mi hermano grita mucho o simplemente llora mucho*,"['hermano', 'grita', 'simplemente', 'llora']",0.45719945,0.03362453830229509,0.60891455,0.9170732283964753,3
+365,que su hermano esta gordito y grita mucho,"['hermano', 'gordito', 'grita']",0.52768266,0.031195049486362536,0.597332,0.8965885204573473,3
+366,al decir pelota puede que sea que brinca mucho y grita,"['pelota', 'brinca', 'grita']",0.58171093,0.02906759957703644,0.7043188,0.8815820415814718,1
+367,porque no le gusta que rebote la pelota,"['gusta', 'rebote', 'pelota']",0.38379225,0.05252968604082657,0.58044624,0.811669334769249,1
+368,que su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+369,que llora de todo porque es muy pequeno,"['llora', 'pequeño']",0.3609355,0.04372640873207937,0.4469267,0.8777149245142937,3
+370,mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+371,porque reganan mucho los hemanos,"['regañan', 'hermanos']",0.29176936,0.04448036693437277,0.39523876,0.8984767608344555,3
+372,su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+373,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+374,es porque siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+375,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+376,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+377,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+378,su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+379,que su hermanito tiene guardado muchos gritos,"['hermanito', 'guardado', 'gritos']",0.56089306,0.030168814118163762,0.6519906,0.8950186359385649,3
+380,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+381,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+382,que su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+383,que mi hermano es muy escandaloso,"['hermano', 'escandaloso']",0.2034589,0.046691370068013986,0.2716431,0.9741607513278723,3
+384,que su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+385,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+386,puedes decir que su hermanito es algo gordito y grita mucho,"['puedes', 'hermanito', 'gordito', 'grita']",0.7122449,0.02265719211343268,0.7950882,0.8569480385631323,3
+387,que su hermano a cada rato grita,"['hermano', 'rato', 'grita']",0.5342423,0.03119761887405531,0.63090134,0.9167673451205095,3
+388,que grita mucho y llora,"['grita', 'llora']",0.6753982,0.030541419526430143,0.6082816,0.8747074156999588,3
+389,quiere decir que el hermano grita constantemente,"['hermano', 'grita', 'constantemente']",0.5495599,0.029863778146352916,0.6818073,0.9025396071374416,3
+390,que mi hermano menor grita todo el tiempo,"['hermano', 'menor', 'grita']",0.5282437,0.030340494901296762,0.59977597,0.9051749569674333,3
+391,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+392,que su hermanito es el que grita mas en su casa,"['hermanito', 'grita', 'casa']",0.76515985,0.014999441251936512,0.80114126,0.8937916631499926,3
+393,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+394,que mi hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+395,porque no para de gritar,['gritar'],0.4281937,0.05028127880004235,0.511367,0.7666374444961548,3
+396,que grita sin parar con una pelota,"['grita', 'parar', 'pelota']",0.5125781,0.03127687175228052,0.5832647,0.9464223186175028,2
+397,que los ninos chiquitos hacen mucho berrinche,"['niños', 'chiquitos', 'berrinche']",0.3417282,0.04974407439251748,0.57183826,0.8346948772668839,3
+398,que su hermano es muy griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+399,que su hermanito grita demasiado,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+400,mi hermanito es muy griton,"['hermanito', 'gritón']",0.62910444,0.030249173371832232,0.63075066,0.853499960154295,3
+401,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+402,mi hermanito es de berrinches,"['hermanito', 'berrinches']",0.6032044,0.03233890024011947,0.55162436,0.9419359499588609,3
+403,que su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+404,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+405,mi hermano brinca mucho y llora de a gritos,"['hermano', 'brinca', 'llora', 'gritos']",0.31994763,0.04517716324902871,0.5280012,0.870093890465796,3
+406,que grita mucho*,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+407,es como si su pelota hace mucho ruido por eso dice. es una pelota de gritos,"['pelota', 'ruido', 'pelota', 'gritos']",0.33369455,0.04542807652858982,0.48993617,0.9128835001029074,2
+408,porque mi hermanito es gordo de muchos gritos,"['hermanito', 'gordo', 'gritos']",0.50014985,0.03134348966134456,0.5895643,0.9171177931129932,3
+409,que su hermano siempre esta gritando y saltando,"['hermano', 'gritando', 'saltando']",0.31438157,0.0489999875680463,0.58269733,0.8266776464879513,3
+410,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+411,quiere decir que su hermanito grita mucho en casa,"['hermanito', 'grita', 'casa']",0.76515985,0.014999441251936512,0.80114126,0.8937916631499926,3
+412,que a su hermano le gustan los gritos,"['hermano', 'gustan', 'gritos']",0.3007779,0.04606132357945753,0.4267524,0.9031472466886044,2
+413,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+414,que el hermano es ruidoso,"['hermano', 'ruidoso']",0.23908594,0.04617700343547802,0.27336535,0.9467223305255175,3
+415,que es una persona que no para de gritar,"['persona', 'gritar']",0.40823638,0.04787585179461988,0.5918713,0.7634309679269791,3
+416,que su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+417,su hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+418,su hermano es griton*,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+419,que su hermanito cuando llora. grita,"['hermanito', 'llora', 'grita']",0.7835988,0.016817634944048948,0.7636749,0.8870404089490572,3
+420,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+421,creo que quiere decir que mi hermano grita mucho pero la parte de la pelota no la entiendo,"['hermano', 'grita', 'pelota', 'entiendo']",0.46204615,0.03419548064047971,0.61502165,0.9481716798618436,2
+422,quiere decir que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+423,el hermano siempre esta gritando como una pelota que siempre rebota,"['hermano', 'gritando', 'pelota', 'rebota']",0.311389,0.045149578559287404,0.5751339,0.9172203624621034,3
+424,porque mi hermanito es muy latoso,"['hermanito', 'latoso']",0.7503614,0.030887712232651448,0.71205497,0.8533318899571896,2
+425,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+426,mi hermano grita mucho*,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+427,que no para de llorar ni  quejarse y llorar y a cada rato esta gritando,"['llorar', 'quejarse', 'llorar', 'rato', 'gritando']",0.36059192,0.047979955261669836,0.57870805,0.801716548204422,3
+428,por que hace mucho ruido,['ruido'],0.24199931,0.04725391512524732,0.23722401,0.9767114762216806,3
+429,"que es un hermano que grita mucho, mas de lo normal :v","['hermano', 'grita', 'normal']",0.5113865,0.03126689689036167,0.5871836,0.9113833270967007,3
+430,que es una persona gritona,"['persona', 'gritona']",0.3568418,0.04555952701936574,0.49405435,0.8452925644814968,3
+431,porque el nino grita mucho,"['niño', 'grita']",0.71401846,0.032746557118998196,0.67964834,0.8687215596437454,3
+432,es muy griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+433,que grita todo el tiempo,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+434,que su hermano es un griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+435,porque su hermanito sube demasiado la voz,"['hermanito', 'sube', 'voz']",0.59259135,0.03051531856831295,0.6775881,0.8562532787521681,3
+436,se refiere a que el hermano grita y el poeta ve a mundo como pelotas,"['refiere', 'hermano', 'grita', 'poeta', 've', 'mundo', 'pelotas']",0.40593004,0.03959394563277971,0.6439608,0.8796659974115235,3
+437,porque talves su hermano grita mucho,"['talves', 'hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+438,por el grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+439,que no se esta en silencio jajajajaja,"['silencio', 'jajajajaja']",0.28755477,0.04710986475653199,0.36478353,0.8684040606021881,3
+440,que su hermano puede gritar por que no tiene una pelota de pelos,"['hermano', 'gritar', 'pelota', 'pelos']",0.36200646,0.04590122772975534,0.57068765,0.8647339912131429,3
+441,como esta pequeno da lata,"['pequeño', 'lata']",0.3493495,0.044287058093438116,0.4171305,0.9180492870509624,3
+442,que es bien yoron,['llorón'],0.2407535,0.044208082906741296,0.22761625,0.9281101450324059,3
+443,cuando al hermano no le compran nada se pone gritar,"['hermano', 'compran', 'pone', 'gritar']",0.3286716,0.04524769906201769,0.5282761,0.8909064931795001,3
+444,que su hermano es una pelota que grita,"['hermano', 'pelota', 'grita']",0.51905614,0.030293300670260773,0.60425675,0.9633973501622677,3
+445,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+446,que abla mucho o grita,"['habla', 'grita']",0.69399494,0.02989620230378855,0.66067064,0.8873965069651604,3
+447,que la nina se la pasa llorando o asiendo berrinche :v,"['niña', 'pasa', 'llorando', 'haciendo', 'berrinche']",0.31990427,0.04376671446243611,0.56887174,0.845628060400486,3
+448,por que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+449,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+450,de que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+451,por que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+452,por que no habla en voz baja,"['voz', 'baja']",0.40887526,0.04324343866692192,0.56864583,0.8566101677715778,3
+453,por que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+454,mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+455,es gordito y grita mucho,"['gordito', 'grita']",0.69620055,0.031042735982137217,0.6558389,0.8245304971933365,3
+456,por que el el hermano es u nino pequeno,"['hermano', 'niño', 'pequeño']",0.32991952,0.04760266163006812,0.47175202,0.9280542346338431,3
+457,que hay muchos gritos,['gritos'],0.35973597,0.04534246879940806,0.39712816,0.814147487282753,3
+458,que exagera al hacer berrinche,"['exagera', 'berrinche']",0.3092594,0.04480338782501244,0.4389023,0.8436766229569912,3
+459,nolo se xd,"['nolo', 'xd']",False,False,False,False,1
+460,que llora mucho :v,['llora'],0.35079637,0.045380870698831094,0.3590144,0.8302648663520813,3
+461,grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+462,por que es dibertido,['divertido'],0.22919723,0.045695584482776656,0.2510714,0.9098307639360428,3
+463,que cada q lo tocan hace un grito,"['tocan', 'grito']",False,False,False,False,2
+464,que su hermanito tiene muchas energias para gritar,"['hermanito', 'energías', 'gritar']",0.58384055,0.030712027069180328,0.6985847,0.7933706467350324,3
+465,que mi hermanito no para de gritar,"['hermanito', 'gritar']",0.71409684,0.03297914049515667,0.688523,0.8391719199717045,3
+466,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+467,que su hermano es alguien que grita mucho,"['hermano', 'alguien', 'grita']",0.50374174,0.030941613448392274,0.5576285,0.9509239854911963,3
+468,q cuando le pegan el se pone a gritar,"['pegan', 'pone', 'gritar']",0.371625,0.044862276569080685,0.6011555,0.7964795629183451,2
+469,porque se la pasa gritando el pensativo ajajjajaj,"['pasa', 'gritando', 'pensativo', 'ajajjajaj']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,2
+470,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,2
+471,mi hermano etsa muy gordo y se la pasa gritando.,"['hermano', 'etsa', 'gordo', 'pasa', 'gritando']",0.2521826,0.04625860260921723,0.46553016,0.8976797293871641,1
+472,si porque frita mucho,['frita'],False,False,False,False,1
+473,que enpieza a gritar,"['enpieza', 'gritar']",0.4281937,0.05028127880004235,0.511367,0.7666374444961548,1
+474,por que chilla mucho,['chilla'],0.4009888,0.04797249944392849,0.53725517,0.6683789491653442,1
+475,no,[],False,False,False,False,1
+476,que mi hermano en redondo y grita mucho,"['hermano', 'redondo', 'grita']",0.47715887,0.03055019773683277,0.56483823,0.9247798038025697,1
+477,porque los hermanos lloran mucho,"['hermanos', 'lloran']",0.38216037,0.04266790211082834,0.47284687,0.9060246087610722,1
+478,no,[],False,False,False,False,1
+479,qu su hermano se la pasa gritando osea es un desastroso,"['qu', 'hermano', 'pasa', 'gritando', 'osea', 'desastroso']",0.30615723,0.04537323188120133,0.5242631,0.8454330349341035,3
+480,explica que el hermano grita mucho e inquieto,"['explica', 'hermano', 'grita', 'inquieto']",0.44577596,0.03394448085769525,0.5885204,0.8858274267986417,3
+481,13fg,['13fg'],False,False,False,False,0
+482,es griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+483,que su hermanito es gordo y grita mucho,"['hermanito', 'gordo', 'grita']",0.7135712,0.016301728696014664,0.7505286,0.9521186190346876,3
+484,se refiere a que el hermanito siempre grita,"['refiere', 'hermanito', 'grita']",0.82484305,0.0163094442134395,0.8365584,0.8612635160485903,3
+485,por que su hermano solo grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+486,que su hermano chico grita mucho o habla mucho,"['hermano', 'chico', 'grita']",0.494516,0.03141357350761681,0.5418121,0.9411976598203182,3
+487,"que grita, o llora mucho por eso es una pelota de gritos","['grita', 'llora', 'pelota', 'gritos']",0.51926345,0.03241375817381841,0.65907854,0.8734749592840672,3
+488,que su hermano no se para de quejar a cada rato anda gritando,"['hermano', 'quejar', 'rato', 'anda', 'gritando']",0.28319436,0.045456344657860734,0.54569757,0.895836590975523,3
+489,que es un nino que grita mucho,"['niño', 'grita']",0.71401846,0.032746557118998196,0.67964834,0.8687215596437454,3
+490,por que el grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+491,que su hermano puede gritar por que tiene una pelotas de pelos,"['hermano', 'gritar', 'pelotas', 'pelos']",0.332194,0.04501933907450507,0.5550229,0.837535229511559,2
+492,grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+493,que es lloron,['llorón'],0.2407535,0.044208082906741296,0.22761625,0.9281101450324059,3
+494,que tiene muchos sentimientos,['sentimientos'],False,False,False,False,2
+495,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+496,que tu hermano grita mucho y me desespera creo que eso dice la frase de pelota de gritos supongo,"['hermano', 'grita', 'desespera', 'frase', 'pelota', 'gritos', 'supongo']",0.36972463,0.03860235304200816,0.6104361,0.9089148848184517,3
+497,que el siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+498,por que los hermanitos son muy molestones,"['hermanitos', 'molestones']",False,False,False,False,2
+499,de que el hermano nada mas se la pasa gritando y eso molesta,"['hermano', 'pasa', 'gritando', 'molesta']",0.3440058,0.0441129380881787,0.609516,0.8212602930143476,3
+500,que su hermano grita todo el tiempo,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+501,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+502,que es un griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+503,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+504,por que esta gordo y gita,"['gordo', 'grita']",0.57035685,0.031659394037703396,0.5093061,0.9723247308284044,3
+505,que es un ruidoso,['ruidoso'],0.28752494,0.04560965796182835,0.29879805,0.8527400940656662,3
+506,que da mucha lata,['lata'],0.3276243,0.04561628279148198,0.31102192,0.9109335914254189,2
+507,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+508,por que gryta mucho mi ermanito,"['grita', 'hermanito']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+509,por que mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+510,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+511,que es fastidioso,['fastidioso'],0.38754907,0.050630558936426664,0.46364325,0.8048268556594849,1
+512,una pelota mu enojada,"['pelota', 'mu', 'enojada']",0.36652145,0.046571657303211965,0.40923604,0.930337518453598,1
+513,no see,['see'],False,False,False,False,0
+514,que es muy platicon,['platicon'],False,False,False,False,2
+515,que es muy berrinchudo,['berrinchudo'],0.2728223,0.044839222085452095,0.2241916,0.9790133815258741,3
+516,mi hermanito es un nino de gritos,"['hermanito', 'niño', 'gritos']",0.5959243,0.033004556966546326,0.6524389,0.8480490123232206,3
+517,xk su hermano simpre grita,"['xk', 'hermano', 'siempre', 'grita']",0.49853647,0.031156339212616953,0.5543039,0.951408372571071,3
+518,que su hermano es muy gordo y grita mucho,"['hermano', 'gordo', 'grita']",0.44378686,0.03126476702660675,0.48241612,0.9951180095473925,3
+519,mi hermano es muy griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+520,que es alguien muy griton,"['alguien', 'gritón']",0.2893936,0.044257384549033746,0.4519111,0.8441054746508598,3
+521,el hermano es muy inquieto,"['hermano', 'inquieto']",0.28715205,0.045072854186008024,0.39415604,0.8841072712093592,2
+522,porque los ninos son muy escandalosos,"['niños', 'escandalosos']",0.39402387,0.05392494621138371,0.5784737,0.7612170577049255,3
+523,la forma de expresar a un ser por medio de palabras metaforicas,"['forma', 'expresar', 'palabras', 'metafóricas']",0.22387502,0.04374399883307722,0.3541841,0.9680364206433296,3
+524,que su hermano es una persona que grita mucho,"['hermano', 'persona', 'grita']",0.52630866,0.031076771052506252,0.6325708,0.9066930077970028,3
+525,por que grita mucho y salta mucho,"['grita', 'salta']",0.5607368,0.03161941456207451,0.51384664,0.9349672794342041,3
+526,tal vez por que es algo griton y molesto,"['gritón', 'molesto']",0.29343832,0.04494237923382024,0.42040187,0.872852448374033,3
+527,significa que reclama o llora mucho,"['significa', 'reclama', 'llora']",0.25191227,0.04491611522189554,0.3512686,0.9016808768113455,3
+528,que el hermanito grite mucho,"['hermanito', 'grite']",0.7310045,0.028789754728208453,0.7042656,0.862234715372324,3
+529,que se unde en el llanto,"['unde', 'llanto']",0.28161454,0.044851622103406714,0.30212778,0.8687896579504013,3
+530,que su hermano grita mucho todo el tiempo,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+531,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+532,poequ es bien griton,"['poequ', 'gritón']",0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+533,por que siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+534,por que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+535,por que llora mucho,['llora'],0.35079637,0.045380870698831094,0.3590144,0.8302648663520813,3
+536,es un nino que se la pasa gritando y llorando todo el dia,"['niño', 'pasa', 'gritando', 'llorando']",0.39830437,0.044289286644932355,0.65461457,0.7683611512184143,3
+537,por que chillan mucho o gritan mucho exageran,"['chillan', 'gritan', 'exageran']",0.36209047,0.046966364543153255,0.5876535,0.7651447753111521,3
+538,que su mama es una persona muy gritona,"['mama', 'persona', 'gritona']",0.3568418,0.04555952701936574,0.49405435,0.8452925644814968,2
+539,q no entisende,['entisende'],False,False,False,False,1
+540,por que se la pasa gritando,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+541,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+542,su hermano es un nino que grita mucho,"['hermano', 'niño', 'grita']",0.5395613,0.0322843417709631,0.6085533,0.9260492287576199,3
+543,que es muy ruidoso,['ruidoso'],0.28752494,0.04560965796182835,0.29879805,0.8527400940656662,3
+544,es una maquina o bien alguien que grita demasiado,"['máquina', 'alguien', 'grita']",0.560461,0.028353314269096448,0.66800743,0.8942147543032964,3
+545,pirhhhhgvfriufueiituj,['pirhhhhgvfriufueiituj'],False,False,False,False,1
+546,por que llora o le hacen algo,['llora'],0.35079637,0.045380870698831094,0.3590144,0.8302648663520813,3
+547,puen que su hermana grita mucho,"['puen', 'hermana', 'grita']",0.7171359,0.0329066861236656,0.6899859,0.8140728622674942,3
+548,NS,['NS'],False,False,False,False,1
+549,and fort,"['and', 'fort']",False,False,False,False,1
+550,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+551,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+552,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+553,que grita demasiado,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+554,que su hermanito siempre esta gritando y hace mucho ruido,"['hermanito', 'gritando', 'ruido']",0.5384359,0.030821835741605092,0.63743037,0.8651177988698086,3
+555,que su hermano es una persona muy ruidosa,"['hermano', 'persona', 'ruidosa']",0.28305963,0.046192794345239,0.49729872,0.8940622818966707,3
+556,siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+557,quiere decir que todo el tiempo esta gritando sin parar,"['gritando', 'parar']",0.27226067,0.04506932456640647,0.4502328,0.8483574986457825,3
+558,"que su hermanito es muy griton, que su hermanita esta muy loco","['hermanito', 'gritón', 'hermanita', 'loco']",0.4599486,0.03372001870416433,0.6672933,0.8564128996804357,3
+559,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+560,quiere decir que su hermano grita mucho.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+561,que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+562,que mi hermano tiene mucha energia,"['hermano', 'energía']",0.21836221,0.046717160993208495,0.23811805,1.0176298432052135,3
+563,que es muy pequeno y grita,"['pequeño', 'grita']",0.68553734,0.02967860189120769,0.6486213,0.9221574738621712,3
+564,que es pequeno y que grita mucho,"['pequeño', 'grita']",0.68553734,0.02967860189120769,0.6486213,0.9221574738621712,3
+565,que es muy gritona,['gritona'],0.32540452,0.04616129726975682,0.24782684,0.9303606376051903,3
+566,no para de gritar,['gritar'],0.4281937,0.05028127880004235,0.511367,0.7666374444961548,3
+567,que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+568,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+569,pues que al parecer su hermano grita mucho pero no entiende la metafora de pelota,"['parecer', 'hermano', 'grita', 'entiende', 'metáfora', 'pelota']",0.3724861,0.03809638603079749,0.6357999,0.9431662205606699,3
+570,que su hermano grita mucho.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+571,se refiere a que es una persona que grita,"['refiere', 'persona', 'grita']",0.62093604,0.030795603057394365,0.7467171,0.8107695480187734,3
+572,que su hermano hace mucho escandalo,"['hermano', 'escándalo']",0.16141084,0.04734910495767869,0.1787728,1.0111582912504673,3
+573,que hecha mucho relajo,"['hecha', 'relajo']",0.2711048,0.04405994439349131,0.32281923,0.9290938060730696,3
+574,porque su esta loco,['loco'],0.20494205,0.04529779679242684,0.18658055,0.9377416484057903,2
+575,que grita demasiado,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+576,es que su hermano es muy imperactivo,"['hermano', 'imperactivo']",0.19064693,0.050025113177485155,0.14036883,1.0407045669853687,2
+577,que el hermano se la pasa gritando,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,3
+578,que hace mucho escandalo,['escándalo'],0.13217475,0.04604189583438512,0.12653176,0.9816120155155659,3
+579,que es muy alborotado,['alborotado'],False,False,False,False,2
+580,que siempre se la pasa gritando,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+581,que es gordito y grita mucho,"['gordito', 'grita']",0.69620055,0.031042735982137217,0.6558389,0.8245304971933365,3
+582,que siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+583,mi hermanito es gordito y es griton,"['hermanito', 'gordito', 'gritón']",0.5502033,0.031170394106629033,0.6797367,0.8123036498824755,3
+584,que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+585,que su hermano siempre esta gritando.,"['hermano', 'gritando']",0.28197762,0.04605592103113118,0.45310497,0.8738200459629297,3
+586,que no para de gritar,['gritar'],0.4281937,0.05028127880004235,0.511367,0.7666374444961548,3
+587,que su hermano grita mucho y no sale de su circulo,"['hermano', 'grita', 'sale', 'círculo']",0.49123693,0.03228206283661019,0.6498489,0.9470027396455407,3
+588,un humano gordo que no para de chillar,"['humano', 'gordo', 'chillar']",0.20158775,0.04677201373186935,0.3582271,0.9224811792373657,3
+589,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+590,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+591,que su hermano se la pasa gritando,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,3
+592,"que grita mucho, que da mucha lata","['grita', 'lata']",0.66381216,0.030240176039856497,0.6106977,0.9150417782366276,3
+593,mi hermano grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+594,quiere decir que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+595,pues que grita mucho y tal vez al hablar grita.,"['grita', 'hablar', 'grita']",0.71263254,0.031953085745601406,0.5766084,0.9219291905562083,3
+596,que el nino es un nino que grita mucho,"['niño', 'niño', 'grita']",0.61869127,0.0325327806799056,0.620776,0.8519120911757151,3
+597,que el hermano grita como una pelota que esta botando,"['hermano', 'grita', 'pelota', 'botando']",0.48843145,0.03560293907989061,0.6432359,0.9255366185680032,3
+598,es alguien que grita o habla demasiado,"['alguien', 'grita']",0.66028917,0.03067748106404896,0.6288621,0.9060336947441101,3
+599,que siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+600,de que su hermano o es un quejumbroso o es un lloron,"['hermano', 'quejumbroso', 'llorón']",0.21485908,0.04577170553732067,0.26752135,0.973036140203476,3
+601,que se la pasa gritando,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+602,tiene sobrepeso,['sobrepeso'],False,False,False,False,2
+603,que todo el dia esta hablando y grtando,"['hablando', 'gritando']",0.3192361,0.043243232044005694,0.5527181,0.7840046733617783,3
+604,que es un nino gordo que grita por todo o su tono de voz es fuertealto,"['niño', 'gordo', 'grita', 'tono', 'voz', 'fuertealto']",0.43664533,0.035901272510002274,0.6918117,0.8689704217016697,3
+605,porque grita demasiado,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+606,si,[],False,False,False,False,1
+607,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+608,que el hermano siempre esta gritando entonces es un conjunto de gritos.,"['hermano', 'gritando', 'conjunto', 'gritos']",0.32303467,0.044297524942158474,0.5272541,0.8866787678562105,3
+609,solo grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+610,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+611,que me hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+612,mi hermano es un griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+613,que su hermano grita o hace mucho ruido,"['hermano', 'grita', 'ruido']",0.47754875,0.030878995453997773,0.56940293,0.9788553360849619,3
+614,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+615,por que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+616,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+617,que siempre esta gritando.,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+618,que o se mueve mucho porque es una pelota o que es muy ruidoso.,"['mueve', 'pelota', 'ruidoso']",0.29199898,0.042981464526379236,0.44321573,0.9169102509816488,3
+619,que su hermano esta chiquito y grita mucho,"['hermano', 'chiquito', 'grita']",0.48806098,0.029607786271876754,0.5797415,0.9279809457560381,3
+620,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+621,NS,['NS'],False,False,False,False,1
+622,significa que es una nino muy chillon y que normalmente se desespera y grita,"['significa', 'niño', 'chillón', 'normalmente', 'desespera', 'grita']",0.4077364,0.036513079235987976,0.640805,0.8970419776936372,3
+623,que tu hermano grita mucho y esta gordo,"['hermano', 'grita', 'gordo']",0.44378686,0.03126476702660675,0.4824161,0.9951180095473925,3
+624,que su hermano es muy griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+625,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+626,quiere decir que su hermano es un nino que grita,"['hermano', 'niño', 'grita']",0.5395613,0.0322843417709631,0.6085533,0.9260492287576199,3
+627,que grita en exceso,"['grita', 'exceso']",0.6150281,0.031201215409495157,0.578784,0.8737459927797318,3
+628,mi hermano es alguien que no para de gritar y hablar,"['hermano', 'alguien', 'gritar', 'hablar']",0.26932913,0.0461112027542587,0.4862786,0.9069367693737149,3
+629,que su hermanito es un griton y llora todo el dia como la llorona,"['hermanito', 'gritón', 'llora', 'llorona']",0.4631586,0.03412606180990586,0.62406546,0.8439784031361341,3
+630,alguien que grita,"['alguien', 'grita']",0.66028917,0.03067748106404896,0.6288621,0.9060336947441101,3
+631,que tu hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+632,el hermano representa a un infante en plena etapa de inocencia y escandalo,"['hermano', 'representa', 'infante', 'plena', 'etapa', 'inocencia', 'escándalo']",0.2214202,0.044801453359484975,0.39409673,0.99385399424604,3
+633,que tu hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+634,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+635,porque no deja de gritar,"['deja', 'gritar']",0.3234381,0.04628566548380605,0.5002077,0.8156285732984543,3
+636,que hace mucho escandalo y no se puede quedar quieto,"['escándalo', 'quedar', 'quieto']",0.19827227,0.04467079821872433,0.3401568,0.9251201016207536,3
+637,es un ser que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+638,que esta muy irritanto,['irritante'],0.2112048,0.04491950761645821,0.27137417,0.8559804260730743,3
+639,que su hermano es gordito y redondo y esta constantemente gritando,"['hermano', 'gordito', 'redondo', 'constantemente', 'gritando']",0.33104375,0.04449633425970588,0.6394927,0.807960058003664,3
+640,es una machina a gritar,"['máquina', 'gritar']",0.39449918,0.04505640723683616,0.55820656,0.8186071589589119,3
+641,su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+642,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+643,que nunca deja de hablar,"['deja', 'hablar']",0.17829004,0.0453628051647407,0.2816401,0.896053671836853,3
+644,que es un nino gordito que se la pasa gritando,"['niño', 'gordito', 'pasa', 'gritando']",0.37445194,0.04601783409197876,0.6372752,0.7681797593832016,3
+645,que los ninos son demasiados inquietos y ruidosos,"['niños', 'demasiados', 'inquietos', 'ruidosos']",0.3075589,0.04784652467940131,0.56271094,0.8466479280032218,3
+646,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+647,que su hermando es un nino travieso,"['hermano', 'niño', 'travieso']",0.3173144,0.04858224704658731,0.4866333,0.8759689790507158,3
+648,que su hermano grita mucho.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+649,es decir que tu hermanito es un griton,"['hermanito', 'gritón']",0.62910444,0.030249173371832232,0.63075066,0.853499960154295,3
+650,que siempre esta llorando o gritando,"['llorando', 'gritando']",0.43055952,0.041946289138851386,0.62022895,0.7187860608100891,3
+651,que es un dolor de cabeza,"['dolor', 'cabeza']",0.25104147,0.04484281184207966,0.4366251,0.7996416836977005,3
+652,invalida x sistema,"['invalida', 'sistema']",0.30853808,0.04652494579097557,0.21525373,1.0009219758212566,0
+653,que todo el tiempo grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+654,que siempre hace berrinche y grita para tener lo que quiere,"['berrinche', 'grita']",0.59612966,0.03140271867611289,0.54082537,0.9095838628709316,3
+655,que es un nino muy inquieto,"['niño', 'inquieto']",0.40584704,0.04530177227661179,0.5789574,0.7729015648365021,3
+656,quiere decir que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+657,que mi hermano le encanta cantar,"['hermano', 'encanta', 'cantar']",0.23436373,0.04636143352812158,0.4046777,0.9432263281196356,3
+658,que grita mucho todo el tiempo,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+659,es una ternura,['ternura'],0.32756114,0.04297481083648473,0.3595344,0.8625401258468628,3
+660,por que esta gordito y es muy griton,"['gordito', 'gritón']",0.32530499,0.04471863764685471,0.5462071,0.7626022771000862,3
+661,por que son muy ruidosos.,['ruidosos'],0.36590365,0.0436179764569646,0.40168816,0.8096410036087036,3
+662,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+663,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+664,que el hermanito es muy ruidoso,"['hermanito', 'ruidoso']",0.64376247,0.03023265171927162,0.6175669,0.8822232447564602,3
+665,mi hermanito me estresa cada bes que grita.,"['hermanito', 'estresa', 'ves', 'grita']",0.63583285,0.02306109774921119,0.785934,0.8401924017816782,3
+666,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+667,que un nino es muy ruidoso,"['niño', 'ruidoso']",0.35778093,0.046405939701158395,0.50944567,0.8355166241526604,3
+668,que mi ermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+669,su hermano grita o llora mucho y asi es como la autor@ se refiere a el en el sentido literario,"['hermano', 'grita', 'llora', 'autor', 'refiere', 'sentido', 'literario']",0.40524316,0.038025245105191625,0.68137056,0.8631976784339973,3
+670,por que siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+671,por que los ninos pequenos por lo regular gritan por todo,"['niños', 'pequeños', 'regular', 'gritan']",0.39014393,0.05061876733429387,0.6621928,0.7533323802053928,3
+672,q es chillon,['chillón'],0.24503428,0.044870928043531585,0.3021177,0.8933887779712677,3
+673,que es un bb,['bb'],False,False,False,False,3
+674,que siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+675,que mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+676,al hermano lo representa como una pelota y el grita mucho,"['hermano', 'representa', 'pelota', 'grita']",0.47238255,0.03347027855431251,0.6047429,0.9706429350189865,3
+677,porque el grita mucho o muy fuerte,"['grita', 'fuerte']",0.5973565,0.03090301618133704,0.5692198,0.8915203660726547,3
+678,que todo el tiempo llora y grita,"['llora', 'grita']",0.6753982,0.030541419526430143,0.6082816,0.8747074156999588,3
+679,que su pelota es la mejor,['pelota'],0.36652145,0.046571657303211965,0.40923604,0.930337518453598,1
+680,mi hermano es una persona que grita todo el tiempo,"['hermano', 'persona', 'grita']",0.52630866,0.031076771052506252,0.6325708,0.9066930077970028,3
+681,es un nino,['niño'],0.42803693,0.05093566282379423,0.4815977,0.8182931542396545,2
+682,por que grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+683,mi hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+684,mi hermano grita demasiado,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+685,que es muy inquieto,['inquieto'],0.38365716,0.0422028042568999,0.47851607,0.7275099754333496,3
+686,q asu hermano le gustan los grillos alv,"['asu', 'hermano', 'gustan', 'grillos', 'alv']",0.26513648,0.04468170366930405,0.41527656,0.9055074664453665,3
+687,por que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+688,que mi hermono grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+689,por que es gordo y le gusta cantar,"['gordo', 'gusta', 'cantar']",0.22115612,0.0499437493804201,0.47887534,0.8958315011113882,3
+690,quiere decir que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+691,que grita demasiado,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+692,que mi hermano grita y grita sin parar y sin sentido,"['hermano', 'grita', 'grita', 'parar', 'sentido']",0.5236667,0.03148575652539248,0.5981736,0.955561388283968,3
+693,que los ninos son muy energeticos y tienden a gritar mucho.,"['niños', 'energéticos', 'tienden', 'gritar']",0.33695227,0.05209190394321235,0.59626645,0.7849208861589432,3
+694,osea que su hermano grita mucho,"['osea', 'hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+695,es cuando mi hermano siempre esta llorando o gritando,"['hermano', 'llorando', 'gritando']",0.35058868,0.043296401503082727,0.574749,0.8260922295351824,2
+696,que hace ruido,['ruido'],0.24199931,0.04725391512524732,0.23722401,0.9767114762216806,2
+697,que cada bote que da es un grito de mi hermano,"['bote', 'grito', 'hermano']",0.19064693,0.050025113177485155,0.14036883,1.0407045669853687,1
+698,que su hermano se la pasa gritando,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,2
+699,por siempre mete goles,"['mete', 'goles']",0.27248675,0.04459352463125032,0.33864522,0.8744708448648453,1
+700,quiere decir mi hermanito todo el tiempo grita,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,2
+701,que el hermano se la pasa gritando,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,2
+702,que es muy grito,['grito'],False,False,False,False,2
+703,que su hermano es una latoso,"['hermano', 'latoso']",0.34568486,0.046815274993987965,0.4621272,0.9178309757262468,1
+704,que llega a gritar mucho,"['llega', 'gritar']",0.2750135,0.04671201391620304,0.47236916,0.8493420332670212,2
+705,que es muy gritos,['gritos'],0.35973597,0.04534246879940806,0.39712816,0.814147487282753,2
+706,que mi hermano grita mucho y ase esallar alas personas,"['hermano', 'grita', 'ase', 'esallar', 'alas', 'personas']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,1
+707,q es fastidioso,['fastidioso'],0.38754907,0.050630558936426664,0.46364325,0.8048268556594849,1
+708,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,1
+709,ya es grande y grita,"['grande', 'grita']",0.60756576,0.030245135913652667,0.59318006,0.8569308742880821,1
+710,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,1
+711,que se la pasa gritando todo el tiempo,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,2
+712,q mi hermana grita,"['hermana', 'grita']",0.7171359,0.0329066861236656,0.6899859,0.8140728622674942,1
+713,que mi hermanito es muy griton,"['hermanito', 'gritón']",0.62910444,0.030249173371832232,0.63075066,0.853499960154295,3
+714,por que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+715,se refiere a que su hermano es una persona gritona,"['refiere', 'hermano', 'persona', 'gritona']",0.3447149,0.046969363536348514,0.5764341,0.8710559708997607,3
+716,quiere decir que los ninos gritan mucho,"['niños', 'gritan']",0.4149946,0.05598774439099113,0.61180305,0.6836282908916473,3
+717,que es muy la toso,['toso'],0.20753148,0.04582006533789473,0.259907,0.8782148659229279,3
+718,que es bien gritano,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+719,su hermano es un bebe que grita y llora mucho,"['hermano', 'bebé', 'grita', 'llora']",0.4563863,0.034902311404884034,0.5797799,0.9239386627450585,3
+720,que esta gritando su hermano,"['gritando', 'hermano']",0.28197762,0.04605592103113118,0.45310497,0.8738200459629297,3
+721,que el hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+722,que mi hermanito siempre grita,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+723,que su hermano siempre grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+724,"quiere decir que su hermano grita mucho, es una metafora","['hermano', 'grita', 'metáfora']",0.4614462,0.030454726594018707,0.5153816,0.9926331552366415,3
+725,lo que yo entiendo es que su hermano grita mucho y a eso se refiere.,"['entiendo', 'hermano', 'grita', 'refiere']",0.48904806,0.03500578149416945,0.67887956,0.9038208471611142,3
+726,se refiere a que su hermano grita mucho,"['refiere', 'hermano', 'grita']",0.55505866,0.03127247575464963,0.6880405,0.9042629065612952,3
+727,quiere decir que su hermano grita mucho.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+728,que su hermano es muy lloron y enojon y de todo grita,"['hermano', 'llorón', 'enojón', 'grita']",0.44094917,0.033144386553644364,0.5540587,0.9347093654796481,3
+729,qwee,['qwee'],False,False,False,False,0
+730,por que regana al hermano menor,"['regana', 'hermano', 'menor']",0.29236558,0.044397915373614164,0.39956555,0.8981874529272318,2
+731,que es una persona que grita mucho,"['persona', 'grita']",0.69413954,0.03124313810532369,0.6832276,0.8396872282028198,3
+732,"cuando a alguien se le dice pelota, la mayoria de veces es porque tratan de decirle gordoa asi que supongo que trata de decir que su hermano es un gordo griton","['alguien', 'pelota', 'mayoría', 'tratan', 'decirle', 'gordo', 'supongo', 'hermano', 'gordo', 'gritón']",0.2797111,0.044983233650708714,0.55738544,0.9119140360504389,3
+733,que es una persona inquieta,"['persona', 'inquieta']",0.41576654,0.04651227992158786,0.58221716,0.7843971252441406,3
+734,porque grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+735,que siempre que se mueve hace demasiado ruido,"['mueve', 'ruido']",0.23197493,0.045678840188486454,0.25989255,0.9721823083236814,3
+736,que con cualquier cosa se altera y grita,"['cosa', 'altera', 'grita']",0.5718993,0.029070440869313274,0.66527677,0.8731172233819962,3
+737,por que no esta quieta,['quieta'],0.3544947,0.041939083173162583,0.38974229,0.8577419519424438,2
+738,que mi hermanito grita mucho en casa,"['hermanito', 'grita', 'casa']",0.76515985,0.014999441251936512,0.80114126,0.8937916631499926,3
+739,"pues ami entender, la persona se esta haciendo una referencia de la pelota con su hermano, que es inquieto, entre otras cosas.","['ami', 'entender', 'persona', 'referencia', 'pelota', 'hermano', 'inquieto']",0.2972252,0.045095960548677386,0.61273557,0.8634522141267856,3
+740,que a mi hermano le gusta gritar o hablar mucho y muy fuerte,"['hermano', 'gusta', 'gritar', 'hablar', 'fuerte']",0.27050284,0.04856436841813484,0.58005106,0.8583443142473698,3
+741,que es muy fastidioso,['fastidioso'],0.38754907,0.050630558936426664,0.46364325,0.8048268556594849,3
+742,grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+743,por lo que entiendo es que un nino tiene una pelota que es super fantastica,"['entiendo', 'niño', 'pelota', 'súper', 'fantastica']",0.3735898,0.04567886126608511,0.575294,0.8886549305170774,1
+744,por que los ninos gritan cuando estan pequenos,"['niños', 'gritan', 'pequeños']",0.4161161,0.05283579870158471,0.6298965,0.7311493506034216,3
+745,que mi hermano se parece a una bola de pelos,"['hermano', 'bola', 'pelos']",0.31105715,0.0447181515361068,0.44361615,0.9212341022988161,1
+746,pues k es como muy lida conmigom y k parese algo muy tierno la pelota de pelos como mi sister,"['lida', 'conmigom', 'parese', 'tierno', 'pelota', 'pelos', 'sister']",0.4145926,0.043189863872573765,0.55317867,0.825796976685524,1
+747,que tiene un hermanito que grita mucho es muy imperactivo,"['hermanito', 'grita', 'imperactivo']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,1
+748,que el hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+749,siempre grita,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+750,quiere decir que el nino es muy griton cuando juega la pelota,"['niño', 'gritón', 'juega', 'pelota']",0.32702792,0.045304685905185584,0.5661675,0.8499999307096004,3
+751,grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+752,que el nino grita mucho y este se expresa mas comun de esta forma,"['niño', 'grita', 'expresa', 'común', 'forma']",0.47475874,0.03469374229114582,0.6691016,0.8963001593947411,3
+753,por que quiere decir que el hermano es muy griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+754,ththt,['ththt'],False,False,False,False,0
+755,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+756,moleta mucho,['moleta'],False,False,False,False,2
+757,es su apodo,['apodo'],False,False,False,False,1
+758,que su hermano tiene muchos grillos,"['hermano', 'grillos']",0.22172928,0.045743840361155585,0.33209017,0.9309663567692041,1
+759,que grita mucho y el piensa que es una pelota,"['grita', 'piensa', 'pelota']",0.55443466,0.029081212956203268,0.67717975,0.8672540485858917,3
+760,es muy latoso,['latoso'],0.50072277,0.047096124709969926,0.5311873,0.7949573844671249,1
+761,que esta gordito y se la pasa gritando,"['gordito', 'pasa', 'gritando']",0.3565903,0.044840172207858006,0.5871948,0.7514752944310507,3
+762,que se la pasa gritando,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+763,que el tiene la peota y no se la quieren dar y grita,"['pelota', 'quieren', 'grita']",0.5106237,0.029656009937060954,0.6330588,0.9081375300884247,3
+764,yo supongo que quiere decir que es un nino que grita bastante como un nino de 5 o 4 anos,"['supongo', 'niño', 'grita', 'niño', 'anos']",0.5565753,0.035981903267659564,0.65726644,0.8319479525089264,2
+765,mi sobrina,['sobrina'],0.3231331,0.04434245590249347,0.36209196,0.8412355780601501,1
+766,que mi hermanito es muy griton,"['hermanito', 'gritón']",0.62910444,0.030249173371832232,0.63075066,0.853499960154295,3
+767,que mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+768,que grita mucho mi hermano,"['grita', 'hermano']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+769,quiere decir que mi hermanito grita demasiado,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+770,pues se refiere a que tu hermana es la otra parte para ti,"['refiere', 'hermana']",0.45440042,0.04972676813885963,0.62180793,0.7309649735689163,1
+771,mi hermano grita muho como bota una pelota,"['hermano', 'grita', 'mucho', 'bota', 'pelota']",0.5717445,0.02690648293219418,0.7862166,0.9483866132795811,3
+772,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+773,se la pasa gritando,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+774,que su hermano grita mucho o es muy ruidoso,"['hermano', 'grita', 'ruidoso']",0.49272394,0.03168035669178454,0.51284075,0.9375315420329571,3
+775,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+776,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+777,"mi hermano es muy griton,escandaloso y travieso","['hermano', 'gritón', 'escandaloso', 'travieso']",0.24959649,0.045516998259308314,0.4868198,0.8781310608610511,3
+778,que mi hermano siempre esta gritando,"['hermano', 'gritando']",0.28197762,0.04605592103113118,0.45310497,0.8738200459629297,3
+779,que su hermano es un nino super griton,"['hermano', 'niño', 'súper', 'gritón']",0.32141936,0.045249401644529695,0.520558,0.8894464066252112,3
+780,que los hermanos te pueden molestar o normalmente te peleas con ellos,"['hermanos', 'molestar', 'normalmente', 'peleas']",0.35854915,0.04271287155927644,0.47538498,0.9392478163354099,3
+781,mi hermano cada vez que grita se vuelve muy constante,"['hermano', 'grita', 'vuelve', 'constante']",0.5042411,0.035627031823425546,0.6840447,0.8633337812498212,3
+782,un nino que siempre trata de llamar la atencion con gritos.,"['niño', 'llamar', 'atención', 'gritos']",0.36486337,0.04560166514880655,0.5815658,0.8702160995453596,3
+783,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+784,por molesto y castroso,"['molesto', 'castroso']",0.3286678,0.048900700183087786,0.27039635,0.9504113718867302,3
+785,que su hermanito grita mucho.,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+786,que es un nino gordito como pelota que grita mucho,"['niño', 'gordito', 'pelota', 'grita']",0.5467399,0.03424090256973428,0.7150622,0.8494229167699814,3
+787,la referencia da a que el hermano grita mucho pero es como si le hubieran puesto como tipo sobrante pelota,"['referencia', 'hermano', 'grita', 'hubieran', 'puesto', 'tipo', 'sobrante', 'pelota']",0.45205212,0.03407925304489949,0.6419916,0.9351096274331212,2
+788,que es muy griton,['gritón'],0.25820884,0.04433506860914729,0.357207,0.7952935248613358,3
+789,que se altera rapido,"['altera', 'rápido']",0.26226312,0.042378631609540265,0.38886875,0.9080238323658705,3
+790,que siempre grita por todo,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+791,mi hermanito en un nino que grita mucho,"['hermanito', 'niño', 'grita']",0.80934566,0.017321307954528,0.7901629,0.883049838244915,3
+792,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+793,que siempre grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+794,que el nunca deja de gritar,"['deja', 'gritar']",0.3234381,0.04628566548380605,0.5002077,0.8156285732984543,3
+795,"simplemente que su hermano es una persona muy gritona, pelota se refiere a cabeza.","['simplemente', 'hermano', 'persona', 'gritona', 'pelota', 'refiere', 'cabeza']",0.31159225,0.04532189071451486,0.61541593,0.8839877412787506,3
+796,que esta gordo y le gusta gritar,"['gordo', 'gusta', 'gritar']",0.32332346,0.052005894112011314,0.5636884,0.8283793640633424,3
+797,mi hermano grita por todo,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+798,que los ninos pueden hacer mucho ruido,"['niños', 'ruido']",0.3306121,0.0551148866151916,0.5247968,0.8500087978318334,3
+799,es muy ruidoso,['ruidoso'],0.28752494,0.04560965796182835,0.29879805,0.8527400940656662,3
+800,a qiere,['qiere'],False,False,False,False,1
+801,por que grita a cada rato,"['grita', 'rato']",0.70603997,0.03229101933081209,0.6714142,0.8547987341880798,3
+802,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+803,por que siempre esta gritando,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+804,que su hermano se la pasa gritando,"['hermano', 'pasa', 'gritando']",0.2893389,0.04605047241755852,0.49017686,0.855073140313228,3
+805,que es una persona muy reganona y grita,"['persona', 'regañona', 'grita']",0.5657347,0.030461400167117438,0.65503085,0.8438167075316111,3
+806,que para mi es muy latoso,['latoso'],0.50072277,0.047096124709969926,0.5311873,0.7949573844671249,3
+807,mi hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+808,q mi hermanito es muy griton en forma de pelota,"['hermanito', 'gritón', 'forma', 'pelota']",0.4844451,0.03349456264537753,0.6359582,0.8926118016242981,3
+809,que siempre esta gritando,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+810,que el hermano es muy expresivo,"['hermano', 'expresivo']",0.2860757,0.045797687599939976,0.42828822,0.9041263479739428,3
+811,que llora mucho,['llora'],0.35079637,0.045380870698831094,0.3590144,0.8302648663520813,3
+812,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+813,que siempre anda brincando y gritando,"['anda', 'brincando', 'gritando']",0.31734303,0.047157983790006956,0.627331,0.7786914805571238,3
+814,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+815,el nino grita mucho o habla de mas,"['niño', 'grita']",0.71401846,0.032746557118998196,0.67964834,0.8687215596437454,3
+816,que su hermanito grita mucho,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+817,es una persona gordita que grita,"['persona', 'gordita', 'grita']",0.58424,0.03005280355460162,0.687579,0.8717386797070503,3
+818,se refiere a que su hermano es muy inquieto.,"['refiere', 'hermano', 'inquieto']",0.34961104,0.045575904375025726,0.5825108,0.8403829100231329,3
+819,que el nino es muy griton,"['niño', 'gritón']",0.3431229,0.04629898084522524,0.53251815,0.8067933395504951,3
+820,que es una persona que siempre grita.,"['persona', 'grita']",0.69413954,0.03124313810532369,0.6832276,0.8396872282028198,3
+821,puede ser que el hermanito este pequeno y nunca deja de llorar y gritar por todo lo que le hacen o le pasa.,"['hermanito', 'pequeño', 'deja', 'llorar', 'gritar', 'pasa']",0.4528727,0.03938939683884868,0.64105296,0.8525837349394957,3
+822,porque no para de gritar o de molestar,"['gritar', 'molestar']",0.414988,0.04739192202537297,0.53312504,0.8408288769423962,3
+823,que su hermano grita mucho.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+824,una persona gorda que grita mucho,"['persona', 'gorda', 'grita']",0.58991146,0.02907910084131298,0.69753826,0.8677762597799301,3
+825,"que grita por todo, cada que rebota","['grita', 'rebota']",0.65753967,0.029789229615236165,0.63950753,0.9550269022583961,3
+826,porque el grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+827,que por cualquier cosa llora y grita,"['cosa', 'llora', 'grita']",0.6046784,0.02881169992599807,0.69444525,0.8727345615625381,3
+828,que se la pasa gritando.,"['pasa', 'gritando']",0.3386849,0.044770748600252604,0.5433742,0.7622574269771576,3
+829,talvez que sienpre esta corriendo o no se esta em paz,"['talvez', 'siempre', 'corriendo', 'em', 'paz']",0.27024478,0.04403948376234349,0.42109206,0.8943623925248781,3
+830,porque esta chiquito grita mucho,"['chiquito', 'grita']",0.636768,0.029253808299471877,0.60960156,0.8716191351413727,3
+831,que tu hermano no para de gritar y es un escandaloso.,"['hermano', 'gritar', 'escandaloso']",0.2783705,0.046320575989978865,0.48061216,0.9049863157172998,3
+832,que es un nino muy griton,"['niño', 'gritón']",0.3431229,0.04629898084522524,0.53251815,0.8067933395504951,3
+833,es un nino muy griton,"['niño', 'gritón']",0.3431229,0.04629898084522524,0.53251815,0.8067933395504951,3
+834,su hermano grita todo el tiempo y es una pelota porque se esta ocupando como una alternativa,"['hermano', 'grita', 'pelota', 'ocupando', 'alternativa']",0.39277357,0.03635203087469613,0.5932262,0.920318529754877,3
+835,mi hermano es muy escandaloso,"['hermano', 'escandaloso']",0.2034589,0.046691370068013986,0.2716431,0.9741607513278723,3
+836,que a cada rato esta gritando,"['rato', 'gritando']",0.39269412,0.046109937861687274,0.5909085,0.748691514134407,3
+837,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+838,por que no se calla,['calla'],0.30562633,0.04125714678059487,0.4064448,0.7815937995910645,3
+839,que tu hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+840,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+841,su hermano solo grita,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+842,esta lleno de gritos,"['lleno', 'gritos']",0.36303803,0.04284236853260792,0.555838,0.7535381987690926,3
+843,llora o grita mucho,"['llora', 'grita']",0.6753982,0.030541419526430143,0.6082816,0.8747074156999588,3
+844,"describe como es el hermano,quiere decir que grita mucho","['describe', 'hermano', 'grita']",0.50556093,0.030735034413030146,0.604249,0.8872236373523871,3
+845,que solo grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+846,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+847,que su hermano menor grita mucho,"['hermano', 'menor', 'grita']",0.5282437,0.030340494901296762,0.59977597,0.9051749569674333,3
+848,que esta lleno de gritos listos para salir,"['lleno', 'gritos', 'listos', 'salir']",0.36285686,0.04214998431343956,0.6319093,0.8024188466370106,3
+849,que esta molestando,['molestando'],False,False,False,False,2
+850,que es muy escandaloso o ruidoso,"['escandaloso', 'ruidoso']",0.2518979,0.04472779377876162,0.3386072,0.880178514868021,3
+851,porque tal vez tu hermano es un griton y es lo unico que hace,"['hermano', 'gritón', 'único']",0.25816655,0.043745795380946466,0.38569343,0.937690794467926,3
+852,significa que es una persona que grita demasiado,"['significa', 'persona', 'grita']",0.5520258,0.029067830312276558,0.6621769,0.8789018665750822,3
+853,significa que su hermano es muy escandaloso,"['significa', 'hermano', 'escandaloso']",0.2249054,0.04548854862747277,0.33178198,0.9685508819917837,3
+854,se refiere a que su hermano siempre grita,"['refiere', 'hermano', 'grita']",0.55505866,0.03127247575464963,0.6880405,0.9042629065612952,3
+855,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+856,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+857,que al ser pequeno llora y grita mucho,"['pequeño', 'llora', 'grita']",0.573957,0.02794762847037901,0.6402359,0.8915266046921412,3
+858,que grita mucha probablemente porque es menor,"['grita', 'probablemente', 'menor']",0.5984566,0.03069622900870763,0.6943135,0.8375309556722641,3
+859,que su hermano es muy griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+860,un nino gordo que hace mucho ruido,"['niño', 'gordo', 'ruido']",0.27024996,0.04753688972928587,0.4362051,0.9401680423567692,3
+861,que siempre esta gritando,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+862,pq se espanta muy facil y salta al mismo tiemmpo que gfrita,"['pq', 'espanta', 'fácil', 'salta', 'tiempo', 'grita']",0.43367088,0.03479534588455503,0.6188787,0.8834597676992416,3
+863,que grita muy fuerte y grita todo el tiempo.,"['grita', 'fuerte', 'grita']",0.73157096,0.03168999432527553,0.60816634,0.9007302323977152,3
+864,que su hermano tiende a gritar mucho,"['hermano', 'tiende', 'gritar']",0.3185867,0.04741366353747949,0.52997494,0.8510355812807878,3
+865,que se refieren a que la pelota representa su hermano y como su hermano grita mucho esa es la accion que representa a su hermano,"['refieren', 'pelota', 'representa', 'hermano', 'hermano', 'grita', 'acción', 'representa', 'hermano']",0.3553489,0.04031441613032359,0.5151861,0.9667853025926484,3
+866,"su hermano debe ser un nino pequeno, y por lo general los ninos pequenos gritan cuando hacen berrinches. tambien puede ser un bebe su hermano y pues los bebes lloran.","['hermano', 'niño', 'pequeño', 'niños', 'pequeños', 'gritan', 'berrinches', 'bebé', 'hermano', 'bebés', 'lloran']",0.3346303,0.048194681003586405,0.6235226,0.8585572000592947,3
+867,porque esta gordo y grita demasiado,"['gordo', 'grita']",0.57035685,0.031659394037703396,0.5093061,0.9723247308284044,3
+868,la pelota significa su impratividad osea como *rebotar* y los gritos representa el ruido que hace,"['pelota', 'significa', 'impratividad', 'osea', 'rebotar', 'gritos', 'representa', 'ruido']",0.3136834,0.044323246347096217,0.4912603,0.9341814629733562,1
+869,que su hermano no deja de gritar,"['hermano', 'deja', 'gritar']",0.2791744,0.04620029983143898,0.45982927,0.8906539045274258,3
+870,gritan mucho,['gritan'],0.41076437,0.04855823645224157,0.57884085,0.6439504623413086,3
+871,que grita demaciado,"['grita', 'demasiado']",0.67364407,0.029757034481427174,0.6288184,0.8671602606773376,3
+872,que el nino grita mucho tiempo continuo.,"['niño', 'grita', 'continuo']",0.6019071,0.0320351483438527,0.6807871,0.8389056324958801,3
+873,significa que su hermano llora y gritos mucho,"['significa', 'hermano', 'llora', 'gritos']",0.2922444,0.044875386552050166,0.43722755,0.9106120159849524,3
+874,que su hermano es muy griton,"['hermano', 'gritón']",0.22442788,0.0461935447698445,0.33011976,0.9179990459233522,3
+875,que se grita siempre llora y grita.,"['grita', 'llora', 'grita']",0.7835988,0.031007035763397413,0.6334134,0.889521598815918,3
+876,"que su hermano es muy desastroso, que grita mucho","['hermano', 'desastroso', 'grita']",0.51575303,0.030084254542715867,0.5805484,0.9254557502766451,3
+877,que el hermano del autor es alguien que se expresa mucho y de manera demandante.,"['hermano', 'autor', 'alguien', 'expresa', 'demandante']",0.26452202,0.04438580424563462,0.44651473,0.89315899387002,3
+878,"su hermano se grita y trata como pelota(salta, bota)","['hermano', 'grita', 'pelota(salta', 'bota']",0.49740037,0.02988969148870438,0.60339445,0.964148527632157,3
+879,que es muy escandaloso,['escandaloso'],0.21627086,0.04581402271363992,0.23753607,0.9076169356703758,3
+880,que el hermano grita mucho.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+881,el molesta facilmente,"['molesta', 'fácilmente']",0.45064253,0.04149106335019035,0.6288276,0.7553791627287865,3
+882,su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+883,que su hermano grita mucho,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+884,quiere decir que siempre pega gritos,"['pega', 'gritos']",0.3173033,0.04519019402625898,0.41828978,0.898977167904377,3
+885,una persona que grita,"['persona', 'grita']",0.69413954,0.03124313810532369,0.6832276,0.8396872282028198,3
+886,el hermano que grita.,"['hermano', 'grita']",0.59532344,0.03251764992324526,0.5216429,0.9799272660166025,3
+887,que es alguien que no para de gritar,"['alguien', 'gritar']",0.374386,0.04715534400453725,0.5282137,0.8297774344682693,3
+888,"quiere decir que los hermanos se gritan y lloran porque son menores en las casas, y se comparo en una pelota.","['hermanos', 'gritan', 'lloran', 'menores', 'casas', 'comparo', 'pelota']",0.31674612,0.044345195240743866,0.60182977,0.891228662537677,3
+889,that maybe her sister always screams to her,"['that', 'maybe', 'her', 'sister', 'always', 'screams', 'to', 'her']",False,False,False,False,3
+890,que es un bebe que grita mucho,"['bebé', 'grita']",0.642051,0.03231375954548794,0.6059413,0.9123926088213921,3
+891,que siempre esta gritando,['gritando'],0.3733083,0.043518344551005665,0.5244153,0.7069355249404907,3
+892,que no deja de gritar,"['deja', 'gritar']",0.3234381,0.04628566548380605,0.5002077,0.8156285732984543,3
+893,mi hermanito grita mucho.,"['hermanito', 'grita']",1.0,0.01657326504911003,0.8323351,0.9154281802475452,3
+894,puede significar que el hermano es ruidoso.,"['significar', 'hermano', 'ruidoso']",0.18120658,0.04563515437436951,0.24848753,0.9800998804469904,3
+895,que grita mucho,['grita'],1.0,0.033521517414720814,0.58479303,0.9191499650478363,3
+896,"esta usando la palabra pelota para todo, asi ue podemos pensar que su hermanito simplemente es muy griton","['usando', 'palabra', 'pelota', 'ue', 'pensar', 'hermanito', 'simplemente', 'gritón']",0.37812313,0.037847937113784307,0.6806128,0.9123329243489674,3
+897,es un nino que grita mucho,"['niño', 'grita']",0.71401846,0.032746557118998196,0.67964834,0.8687215596437454,3
