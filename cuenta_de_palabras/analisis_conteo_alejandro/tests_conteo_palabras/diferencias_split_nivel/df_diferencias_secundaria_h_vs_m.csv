@@ -1,0 +1,4 @@
+"","tests","suma_total_sustantivos","suma_total_verbos","suma_total_adjetivos","suma_total_adverbios","total_palabras_clasificadas","total_palabras","gran_total"
+"1","wilcox_estadistico","31563","31749.5","34611","31161.5","33166","33770","33863.5"
+"2","wilcox_pvalor","0.00465750927960035","0.00308805723531919","8.976795126593e-07","0.0104706115940222","8.77740778171051e-05","1.46645038388539e-05","1.08296067474296e-05"
+"3","wilcox_conclusion","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula"
