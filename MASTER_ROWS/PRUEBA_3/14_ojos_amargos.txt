@@ -1,271 +1,263 @@
 ---> ========================= RESPUESTAS AFIRMATIVAS =========================
 
 -> Que significa?
-> que tienen dolor
-ojos llorosos
-esta triste enojado
-que tienen los ojos tristes
-tristeza
-que los ojos son irritables
-que estas triste o amargado
-que tienen dolor por dentro
-ver algo que no te gusta
-que te entro cebolla en el ojo
-unos ojos que lloran que tienen problemas
-mala mirada
-unos ojos que no reflejan sentimiento alguno
-como vista mala o vista triste
-que la mirada es seria
-que tiene los ojos verdes
-unos ojos muy tristes
-ojos tristes o de una persona enojada y harta
-es una metafora para referirse a unos ojos de una persona molesta enojada
-ojos tristes enojados decepcionados etc
-tristes como mi cocoro
-que es muy amargada la persona
-que no tiene una mirada con mucha alegría   
-que te sientes amargado y tus ojos lo reflejan
-que tienes una mirada enojada
-ojos aburridos
-ojos que te dejan ver la realidad
-es una metafora significa que tus ojos estan sin ninguna felicidad
-puede que tengas tristeza
-que estas triste y te expresas con la mirada
-que tiene ojos enojados o secos
-ojos obscuros y con un alma lastimada
-que su mirada no es muy dulce o gentil
-que tienes ojos tristes
-una mirada fea o cuando alguien no le caes bien o le hiciste algo es muy vacía
-que esta serio o enojado
-que no expresa mucho su mirada
-que alguien te mira con ojos negativos
-que esa persona tiene una mirada triste como mala
-que sus ojos duelen
-que los ojos de alguien son de color oscuro o que estos reflejan amargura
-tiene ojo de triste etc
-están enojados
-que los ojos están tristes
-ojos que duelen de una manera que es amargo
 
->unos ojos que reflejan a alguien enojado o molesto porque se dice que los ojos son la ventana del alma
-pues que la persona está enojada
-que son muy serios
-cuando alguien esta malhumorado y tiene los ojos durmiendo
-una mirada fría llena de furia y estrés
-cuando una persona es muy amargada
-ojos de odio
-expresan intolerancia o enfado
-los que ven todo de mala manera
-que los ojos están amargados
-que son ojos de odio o cansados
-que su mirada es de enojo o amargo
+> que tienen dolor
+1. ojos llorosos
+1. esta triste enojado
+1. que tienen los ojos tristes
+1. tristeza
+1. que los ojos son irritables
+1. que estas triste o amargado
+1. que tienen dolor por dentro
+1. ver algo que no te gusta
+1. que te entro cebolla en el ojo
+1. unos ojos que lloran que tienen problemas
+1. mala mirada
+1. unos ojos que no reflejan sentimiento alguno
+1. como vista mala o vista triste
+1. que la mirada es seria
+1. que tiene los ojos verdes
+1. unos ojos muy tristes
+1. ojos tristes o de una persona enojada y harta
+1. es una metafora para referirse a unos ojos de una persona molesta enojada
+1. ojos tristes enojados decepcionados etc
+1. tristes como mi cocoro
+1. que es muy amargada la persona
+1. que no tiene una mirada con mucha alegría   
+1. que te sientes amargado y tus ojos lo reflejan
+1. que tienes una mirada enojada
+1. ojos aburridos
+1. ojos que te dejan ver la realidad
+1. es una metafora significa que tus ojos estan sin ninguna felicidad
+1. puede que tengas tristeza
+1. que estas triste y te expresas con la mirada
+1. que tiene ojos enojados o secos
+1. ojos obscuros y con un alma lastimada
+1. que su mirada no es muy dulce o gentil
+1. que tienes ojos tristes
+1. una mirada fea o cuando alguien no le caes bien o le hiciste algo es muy vacía
+1. que esta serio o enojado
+1. que no expresa mucho su mirada
+1. que alguien te mira con ojos negativos
+1. que esa persona tiene una mirada triste como mala
+1. que sus ojos duelen
+1. que los ojos de alguien son de color oscuro o que estos reflejan amargura
+1. tiene ojo de triste etc
+1. están enojados
+1. que los ojos están tristes
+1. ojos que duelen de una manera que es amargo
+
+> unos ojos que reflejan a alguien enojado o molesto porque se dice que los ojos son la ventana del alma
+1. pues que la persona está enojada
+1. que son muy serios
+1. cuando alguien esta malhumorado y tiene los ojos durmiendo
+1. una mirada fría llena de furia y estrés
+1. cuando una persona es muy amargada
+1. ojos de odio
+1. expresan intolerancia o enfado
+1. los que ven todo de mala manera
+1. que los ojos están amargados
+1. que son ojos de odio o cansados
+1. que su mirada es de enojo o amargo
 
 
 > que una persona tiene una mirada fea o extraña
-ojos con una mirada poderosa
-ojos raros sospechosos
+1. ojos con una mirada poderosa
+1. ojos raros sospechosos
 
->que algo como el limón les entre a tus ojos
 
->la gente no ve con claridad
-que sus ojos u la persona no es muy expresiva no tiene mucha emocion o sentimiento
+> la gente no ve con claridad
+1. que sus ojos u la persona no es muy expresiva no tiene mucha emocion o sentimiento
 
 > mirada fea
-mirada fea
-ojos horrorosos
-la persona es amarga
-feos sin vida vacíos
-una muy fea mirada
-cuando los ojos son muy feos y rasgados
-mirada dura o sin sentimientos
-ojos con expresión de amargura
-que hay personas amargas y se refleja por sus ojos
+1. mirada fea
+1. ojos horrorosos
+1. la persona es amarga
+1. feos sin vida vacíos
+1. una muy fea mirada
+1. cuando los ojos son muy feos y rasgados
+1. mirada dura o sin sentimientos
+1. ojos con expresión de amargura
+1. que hay personas amargas y se refleja por sus ojos
 
 
 > ojos muy oscuros
-ojos oscuros o amargados
-que son negros tus ojos
-ojos negros
+1. ojos oscuros o amargados
+1. que son negros tus ojos
+1. ojos negros
 
 
-"""invalidas
-eyes with a bitter color or maybe when someone is lokking at someone in a bitter way
-molesto
-ojos que no expresan nada
-es un animal
-como una infección
-alguna expresión
-ojos tristes
-algún dolor
-ojos cansados
-ojos feos
-es mover tus ojos
-que no te llevas bien
-que son como el café
-que como el amargo no tiene un sabor a dulce los ojos son oscuras
-sentimientos
-con una vista no muy agradable
-una expresión
-que hace caras
-ojos de calor
+> NA
+1. eyes with a bitter color or maybe when someone is lokking at someone in a bitter way
+1. molesto
+1. ojos que no expresan nada
+1. es un animal
+1. como una infección
+1. alguna expresión
+1. ojos tristes
+1. algún dolor
+1. ojos cansados
+1. ojos feos
+1. es mover tus ojos
+1. que no te llevas bien
+1. que son como el café
+1. que como el amargo no tiene un sabor a dulce los ojos son oscuras
+1. sentimientos
+1. con una vista no muy agradable
+1. una expresión
+1. que hace caras
+1. ojos de calor
 
-"""
+
 
 -> Por qué crees que sí o no es posible?
 
 > porque hay personas que se nota en sus ojos que están tristes
-porque amargo se refiere a un sabor no dulce pero no salado y pues existen ojos negros
-sí porque cuando se enojan y lloran tienen los ojos amargos
-porque la mayoría se pone triste
-porque tú puedes mover tus ojos entonces es posible
-porque toda persona tiene odio a alguien
-sí porque hay personas que sufren
-porque a veces estas triste
-por las expresiones de cada uno
-todos podemos expresar sentimientos
-porque puede haber personas con ojos feos
-si por que viendolo de forma figurada las personas pueden hacer miradas feas o poco comunes
-mirar a alguien más con cara de odio
-por que mucha gente es muy amargada y ven a los demás con amargura
-sí es posible porque hay gente con los ojos verdes
-es posible porque la tristeza siempre se nota en los ojos
-porque hay personas con ojos así de pesados
-la mayoría de las personas así los tienen
-cuando estas triste te vuelves amargado como yo
-si es posible ya que puede que sea amargo y eso se pueda reflejar en mis ojos
-porque puede ser en el sentido de que una persona esta triste
-sí porque hay personas que se enojan y ponen ojos de coraje
-porque a la persona la hacemos enojar
-cuando te dicen por ejemplo tienes cara de amargado o no seas amargado
-si por que hay personas que ven todo como ofensas de manera negativa etc
-si llega a pasarnos a todas las personas mas si eres muy estrezante
-su mirada puede ser de una persona amarga
-tal vez asi se diga por que estas llorando o tienes los hojos de que lloraste
-porque no es literal se usa para referirse a cuando la persona tiene una fea mirada
-es una reaccion natural de nuestro cuerpo cuando algo no nos agrada
-cuando alguien te hizo algo o quieres decirle algo y que se sienta mal
-porque cuando alguien te mira feo hay una expresion que dice que ojos tan amargos
-muchas personas echan miradas con ojos amargos y con mala vibra
-si es posible porque los ojos son oscuros ya que el amargo no es dulce
-sí es posible porque los ojos pueden reflejar eso
-porque puedes tener ojos oscuros o una vida amargada
-porque es una metafora y es posible reflejar amargura a traves de los ojos
-porque hay gente con esa vista amarga mala
+1. porque amargo se refiere a un sabor no dulce pero no salado y pues existen ojos negros
+1. sí porque cuando se enojan y lloran tienen los ojos amargos
+1. porque la mayoría se pone triste
+1. porque tú puedes mover tus ojos entonces es posible
+1. porque toda persona tiene odio a alguien
+1. sí porque hay personas que sufren
+1. porque a veces estas triste
+1. por las expresiones de cada uno
+1. todos podemos expresar sentimientos
+1. porque puede haber personas con ojos feos
+1. si por que viendolo de forma figurada las personas pueden hacer miradas feas o poco comunes
+1. mirar a alguien más con cara de odio
+1. por que mucha gente es muy amargada y ven a los demás con amargura
+1. sí es posible porque hay gente con los ojos verdes
+1. es posible porque la tristeza siempre se nota en los ojos
+1. porque hay personas con ojos así de pesados
+1. la mayoría de las personas así los tienen
+1. cuando estas triste te vuelves amargado como yo
+1. si es posible ya que puede que sea amargo y eso se pueda reflejar en mis ojos
+1. porque puede ser en el sentido de que una persona esta triste
+1. sí porque hay personas que se enojan y ponen ojos de coraje
+1. porque a la persona la hacemos enojar
+1. cuando te dicen por ejemplo tienes cara de amargado o no seas amargado
+1. si por que hay personas que ven todo como ofensas de manera negativa etc
+1. si llega a pasarnos a todas las personas mas si eres muy estrezante
+1. su mirada puede ser de una persona amarga
+1. tal vez asi se diga por que estas llorando o tienes los hojos de que lloraste
+1. porque no es literal se usa para referirse a cuando la persona tiene una fea mirada
+1. es una reaccion natural de nuestro cuerpo cuando algo no nos agrada
+1. cuando alguien te hizo algo o quieres decirle algo y que se sienta mal
+1. porque cuando alguien te mira feo hay una expresion que dice que ojos tan amargos
+1. muchas personas echan miradas con ojos amargos y con mala vibra
+1. si es posible porque los ojos son oscuros ya que el amargo no es dulce
+1. sí es posible porque los ojos pueden reflejar eso
+1. porque puedes tener ojos oscuros o una vida amargada
+1. porque es una metafora y es posible reflejar amargura a traves de los ojos
+1. porque hay gente con esa vista amarga mala
 
 
->porque hay gente que tiene una mirada particular
-yo creo que si por que muchas veces las personas reflejan mucho por sus ojos
-por que cuando ves a una persona asi como te cae mal asi los van a siendo como que los miras raro
+> porque hay gente que tiene una mirada particular
+1. yo creo que si por que muchas veces las personas reflejan mucho por sus ojos
+1. por que cuando ves a una persona asi como te cae mal asi los van a siendo como que los miras raro
 
->porque cualquiera puede tener una mirada sin sentimientos
-porque alguien puede tener la mirada muy simple y no dice nada con ella
-es una metáfora para describir unos ojos oscuros o sin emociones
+> porque cualquiera puede tener una mirada sin sentimientos
+1. porque alguien puede tener la mirada muy simple y no dice nada con ella
+1. es una metáfora para describir unos ojos oscuros o sin emociones
 
->sí porque hay personas que tienen ojos muy obscuros
-porque existe gente con ojos negros
-porque puedes ver algunas expresiones en los ojos de alguien y estos pueden tener distintos colores
-sí porque cada persona tiene diferentes ojos
+> sí porque hay personas que tienen ojos muy obscuros
+1. porque existe gente con ojos negros
+1. porque puedes ver algunas expresiones en los ojos de alguien y estos pueden tener distintos colores
+1. sí porque cada persona tiene diferentes ojos
 
->porque muchos no ven bien
-porque hay infecciones en los ojos
-sí porque si se pueden doler sus ojos
-sí porque todos tienen ojos amargos en la mañana
-si porque los ojos pueden doler cuando se lastiman y una de ellas es cuando los ojos son amargos
-no porque si los tocas te arde
+> porque muchos no ven bien
+1. porque hay infecciones en los ojos
+1. sí porque si se pueden doler sus ojos
+1. sí porque todos tienen ojos amargos en la mañana
+1. si porque los ojos pueden doler cuando se lastiman y una de ellas es cuando los ojos son amargos
+1. no porque si los tocas te arde
 
-
-"""
-invalidas
-todos hemos pasado por momentos donde la situacion no favorece nuestros sentimientos la expresion natural del ser humano es expresar sus sentimientos en el rostro en este caso los ojos
-because it is a metaphor
-porque se pu
-es posible ya que una persona que no lleva una vida feliz se puede reflejar que no lo es que solamente ha llevado una vida de infelicidad y de amargura
-
-si porque hay gente que no vive al máximo y que vive la vida tranquila
-creo que es posible porque ya he visto esos ojos y porque la frase se usa como metafora
-todas las personas tienen su forma de mirar
-porque puede que así lo figure la gente
-
-porque hay personas con esta mirada
-sor no descansarlos
-solo hablando en sentido figurado se podría decir eso
-porque se siente
-por en tus o sus ojos se refleja eso
-porque algunas personas están con ese sentimiento
-
-porque es una expresión
-porque existe
-porque es una expresión
-es posible porque la actitud de una persona varia y puede ser un momento malo el caso es que es una metafora y si le entiendo
-
-porque puede pasar en un momento inesperado
-porque es parte de alguna característica
-porque he visto a personas con esos ojos
-sí es posible ya pero es una frase
-porque es doble sentido
-porque depende de tus emociones
-
-sí porque se puede
-porque haces caras
-porque es un sentimiento
-sí por estrés
-nos deja ver
-si
-por veo
-porque es como demostrar sentimientos
-por las expresiones
-porque es una expresión
-porque luego me siento así
-porque es una expresión
-porque los he visto
-porque si se puede
-pues porque hay mucha gente que si lo es
-porque todos nos enojamos
-porque he visto a gente así
+> NA
+1. todos hemos pasado por momentos donde la situacion no favorece nuestros sentimientos la expresion natural del ser humano es expresar sus sentimientos en el rostro en este caso los ojos
+1. because it is a metaphor
+1. porque se pu
+1. es posible ya que una persona que no lleva una vida feliz se puede reflejar que no lo es que solamente ha llevado una vida de infelicidad y de amargura
+1. si porque hay gente que no vive al máximo y que vive la vida tranquila
+1. creo que es posible porque ya he visto esos ojos y porque la frase se usa como metafora
+1. todas las personas tienen su forma de mirar
+1. porque puede que así lo figure la gente
+1. porque hay personas con esta mirada
+1. sor no descansarlos
+1. solo hablando en sentido figurado se podría decir eso
+1. porque se siente
+1. por en tus o sus ojos se refleja eso
+1. porque algunas personas están con ese sentimiento
+1. porque es una expresión
+1. porque existe
+1. porque es una expresión
+1. es posible porque la actitud de una persona varia y puede ser un momento malo el caso es que es una metafora y si le entiendo
+1. porque puede pasar en un momento inesperado
+1. porque es parte de alguna característica
+1. porque he visto a personas con esos ojos
+1. sí es posible ya pero es una frase
+1. porque es doble sentido
+1. porque depende de tus emociones
+1. sí porque se puede
+1. porque haces caras
+1. porque es un sentimiento
+1. sí por estrés
+1. nos deja ver
+1. si
+1. por veo
+1. porque es como demostrar sentimientos
+1. por las expresiones
+1. porque es una expresión
+1. porque luego me siento así
+1. porque es una expresión
+1. porque los he visto
+1. porque si se puede
+1. pues porque hay mucha gente que si lo es
+1. porque todos nos enojamos
+1. porque he visto a gente así
 
 
-"""
+
 
 ---> ========================= RESPUESTAS NEGATIVAS =========================
 
 -> Que significa?
 > que tiene los ojos tristes
-una persona esta triste o tiene una mirada triste
-que tiene los ojos tristes
-mirada de apatía o tristeza
-unos ojos que saben amargos
-mirada de odio o enojo
-ojos con mirada intensa
-estar enojado
-que son negros tus ojos
-que saben amargos
-ojos llenos de sentimientos malos
-ojos tristes
-tal vez se puede referir a una metafora y tratar de decir que tienen una mirada sin sentimiento
-que los ojos son muy difíciles de voltear a ver
-que puede tener una fuerte mirada
-ojos llorosos
+1. una persona esta triste o tiene una mirada triste
+1. que tiene los ojos tristes
+1. mirada de apatía o tristeza
+1. unos ojos que saben amargos
+1. mirada de odio o enojo
+1. ojos con mirada intensa
+1. estar enojado
+1. que son negros tus ojos
+1. que saben amargos
+1. ojos llenos de sentimientos malos
+1. ojos tristes
+1. tal vez se puede referir a una metafora y tratar de decir que tienen una mirada sin sentimiento
+1. que los ojos son muy difíciles de voltear a ver
+1. que puede tener una fuerte mirada
+1. ojos llorosos
 
-"""invalidas
-no se comen
-"""
+> NA
+1. no se comen
+
 
 -> Por qué crees que sí o no es posible?
+
 > porque puede tener una mirada muy triste
-tus ojos no se amargan
-no es posible de manera literal porque los ojos no tienen sabor
-por que no creo que alguien pruebe los ojos para saber si son amargos
-porque es una referencia a una mirada de odio
-porque no
-porque no sabe a eso los ojos
-es raro
-porque los ojos no se amargan
-es metafora no se pueden probar los ojos para saber si son amargos
-porque los ojos pueden transmitir los sentimientos
-no porque no los pruebas los ojos
-porque puede hablar de una metáfora
-porque los ojos no se prueban por lo tanto no son amargos
-no por que creo que sería imposible
-los ojos no pueden hacer eso
-
-
+1. tus ojos no se amargan
+1. no es posible de manera literal porque los ojos no tienen sabor
+1. por que no creo que alguien pruebe los ojos para saber si son amargos
+1. porque es una referencia a una mirada de odio
+1. porque no
+1. porque no sabe a eso los ojos
+1. es raro
+1. porque los ojos no se amargan
+1. es metafora no se pueden probar los ojos para saber si son amargos
+1. porque los ojos pueden transmitir los sentimientos
+1. no porque no los pruebas los ojos
+1. porque puede hablar de una metáfora
+1. porque los ojos no se prueban por lo tanto no son amargos
+1. no por que creo que sería imposible
+1. los ojos no pueden hacer eso

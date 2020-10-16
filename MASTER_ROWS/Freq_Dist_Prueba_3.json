@@ -1,0 +1,741 @@
+{
+    "p3_01_estrellas_de_cristal": {
+        "afirmativo": {
+            "que_significa" : {
+                "que las estrellas son frágiles": 41,
+                "que algunas estrellas pueden ser de cristal": 19
+            },
+            "porque_crees_es_posible" : {
+                "por que la estrella brilla y se ve como cristal": 20,
+                "porque puede ser una decoración": 21,
+                "NA": 36
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que brillan": 10,
+                "una estrella formada por cristal": 7,
+                "NA": 4
+            },
+            "porque_crees_es_posible" : {
+                "porque son hechas de otro material": 18,
+                "NA": 4
+            }
+        }
+    },
+    "p3_02_piernas_de_acero": {
+        "afirmativo": {
+            "que_significa" : {
+                "piernas fuertes": 61,
+				"sentido figurado para las protesis": 2,
+				"que las piernas son de acero": 3,
+				"pueden ser duras": 3,
+				"que tiene buena forma": 1,
+                "que si se puede haciendo mucho ejercicio": 1,
+                "NA": 4
+            },
+            "porque_crees_es_posible" : {
+                "porque puedes ejercitarlas y hacerlas fuertes": 44,
+                "porque es una manera de expresarse": 14,
+                "por que son protesis y sirven para las personas con o an perdido un pie": 13,
+                "que luego pueden llegar a ser de acero": 1,
+                "si por que nada mas construyen la escultura": 2,
+                "NA": 2
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "podria ser que sus piernas son muy resistentes": 20,
+                "pues si en modo figurativo y no en literal": 3,
+                "no se puede tener piernas de acero": 14,
+                "porque es muy dificil": 1
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_03_ojos_de_miel": {
+        "afirmativo": {
+            "que_significa" : {
+                "que sus ojos soy muy brillantes": 2,
+				"que mis ojos o sus ojos son muy lindos": 8,
+                "el color de ojos": 53,
+                "NA": 1
+            },
+            "porque_crees_es_posible" : {
+                "por que es figurativo": 10,
+                "porque hay personas que tienen ese color de ojos": 43,
+                "si es posible": 6,
+                "por genetica": 2,
+                "por que hay personas que sus ojos son hermosos": 1
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que son ojos color miel": 12,
+                "que tiene unos ojos bonitos": 1,
+                "que no es posible": 1,
+                "NA": 22
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_04_vestidos_de_tela": {
+        "afirmativo": {
+            "que_significa" : {
+                "que el vestido es de un material de seda o tela": 97,
+				"que es una ropa que se usa en bailes": 13,
+				"vestidos normales": 2,
+				"que si es posible": 1,
+				"NA": 5
+            },
+            "porque_crees_es_posible" : {
+                "porque existen y estamos vestidos con ellos": 7,
+                "por que los hacen con tela": 58,
+                "por que ya existen": 36,
+                "es posible debido a que la tela tiene una propiedad calorifica y es liviana": 1,
+                "si es posible por que hay algunas personas que crean su propia ropa": 2,
+                "por que hay muchos vestidos y rropa en el mundo creados por el ser umano": 1,
+                "NA": 11
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "NA": 0
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_05_sobre_de_papel": {
+        "afirmativo": {
+            "que_significa" : {
+                "un sobre una para una carta": 21,
+				"que es de papel": 37,
+				"que recibira una carta": 5,
+				"es un compartimento en el que puedes guardar lo que sea": 2,
+				"que es un sobre": 1,
+				"que se esta sobre el papel": 2,
+                "escribir sobre el papel": 1,
+                "que tus pensamientos son delicados pero no los puedes compartir": 1,
+                "un sobre muy delicado. (lo tome literal)": 1,
+				"NA": 8
+            },
+            "porque_crees_es_posible" : {
+                "es posible porque el papel puede adquirir mil formas": 6,
+                "si es posible por que hay sobres de papel": 50,
+                "si por que desde hoy se utiliza y es muy comun que se aga eso en regalos o algo por el estilo": 5,
+                "si te puedes parar sobre el papel": 5,
+                "si porque puede que sea alguien que quiera saber de ti": 4,
+                "NA": 11
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que pones algo sobre el papel": 1
+            },
+            "porque_crees_es_posible" : {
+                "NA": 2
+            }
+        }
+    },
+    "p3_06_collares_de_perlas": {
+        "afirmativo": {
+            "que_significa" : {
+                "un collar lujoso": 11,
+				"que tiene un collar de perlas o va a tener": 70,
+				"que si se pueden hacer": 4,
+				"NA": 5
+            },
+            "porque_crees_es_posible" : {
+                "por que de acuerdo a la ciencia e inteligencia del ser humano estos inventos u objetos ya son existentes": 82,
+                "por que se consiguen en el mar": 1,
+                "por que si": 1,
+                "porque se ve elegante": 1,
+                "NA": 6
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "NA": 0
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_07_zapatos_de_miel": {
+        "afirmativo": {
+            "que_significa" : {
+                "los zapatos son color miel": 12,
+				"es un tipo de calzado": 2,
+				"son como aquellas personas que se resbalan mucho por sus zapatos": 1,
+				"NA": 4
+            },
+            "porque_crees_es_posible" : {
+                "los zapatos pueden ser de varios colores": 8,
+                "por que van saliendo nuevos descubrimientos o creaciones": 2,
+                "por que si es puede ser el zapato de miel": 2,
+                "es una metafora": 1,
+                "NA": 8
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que hay zapatos hechos de miel": 22,
+                "zapatos pegajosos": 4,
+                "que los zapatos tienen un color miel": 7,
+                "ponerte en los zapatos de alguien agradable": 5,
+                "zapatos dulces": 2,
+                "zapato de cuero cubierto con miel": 2,
+                "NA": 6
+            },
+            "porque_crees_es_posible" : {
+                "la miel es un material comestible y no duraria como otro material": 24,
+                "por que no se pueden fabricar zapatos con la miel": 36,
+                "por que no tiene sentido": 7,
+                "no porque te podrias resbalar": 4
+            }
+        }
+    },
+    "p3_08_calendario_de_zacate": {
+        "afirmativo": {
+            "que_significa" : {
+                "un calendario hecho de zacate": 12,
+                "los dias que festejaban los dioses": 1,
+                "que puedes no tener muy bien planificados tus dias y que parezca que tengan hoyos como los de los zacates": 1,
+				"es como un zacate": 1,
+				"NA": 7
+            },
+            "porque_crees_es_posible" : {
+                "por que antes se usaban otros materiales": 6,
+                "porque si se puede": 15,
+                "NA": 10
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "un calendario hecho de un zacate": 23,
+                "que este calendario es amarillo o muy rugoso": 1,
+                "que tienes un año apretado": 2,
+                "NA": 9
+            },
+            "porque_crees_es_posible" : {
+                "no porque no existe los calendarios de zacate": 3,
+                "porque no hay calendarios de zacate": 19,
+                "no porque un zacate no tiene que ver con un calendario": 4,
+                "por que es muy ilogico": 1,
+                "NA": 4
+            }
+        }
+    },
+    "p3_09_escobas_de_cristal": {
+        "afirmativo": {
+            "que_significa" : {
+                "que la escoba es muy frágil": 10,
+				"que hay escobas hechas de cristal": 7,
+				"NA": 1
+            },
+            "porque_crees_es_posible" : {
+                "porque hay cosas frágiles": 10,
+                "por que se pueden hacer escobas de cristal": 6,
+                "NA": 2
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que las escobas son muy frágiles": 56,
+                "NA": 5
+            },
+            "porque_crees_es_posible" : {
+                "no por que se rompería fácilmente": 67,
+                "NA": 3
+            }
+        }
+    },
+    "p3_10_escultura_de_piedra": {
+        "afirmativo": {
+            "que_significa" : {
+				"que se hizo con piedra": 100,
+                "una obra de arte": 12,
+                "que no cambia de expresión": 2,
+				"NA": 4
+            },
+            "porque_crees_es_posible" : {
+                "si porque la piedra se puede manipular": 78,
+                "porque la pueden ocupar para representar a alguien": 11,
+                "NA": 28
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "NA": 0
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_11_carbon_ardiente": {
+        "afirmativo": {
+            "que_significa" : {
+                "que el carbón esta caliente": 91,
+                "alguien que se esta enojando mucho o una situación complicada": 6,
+                "NA": 11
+            },
+            "porque_crees_es_posible" : {
+                "un carbón puede estar caliente": 73,
+                "sí porque todos se enojan": 3,
+                "porque es lo que se utiliza para cocinar": 4,
+                "porque se utiliza en las chimeneas y fogatas": 6,
+                "NA": 20
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que el carbón arde": 2
+            },
+            "porque_crees_es_posible" : {
+                "no porque el carbón no puede hacer eso por sí mismo": 2
+            }
+        }
+    },
+    "p3_12_comida_salada": {
+        "afirmativo": {
+            "que_significa" : {
+                "que la comida tiene mucha sal": 98,
+				"NA": 3
+            },
+            "porque_crees_es_posible" : {
+                "porque le pueden poner demasiada sal a la comida": 80,
+                "NA": 21
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "NA": 0
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_13_alma_de_hierro": {
+        "afirmativo": {
+            "que_significa" : {
+				"una persona fuerte": 68,
+				"que una persona es muy cruel": 19,
+				"NA": 4
+            },
+            "porque_crees_es_posible" : {
+                "tener un alma que se asemeje al hierro fría resistente y fuerte": 53,
+                "porque hay gente sin sentimientos": 14,
+                "NA": 26
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que no tiene sentimientos o es muy fuerte": 38
+            },
+            "porque_crees_es_posible" : {
+                "no porque todo ser humano tiene sentimientos": 23,
+                "porque el alma no es algo físico": 6,
+                "NA": 10
+            }
+        }
+    },
+    "p3_14_ojos_amargos": {
+        "afirmativo": {
+            "que_significa" : {
+				"que tienen dolor": 44,
+                "unos ojos que reflejan a alguien enojado o molesto porque se dice que los ojos son la ventana del alma": 11,
+                "que una persona tiene una mirada fea o extraña": 2,
+				"la gente no ve con claridad": 1,
+				"mirada fea": 9,
+				"ojos muy oscuros": 3,
+				"NA": 19
+            },
+            "porque_crees_es_posible" : {
+                "porque hay personas que se nota en sus ojos que están tristes": 37,
+                "porque hay gente que tiene una mirada particular": 2,
+                "porque cualquiera puede tener una mirada sin sentimientos": 2,
+                "sí porque hay personas que tienen ojos muy obscuros": 3,
+                "porque muchos no ven bien": 5,
+                "NA": 41
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que tiene los ojos tristes": 15,
+                "NA": 1
+            },
+            "porque_crees_es_posible" : {
+                "porque puede tener una mirada muy triste": 15
+            }
+        }
+    },
+    "p3_15_abrazos_suaves": {
+        "afirmativo": {
+            "que_significa" : {
+				"un abrazo con amor": 88,
+				"NA": 3
+            },
+            "porque_crees_es_posible" : {
+                "sí por que lo dan con cariño": 93
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "un abrazo no muy fuerte": 4
+            },
+            "porque_crees_es_posible" : {
+                "los abrazos no pueden ser duros o suaves": 5
+            }
+        }
+    },
+    "p3_16_banqueta_abrigadora": {
+        "afirmativo": {
+            "que_significa" : {
+                "que te protege": 17,
+                "que está abrigada": 20,
+				"NA": 17
+            },
+            "porque_crees_es_posible" : {
+                "por que muchas personas no tienen casa": 8,
+                "si por que te puedes dormir en ella": 9,
+                "porque cada persona puede sentirse seguro en algunos lugares": 14,
+                "NA": 22
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que la banqueta es caliente o te cubre": 22,
+                "una banqueta no puede abrigarte": 8,
+                "que la banqueta es segura": 7,
+                "NA": 27
+            },
+            "porque_crees_es_posible" : {
+                "porque las banquetas no te pueden abrigar": 41,
+                "porque que hay gente que vive en la calle": 2,
+                "NA": 22
+            }
+        }
+    },
+    "p3_17_calceta_de_plata": {
+        "afirmativo": {
+            "que_significa" : {
+                "una calceta fina y brillante hecha de hilos de plata": 30,
+				"una calceta fina": 7,
+				"algo con gran importancia": 5,
+				"NA": 9
+            },
+            "porque_crees_es_posible" : {
+                "creo que es cuando te esfuerzas por algo": 2,
+                "porque se puede hacer un calcetín con cualquier material": 10,
+                "porque hay calcetas grises": 8,
+                "si por que la gente puede tener mucha suerte o dinero": 9,
+                "NA": 21
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "una calceta hecha de plata": 24,
+                "que tienes mucha suerte": 2,
+                "no pueden ser de plata": 1,
+                "que es una calceta de alto valor": 5,
+                "NA": 10
+            },
+            "porque_crees_es_posible" : {
+                "porque las calcetas están hechas de tela": 34,
+                "NA": 11
+            }
+        }
+    },
+    "p3_18_lapiz_sin_sabor": {
+        "afirmativo": {
+            "que_significa" : {
+                "porque los lápices no tienen sabor": 18,
+                "que los lapices no son comestibles": 4,
+                "un lápiz sin punta": 7,
+				"NA": 17
+            },
+            "porque_crees_es_posible" : {
+                "por que no tienen sabor": 15,
+                "si es posible porque todo tiene sabor y el lápiz también": 7,
+                "si porque puede ser una manera de decir que ya no pinta": 4,
+                "NA": 20
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que el lápiz no tiene sabor": 25,
+                "que el lápiz no pinta": 7,
+                "que el lápiz esta hecho de madera y la madera tiene sabor": 7,
+                "NA": 13
+            },
+            "porque_crees_es_posible" : {
+                "por que los lapices no tienen sabor": 18,
+                "no por que todos los materiales con los que elaboran el lápiz tienen algún sabor": 17,
+                "NA": 18
+            }
+        }
+    },
+    "p3_19_la_silla_ya_llego": {
+        "afirmativo": {
+            "que_significa" : {
+                "que trajeron una silla": 35,
+				"que hay un asiento disponible": 2,
+				"NA": 21
+            },
+            "porque_crees_es_posible" : {
+                "porque los que la empacan la llevan hasta su destino": 24,
+                "porque es una manera de decir que ya hay una silla disponible": 2,
+                "porque la silla no llega sola": 2,
+                "si porque es cuando nuestra vida puede empezar a mejorar": 2,
+                "NA": 26
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que una silla ya llegó a un lugar": 19,
+                "NA": 10
+            },
+            "porque_crees_es_posible" : {
+                "porque las sillas no caminan": 20,
+                "NA": 9
+            }
+        }
+    },
+    "p3_20_la_cebolla_llega": {
+        "afirmativo": {
+            "que_significa" : {
+                "que alguien que trae la cebolla ya va a llegar": 14,
+				"que la cebolla te hace llorar": 13,
+				"que la cebolla esta llegando": 14,
+				"que el olor apesta": 3,
+				"que alguien que llora llego": 2,
+				"NA": 10
+            },
+            "porque_crees_es_posible" : {
+                "porque la transportan": 11,
+                "si es posible porque la cebolla a veces hace que llores": 10,
+                "por que cuando es temporada de cebollas la cosecha esta buena": 4,
+                "porque huele fuerte": 3,
+                "NA": 27
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que la cebolla llega a algún lugar": 13,
+                "NA": 19
+            },
+            "porque_crees_es_posible" : {
+                "porque las cebollas no caminan": 21,
+                "NA": 11
+            }
+        }
+    },
+    "p3_21_los_hornos_se_acercan": {
+        "afirmativo": {
+            "que_significa" : {
+                "que los hornos se están acercando": 12,
+                "no tiene sentido para mi": 2,
+				"que hay mucho calor": 1,
+				"NA": 10
+            },
+            "porque_crees_es_posible" : {
+                "por que los hornos no se mueven": 11,
+                "pues para nada eso es sin sentido": 2,
+                "un horno que va en una camioneta y ya va a llegar": 4,
+                "NA": 8
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que se calientan": 10,
+                "que el horno puede caminar": 12,
+                "que los hornos no caminan": 10,
+                "NA": 19
+            },
+            "porque_crees_es_posible" : {
+                "por que no se mueven": 35,
+                "NA": 18
+            }
+        }
+    },
+    "p3_22_los_atletas_corren": {
+        "afirmativo": {
+            "que_significa" : {
+                "que hacen su trabajo": 106,
+                "que van rápido": 3,
+				"NA": 12
+            },
+            "porque_crees_es_posible" : {
+                "sí porque los atletas corren": 97,
+                "NA": 25
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "NA": 0
+            },
+            "porque_crees_es_posible" : {
+                "NA": 0
+            }
+        }
+    },
+    "p3_23_las_gaviotas_vuelan": {
+        "afirmativo": {
+            "que_significa" : {
+                "que vuelan": 119,
+                "son aves": 3,
+                "NA": 11
+            },
+            "porque_crees_es_posible" : {
+                "son aves": 8,
+                "porque vuelan": 63,
+                "porque tienen alas": 18,
+                "no literal": 4,
+                "porque se van": 23,
+                "NA": 16
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que pueden volar": 1
+            },
+            "porque_crees_es_posible" : {
+                "no por la gravedad": 1
+            }
+        }
+    },
+    "p3_24_el_tren_viaja": {
+        "afirmativo": {
+            "que_significa" : {
+                "que es muy rápido": 3,
+                "que se mueve": 79,
+                "que transporta": 6,
+                "metáfora": 3,
+                "NA": 7
+            },
+            "porque_crees_es_posible" : {
+                "porque se puede mover": 44,
+                "porque tiene sentido": 14,
+                "porque es lo que un tren hace": 11,
+                "porque es un medio de transporte": 13,
+                "porque es impulsado": 6,
+                "metáfora": 2,
+                "NA": 8
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que el tren se tiene un viaje": 1,
+                "que el tren va a algun lugar": 1,
+                "que transporta gente": 1
+            },
+            "porque_crees_es_posible" : {
+                "no el tren no viaja,las personas o cosas viajan en el": 1,
+                "porque el tren no viaja, viajan las personas": 1,
+                "el tren se traslada no viaja, no es una persona": 1
+            }
+        }
+    },
+    "p3_25_el_tiempo_alcanza": {
+        "afirmativo": {
+            "que_significa" : {
+                "que el tiempo es muy corto": 6,
+				"por que pasa rapido": 14,
+				"que el tiempo alcanza": 33,
+				"el tiempo llega": 4,
+				"NA": 6
+            },
+            "porque_crees_es_posible" : {
+                "si por que al pasar el tiempo envejecemos": 5,
+                "porque el tiempo corre": 14,
+                "el tiempo alcanza": 21,
+                "porque el tiempo nos alcanza a todos": 5,
+                "NA": 18
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que te alcanza el tiempo para hacer algo": 7,
+                "que la muerte nos llega a todos": 2,
+                "el tiempo no alcanza": 5,
+                "NA": 3
+            },
+            "porque_crees_es_posible" : {
+                "el tiempo no alcanza": 4,
+                "porque el tiempo se puede medir": 2,
+                "no se mueve el tiempo como algo": 3,
+                "NA": 2
+            }
+        }
+    },
+    "p3_26_la_noche_llega": {
+        "afirmativo": {
+            "que_significa" : {
+                "que la noche ya esta aqui": 41,
+				"que se acerca la obscuridad": 23,
+				"que es tarde": 6,
+				"esta atardeciendo": 6,
+				"se convierte de dia en noche": 14,
+				"el tiempo se acaba": 2,
+				"que se aproxima la hora de dormir": 5,
+				"que ya se acabo el dia": 4,
+				"NA": 10
+            },
+            "porque_crees_es_posible" : {
+                "por la rotacion de la tierra": 21,
+                "porque se hace de noche": 14,
+                "por que siempre llega la noche": 19,
+                "por que todos los dias pasa": 7,
+                "si por que oscurece": 10,
+                "porque tenemos que descansar": 2,
+                "porque se acabo el dia": 2,
+                "porque siempre hay un final": 3,
+                "por que el dia se va y la noche llega": 12,
+                "NA": 21
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "NA": 2
+            },
+            "porque_crees_es_posible" : {
+                "NA": 2
+            }
+        }
+    },
+    "p3_27_los_dias_corren": {
+        "afirmativo": {
+            "que_significa" : {
+                "pasa muy rapido el tiempo": 43,
+				"por que pasan los dias": 18,
+				"NA": 5
+            },
+            "porque_crees_es_posible" : {
+                "es un hecho": 11,
+                "porque pasa rápido el tiempo": 28,
+                "porque perdemos el tiempo": 6,
+                "porque los dias pasan conforme el tiempo": 6,
+                "NA": 14
+            }
+        },
+        "negativo": {
+            "que_significa" : {
+                "que los dias pasan rapido": 20
+            },
+            "porque_crees_es_posible" : {
+                "porque un dia no tiene vida propia": 3,
+                "porque los dias no pueden correr": 6,
+                "NA": 10
+            }
+        }
+    }
+}

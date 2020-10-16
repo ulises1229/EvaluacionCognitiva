@@ -1,227 +1,226 @@
 ---> ========================= RESPUESTAS AFIRMATIVAS =========================
+
 -> Que significa?
->que la comida tiene mucha sal
-comida que le sobra la sal
-que es una comida con mucha sal
-que la comida esta salada
-que la comida esta salada
-que es muy agria
-sí hay muchos tipos de comida en el que la comida es salada
-pues que no se puede comer 
-que la comida esta muy fuerte 
-que se paso de sal
-significa que si le echas sal se hace salada supongo
-que se es paso de sal
-se te pasa la sal
-una persona que se amarga fácilmente
-que no saben bien porque se pasaron de sal
-mucha sal
-que tiene mucha sal
-que la comida sabe mucho a sal
-que la comida no tiene un sabor dulce sino que tiene sabor como salado
-algún tipo de comida salada
-que se te puede pasar la sal en la comida
-una comida con sal o mucha sal
-por accidente se pasan de sal
-pues que a esa persona le gusta mucha la sal
-que la puedes comer
-pues que la comida tiene sal
-que la comida tiene mucha sal
-que la comida no es dulce
-que hay comida salada
-que la comida tiene sal
-que tiene sal
-que es lo que comes durante todo el dia y lo dulce es normalmente en el desayuno por ejemplo el pan y en salado pues carnes mariscos
-comida con sal
-que le pones mucha sal
-que tiene mucha sal
-que sabe más a sal que azúcar
-comida salada
-es un tipo de comida
-que no es comida dulce
-comida con sabor salado
-algún alimento esta demasiado salado
-si
-cítricos o la sal
-que la comida tiene mucha sal
-pasada de sal su nombre lo dice
-comida salada
-comida con sal
-que el sabor de la comida es salada
-que la comida es salada
-una comida con demasiada sal
-que esta salada y no la quieres comer como no quieres algo por su caracteristicas
-alimento con un alto contenido de sal o que al tacto con la lengua da la sensacion de estar salado
-comida donde pusiste sal
-comida que sabe a sal
-que la comida tiene sal
-que la comida tiene mucha sal y no esta rica
-que es comida que se le pone sal
-comida con productos salados
-mal de sabor pasada de sal
-que la comida no es dulce contiene sal
-que son las comida que se le ponen o contiene sal
-en que la comida pueda tener mucha sal
-cuando hacen una comida no le debe de faltar la sal
-que la comida esta pasada de sal
-que hacen sus comidas saladas
-comida pasada o con bastante sal
-que lo que estas comiendo es salado
-que no es dulce o que sabe no muy bien
-comida que esta salada
-comida con demasiada sal
-sí puede ser posible
-que un alimento sepa feo por la sal marina
-cuando le echan sal
-que sabe demasiado sal o esta pasada de sal
-que la comida tiene mucha sal
-sí hay sal
-que a la comida se le paso de sal
-que existe comida que está un poco salada
-que hay algunas comidas que sean saladas
-cuando sueles ponerle más sal a la comida
-que la comida a veces puede tener más sal de la que necesita
-que tienen sal
-pues comida salada
-que no es dulce
-que no sabe bien porque esta muy condimentada
-la comida contiene sal o no es un postre
-que tiene mucha sal o simplemente no es dulce
-comida no dulce
-que la comida tiene mucha sal
-esta muy condimentada la comida
-esta muy salado
-que la comida tiene mucha sal
-que no es dulce
-que tiene sal
-comida que en vez de ser dulce es salada
-que la comida es muy salada o sabe a sal
-que la comida lleve demasiada sal
-que no es dulce bruh  cier
-que no es dulce
 
+> que la comida tiene mucha sal
+1. comida que le sobra la sal
+1. que es una comida con mucha sal
+1. que la comida esta salada
+1. que la comida esta salada
+1. que es muy agria
+1. sí hay muchos tipos de comida en el que la comida es salada
+1. pues que no se puede comer 
+1. que la comida esta muy fuerte 
+1. que se paso de sal
+1. significa que si le echas sal se hace salada supongo
+1. que se es paso de sal
+1. se te pasa la sal
+1. una persona que se amarga fácilmente
+1. que no saben bien porque se pasaron de sal
+1. mucha sal
+1. que tiene mucha sal
+1. que la comida sabe mucho a sal
+1. que la comida no tiene un sabor dulce sino que tiene sabor como salado
+1. algún tipo de comida salada
+1. que se te puede pasar la sal en la comida
+1. una comida con sal o mucha sal
+1. por accidente se pasan de sal
+1. pues que a esa persona le gusta mucha la sal
+1. que la puedes comer
+1. pues que la comida tiene sal
+1. que la comida tiene mucha sal
+1. que la comida no es dulce
+1. que hay comida salada
+1. que la comida tiene sal
+1. que tiene sal
+1. que es lo que comes durante todo el dia y lo dulce es normalmente en el desayuno por ejemplo el pan y en salado pues carnes mariscos
+1. comida con sal
+1. que le pones mucha sal
+1. que tiene mucha sal
+1. que sabe más a sal que azúcar
+1. comida salada
+1. es un tipo de comida
+1. que no es comida dulce
+1. comida con sabor salado
+1. algún alimento esta demasiado salado
+1. si
+1. cítricos o la sal
+1. que la comida tiene mucha sal
+1. pasada de sal su nombre lo dice
+1. comida salada
+1. comida con sal
+1. que el sabor de la comida es salada
+1. que la comida es salada
+1. una comida con demasiada sal
+1. que esta salada y no la quieres comer como no quieres algo por su caracteristicas
+1. alimento con un alto contenido de sal o que al tacto con la lengua da la sensacion de estar salado
+1. comida donde pusiste sal
+1. comida que sabe a sal
+1. que la comida tiene sal
+1. que la comida tiene mucha sal y no esta rica
+1. que es comida que se le pone sal
+1. comida con productos salados
+1. mal de sabor pasada de sal
+1. que la comida no es dulce contiene sal
+1. que son las comida que se le ponen o contiene sal
+1. en que la comida pueda tener mucha sal
+1. cuando hacen una comida no le debe de faltar la sal
+1. que la comida esta pasada de sal
+1. que hacen sus comidas saladas
+1. comida pasada o con bastante sal
+1. que lo que estas comiendo es salado
+1. que no es dulce o que sabe no muy bien
+1. comida que esta salada
+1. comida con demasiada sal
+1. sí puede ser posible
+1. que un alimento sepa feo por la sal marina
+1. cuando le echan sal
+1. que sabe demasiado sal o esta pasada de sal
+1. que la comida tiene mucha sal
+1. sí hay sal
+1. que a la comida se le paso de sal
+1. que existe comida que está un poco salada
+1. que hay algunas comidas que sean saladas
+1. cuando sueles ponerle más sal a la comida
+1. que la comida a veces puede tener más sal de la que necesita
+1. que tienen sal
+1. pues comida salada
+1. que no es dulce
+1. que no sabe bien porque esta muy condimentada
+1. la comida contiene sal o no es un postre
+1. que tiene mucha sal o simplemente no es dulce
+1. comida no dulce
+1. que la comida tiene mucha sal
+1. esta muy condimentada la comida
+1. esta muy salado
+1. que la comida tiene mucha sal
+1. que no es dulce
+1. que tiene sal
+1. comida que en vez de ser dulce es salada
+1. que la comida es muy salada o sabe a sal
+1. que la comida lleve demasiada sal
+1. que no es dulce bruh  cier
+1. que no es dulce
 
-"""
-invalidas
-porque no saben la cantidad que hay que ponerle
-que sabe mal
-comida que no es dulce que puedes comer o es de limon chile etc
-"""
+> NA
+1. porque no saben la cantidad que hay que ponerle
+1. que sabe mal
+1. comida que no es dulce que puedes comer o es de limon chile etc
+
 
 -> Por qué crees que sí o no es posible?
-> porque le pueden poner demasiada sal a la comida
-si porque a muchas personas se les pasa la sal pero literalmente no le encuentro
-porque a cualquier persona le puede pasar
-porque si hay muchas comidas saladas
-por la textura
-porque hay tipos de comida en la cual tal vez te pases de sal 
-que una comida no sabe bien
-porque se puede distraer
-porque si le echas sal se hace salada
-porque se pasan o no funciona bien su paladar
-porque se te pasa la sal
-porque hay muchas personas en el mundo que no son felices
-porque se pasan de sal
-por lo que le hecha la mamá a la comida
-sí por que se le puede poner mucha sal
-si porque puede hacer que la comida sepa salado o por los ingredientes que tienen
-sí se pueden hacer alimentos salados
-sí porque es algo que suele pasarles a muchos
-sí he comido 
-por que les queda salado
-si porque hay personas que le gusta mucho la sal
-sí por que le puedes echar mucha sal
-porque le puedes poner sal a lo que sea
-porque se le puede poner mucha sal
-porque se le puede poner mucha sal
-porque le pusieron sal
-sí porque hay platillos salados así como hay dulces y amargos
-porque la he probado
-sí porque yo he comido cosas saladas
-porque hay comida de sal
-esta salada tu comida
-porque a la comida le puedes poner mucha sal
-porque ya la he comido
-porque pues es salada
-porque la comida que no es dulce es salada
-porque hay comidas con sabor salado como el jamón
-porque hay tipos de comida salada
-porque hay personas que no saben cocinar y se les pasa la sal
-porque puedes poner sal en comida
-porque los mariscos son salados y el sabor salado si existe
-porque he probado una comida demasiado salada
-porque a mi no me gusta algunas cosas
-porque puedes poner sal en tu comida
-comemos comida salada todos los días
-porque le puedes poner sal a la comida
-porque hay veces que la gente le hecha muchísima sal y sabe mal
-porque la mayoría de la comida es salada
-sí es posible la comida salada
-porque para cocinar algunos platillos es necesario e sal
-sí porque no le debe de faltar la sal
-por que hay personas que se les puede pasar la sal al no saber la cantidad que es necesaria
-porque se pasan de sal
-porque la eh comido
-porque si es posible que la comida sea salada
-porque hay comida salada y dulce o cosas buenas y malas en metáfora
-sí es posible existe la pizza y la mayoría de ellas son saladas
-porque en personas se pueden equivocar y echar sal marina para que sepa asi
-porque se pasan de sal
-porque puede que le hayan dejado o agregado mucha sal
-que si es posible porque a mi mamá le ha pasado
-sí le echan sal y pues queda salada
-sí porque a veces cuando preparan la comida se les pasa de sal
-porque si hay mucha comida que es salada
-porque algunas comidas que si son saladas
-porque a veces se te olvida y le pones más de la necesaria
-porque a veces la comida puede estar más salada de lo normal
-porque ya he comido ese tipo de comida
-sí es posible porque hay comida salada y dulce
-porque es comida que tiene sal
-porque la comida dulce y la salada existen
-porque la sal esta en muchos alimentos
-porque hay comida salada
-porque le puedes poner mucha sal a la comida
-porque suele pasar
-sí la comida tiene mucha sal
-es posibleporque a la comida se le puede poner mucha sal y esto la vuelve salada
-porque existe
-sí porque alguna comida si puede estar más salada de lo normal
-sí porque hay comida salada
-es posible porque la comida salda es a la que se le pone sal y se nota porque no es dulce
-porque si existe la comida salada o con sal
 
-"""
-invalidas
-si
-si
-por que no quedo bien
-la venden en los restaurantes
-porque si existe
-porque pues va referente a comida
-que si es posible
-porque me ha tocado
-porque se cocina diferente
-sí lo he probado
-porque lo comemos a diario
-es posible pero no lleva metáforas
-yo creo que nada mas es un si ya que se le puede anadir un exceso de sal
-yo he ingerido comida salada entonces por eso se que si es posible
-es posible ya que he experimentado esta comida todos los dias de mi vida
-sí porque hay gente que si le gusta comer ese tipo de comida
-porque lo he probado
-sí por que se les pasa
-sí es posible porque suele pasar
-porque es la manera de preparación de muchos platillos
-porque me ha pasado
-"""
+> porque le pueden poner demasiada sal a la comida
+1. si porque a muchas personas se les pasa la sal pero literalmente no le encuentro
+1. porque a cualquier persona le puede pasar
+1. porque si hay muchas comidas saladas
+1. por la textura
+1. porque hay tipos de comida en la cual tal vez te pases de sal 
+1. que una comida no sabe bien
+1. porque se puede distraer
+1. porque si le echas sal se hace salada
+1. porque se pasan o no funciona bien su paladar
+1. porque se te pasa la sal
+1. porque hay muchas personas en el mundo que no son felices
+1. porque se pasan de sal
+1. por lo que le hecha la mamá a la comida
+1. sí por que se le puede poner mucha sal
+1. si porque puede hacer que la comida sepa salado o por los ingredientes que tienen
+1. sí se pueden hacer alimentos salados
+1. sí porque es algo que suele pasarles a muchos
+1. sí he comido 
+1. por que les queda salado
+1. si porque hay personas que le gusta mucho la sal
+1. sí por que le puedes echar mucha sal
+1. porque le puedes poner sal a lo que sea
+1. porque se le puede poner mucha sal
+1. porque se le puede poner mucha sal
+1. porque le pusieron sal
+1. sí porque hay platillos salados así como hay dulces y amargos
+1. porque la he probado
+1. sí porque yo he comido cosas saladas
+1. porque hay comida de sal
+1. esta salada tu comida
+1. porque a la comida le puedes poner mucha sal
+1. porque ya la he comido
+1. porque pues es salada
+1. porque la comida que no es dulce es salada
+1. porque hay comidas con sabor salado como el jamón
+1. porque hay tipos de comida salada
+1. porque hay personas que no saben cocinar y se les pasa la sal
+1. porque puedes poner sal en comida
+1. porque los mariscos son salados y el sabor salado si existe
+1. porque he probado una comida demasiado salada
+1. porque a mi no me gusta algunas cosas
+1. porque puedes poner sal en tu comida
+1. comemos comida salada todos los días
+1. porque le puedes poner sal a la comida
+1. porque hay veces que la gente le hecha muchísima sal y sabe mal
+1. porque la mayoría de la comida es salada
+1. sí es posible la comida salada
+1. porque para cocinar algunos platillos es necesario e sal
+1. sí porque no le debe de faltar la sal
+1. por que hay personas que se les puede pasar la sal al no saber la cantidad que es necesaria
+1. porque se pasan de sal
+1. porque la eh comido
+1. porque si es posible que la comida sea salada
+1. porque hay comida salada y dulce o cosas buenas y malas en metáfora
+1. sí es posible existe la pizza y la mayoría de ellas son saladas
+1. porque en personas se pueden equivocar y echar sal marina para que sepa asi
+1. porque se pasan de sal
+1. porque puede que le hayan dejado o agregado mucha sal
+1. que si es posible porque a mi mamá le ha pasado
+1. sí le echan sal y pues queda salada
+1. sí porque a veces cuando preparan la comida se les pasa de sal
+1. porque si hay mucha comida que es salada
+1. porque algunas comidas que si son saladas
+1. porque a veces se te olvida y le pones más de la necesaria
+1. porque a veces la comida puede estar más salada de lo normal
+1. porque ya he comido ese tipo de comida
+1. sí es posible porque hay comida salada y dulce
+1. porque es comida que tiene sal
+1. porque la comida dulce y la salada existen
+1. porque la sal esta en muchos alimentos
+1. porque hay comida salada
+1. porque le puedes poner mucha sal a la comida
+1. porque suele pasar
+1. sí la comida tiene mucha sal
+1. es posibleporque a la comida se le puede poner mucha sal y esto la vuelve salada
+1. porque existe
+1. sí porque alguna comida si puede estar más salada de lo normal
+1. sí porque hay comida salada
+1. es posible porque la comida salda es a la que se le pone sal y se nota porque no es dulce
+1. porque si existe la comida salada o con sal
+
+
+> NA
+1. si
+1. si
+1. por que no quedo bien
+1. la venden en los restaurantes
+1. porque si existe
+1. porque pues va referente a comida
+1. que si es posible
+1. porque me ha tocado
+1. porque se cocina diferente
+1. sí lo he probado
+1. porque lo comemos a diario
+1. es posible pero no lleva metáforas
+1. yo creo que nada mas es un si ya que se le puede anadir un exceso de sal
+1. yo he ingerido comida salada entonces por eso se que si es posible
+1. es posible ya que he experimentado esta comida todos los dias de mi vida
+1. sí porque hay gente que si le gusta comer ese tipo de comida
+1. porque lo he probado
+1. sí por que se les pasa
+1. sí es posible porque suele pasar
+1. porque es la manera de preparación de muchos platillos
+1. porque me ha pasado
+
 
 ---> ========================= RESPUESTAS NEGATIVAS =========================
 
 -> Que significa?
 
-que tiene mucha sal
 
 -> Por qué crees que sí o no es posible?
 
-hay personas que no sabe cocinar

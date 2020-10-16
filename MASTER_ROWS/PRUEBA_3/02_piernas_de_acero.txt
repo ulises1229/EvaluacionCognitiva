@@ -2,214 +2,237 @@
 
 -> Que significa?
 
-piernas fuertes
-que son muy fuertes
-que si se puede haciendo mucho ijersicio
-sentido figurado para las protesis
-que las piernas son de acero
-piernas resistentes
-que tus piernas son duras
-que tengas tus piernas fuertes
-que tienes piernas que resiste
-que esta vien fuerte
-que posee fuerza en las piernas
-piernas fuertes
-cuando tienes las piernas muy duras
-tener piernas muy fuertes
-es una referencia a decir que tiene unas piernas muy fuertes y duras
-piernas fuertes
-que son muy fuertes
-que son piernas fuertes
-que son piernas muy fuertes
-que tienes piernas de acero en lugar de piernas de carne u hueso
-piernas muy fuertes
-fuertes
-piernas muy fuertes y resistentes.
-que hay personas que tienen las piernas duras
-que las piernas son de acero
-que tus piernas pueden ser fuertes
-unas piernas muy fuertes y en buen estado fisico
-piernas resistentes y solidas
-que tiene buena forma
-piernas muy fuertes
-que tiene piernas fuertes
-piernas de una escultura
-que las piernas son muy fuertes.
-que son fuertes
-que tiene piernas muy fuertes
-piernas fuertes o que haya perdido sus piernas en un accidente y le hayan puesto unas de acero
-aquellos que hacen ejercicio sin cansancio
-que estan muy bien hechas, que son solidas y no se pueden deformar
-que tiene mucha fuerza en ellas
-que son unas piernas muy fuertes o ejercitadas y con musculos
-para mi en un humano no, pero un robot tiene piernas de acero.
-que tienes unas piernas fuertes
-que estan muy musculosas y fuertes
-que se pueden crear
-pueden ser duras
-pues son mas duras por su tipo de material
-piernas duras o pesadas
-bueno se podria definir como alguien que no puede caminar y usa piernas metalicas para caminar
-es una protesis
-que las piernas pueden ser de otro materias por decirlo asi
-piernas fuertes
-que las piernas son muy fuertes
-cuando no te lastima nada y tampoco sientes nada
-piernas muy fuertes
-que tiene piernas fuertes
-que tienes piernas fuertes
-metaforicamente pueden ser piernas muy duras, tonificadas y literalmente puede ser una protesis
-muy fuertes
-que tienes piernas muy fuertes
-que tienes fuerza en las piernas
-piernas muy fuertes
-que tiene piernas fuertes
-que tiene piernas fuertes
-piernas fuertes
-que son muy fuertes
-que alguien tiene piernas muy fuertes
-piernas muy fuertes.
-que las piernas son resistentes y tienen condicion
-que tienen piernas fuertes
-que son muy fuertes
-que las piernas son fuertes.
-que tienen mucha fuerza
-que tiene las piernas muy fuertes.
-que las piernas son fuertes
-piernas fuertes
-puede que sea posible en la vida real pero es mas posible como metafora
-que sus piernas son fuertes
-que tiene piernas super fuertes y duras.
-piernas fuertes como un acero
+> piernas fuertes
+1. que son muy fuertes
+1. que tengas tus piernas fuertes
+1. piernas resistentes
+1. que tus piernas son duras
+1. que tienes piernas que resiste
+1. que esta vien fuerte
+1. que posee fuerza en las piernas
+1. piernas fuertes
+1. cuando tienes las piernas muy duras
+1. tener piernas muy fuertes
+1. es una referencia a decir que tiene unas piernas muy fuertes y duras
+1. piernas fuertes
+1. que son muy fuertes
+1. que son piernas fuertes
+1. que son piernas muy fuertes
+1. piernas muy fuertes
+1. fuertes
+1. piernas muy fuertes y resistentes.
+1. que hay personas que tienen las piernas duras
+1. que tus piernas pueden ser fuertes
+1. unas piernas muy fuertes y en buen estado fisico
+1. piernas resistentes y solidas
+1. piernas muy fuertes
+1. que tiene piernas fuertes
+1. que las piernas son muy fuertes.
+1. que son fuertes
+1. que tiene piernas muy fuertes
+1. piernas fuertes o que haya perdido sus piernas en un accidente y le hayan puesto unas de acero
+1. que tiene mucha fuerza en ellas
+1. que son unas piernas muy fuertes o ejercitadas y con musculos
+1. que tienes unas piernas fuertes
+1. que estan muy musculosas y fuertes
+1. piernas fuertes
+1. que las piernas son muy fuertes
+1. piernas fuertes
+1. que las piernas son muy fuertes
+1. piernas muy fuertes
+1. que tiene piernas fuertes
+1. que tienes piernas fuertes
+1. metaforicamente pueden ser piernas muy duras, tonificadas y literalmente puede ser una protesis
+1. muy fuertes
+1. que tienes piernas muy fuertes
+1. que tienes fuerza en las piernas
+1. piernas muy fuertes
+1. que tiene piernas fuertes
+1. que tiene piernas fuertes
+1. piernas fuertes
+1. que son muy fuertes
+1. que alguien tiene piernas muy fuertes
+1. piernas muy fuertes.
+1. que las piernas son resistentes y tienen condicion
+1. que tienen piernas fuertes
+1. que son muy fuertes
+1. que las piernas son fuertes.
+1. que tienen mucha fuerza
+1. que tiene las piernas muy fuertes.
+1. que las piernas son fuertes
+1. piernas fuertes
+1. que sus piernas son fuertes
+1. que tiene piernas super fuertes y duras.
+1. piernas fuertes como un acero
+
+> sentido figurado para las protesis
+1. bueno se podria definir como alguien que no puede caminar y usa piernas metalicas para caminar
+1. es una protesis
+
+> que las piernas son de acero
+1. que tienes piernas de acero en lugar de piernas de carne u hueso
+1. que las piernas son de acero
+1. para mi en un humano no, pero un robot tiene piernas de acero.
+
+> pueden ser duras
+1. pues son mas duras por su tipo de material
+1. piernas duras o pesadas
+1. que las piernas pueden ser de otro materias por decirlo asi
+
+> que tiene buena forma
+1. que estan muy bien hechas, que son solidas y no se pueden deformar
+
+> que si se puede haciendo mucho ijersicio
+1. aquellos que hacen ejercicio sin cansancio
+
+""" invalidas
+
+1. piernas de una escultura
+1. que se pueden crear
+1. cuando no te lastima nada y tampoco sientes nada
+1. puede que sea posible en la vida real pero es mas posible como metafora
+"""
 
 -> Por que crees que si o no es posible?
 
-porque puedes ejercitarlas y aserlas fuertes
-porque es una manera de expresarse
-si, es posible por que hay personas que se ejercitan y las tienen muy duras
-por que son protesis y sirven para las personas con o an perdido un pie
-que luego pueden llegar haser de acero
-ejecisio
-con la imaginacion
-se puede con ejercicio y dias de trabajo
-porque las personas que no tiene pies se la pueden remplasar
-por que ase ejersisio
-si se ejercita lo suficiente
-porque si te ejercitas lo logras
-es posible haciendo ejercicio
-por que si vas a hacer ejercicio se te ponen las piernas fuertes
-en el sentido literal serian unas protesis echas de acero
-porque hay personas con piernas fuertes.
-porque yo las tengo de acero
-por que las protesis tiene acero
-porque asi es como hablamos nosotros en la actualidad
-es posible porque existen protesis que son de acero
-es posible con mucho entrenamiento
-porque te puedes ejercitar
-creo que es posible por que la gente mediante el ejercicio puede llegar a fortalecer sus piernas.
-por que las personas se ejercitan tanto
-si porque los que no tienen una pierna les ponen una de acero
-porque puedes ejercitarte para tener unas piernas fuertes
-si porque al ejercitar tus piernas y estado fisico es posible tenerlas muy fuertes.
-es metaforicamente para las personas con piernas en muy buen estado.
-ya es depende de la persona si se quiere poner en forma
-porque si haces mucho ejercicio tus piernas se hacen muy fuertes como el acero
-creo que si es posibe porque hay gente que tiene las piernas fuertes
-si por que nada mas construyen la escultura
-por que las piernas humanas son muy fuertes.
-por que acero se refiere a fuertes y todo mundo puede tener piernas fuertes
-porque con el ejercicio se endurecen las piernas
-no creo que sea como tal de acero, pero en el sentido figurado si
-si porque hay personas que pierden piernas
-si, porque las piernas son muy resistentes a todo
-si es posible por que la oracion es en sentido figurado
-por que pueden ser piernas de un robot o ser muy fuertes
-por que si es posible, en un robot.
-porque hay personas que se esfuerzan por tener su cuerpo fuerte
-es posible, porque estan muy fuertes
-si porque pueden crear un robot
-no le duelen
-por que pueden ser usadas
-por es un dicho o un frase
-porque para las personas que no pueden caminar usan piernas metalicas o de acero porque los ayuda a sostenerce y mantenerce en pie
-por que si las hay para qu personas puedan caminar
-si, por que las personas con alguna discapacidad tienen un pie diferente
-es una metafora para describir unas piernas muy fuertes
-porque si tienes unas piernas muy fuertes, pues son tan duras como el acero
-porque es una expresion pero literalmente no es posible
-si es posible porque la frase no es literal, es una metafora
-por que si haces mucho ejercicio, tues piernas estan fuertes
-por que hay personas que tienen piernas fuertes que parecen acero o por que hay gente con sustituciones de piernas de acero
-avances de la ciencia
-porque no lo imagino literalmente, sino busco otro significado
-por que si te ejercitas se hacen duras
-por que es solo un dicho
-porque no es literal
-si porque la frase es solo una metafora
-porque hace ejercicio
-yo digo que si es posible porque si alguien corre mucho tiene piernas muy fuertes y hay una expresion que dice piernas de acero
-porque hay personas que pueden tener las piernas demasiado fuertes.
-porque muchas personas tienen piernas fuertes y duras
-si, porque puedes hacer mucho ejercicio y lograr tenerlas muy fuertes.
-en sentido metaforico si se podria referir a alguien con condicion
-si porque algunas personas tienen mas fuerza en sus piernas que otros
-si, haciendo ejercicio
-es posible si es que es una metafora.
-porque pueden ser fuertes
-si porque quiere decir que tiene fuerza en las piernas
-es posible por que alguien puede ser muy fuerte
-por que puedes tener piernas fuertes si haces deporte
-porque nadie nace con piernas de acero pero si alguien tiene un accidente le pueden poner unas
-porque es una metafora
-si porque hay mucha gente que tiene piernas fuertes o de acero.
-si, porque quiere decir que tiene mucho fuerza en las piernas.
+> porque puedes ejercitarlas y aserlas fuertes
+1. si, es posible por que hay personas que se ejercitan y las tienen muy duras
+1. ejecisio
+1. se puede con ejercicio y dias de trabajo
+1. porque las personas que no tiene pies se la pueden remplasar
+1. por que ase ejersisio
+1. si se ejercita lo suficiente
+1. porque si te ejercitas lo logras
+1. es posible haciendo ejercicio
+1. por que si vas a hacer ejercicio se te ponen las piernas fuertes
+1. porque hay personas con piernas fuertes.
+1. es posible con mucho entrenamiento
+1. porque te puedes ejercitar
+1. creo que es posible por que la gente mediante el ejercicio puede llegar a fortalecer sus piernas.
+1. por que las personas se ejercitan tanto
+1. porque puedes ejercitarte para tener unas piernas fuertes
+1. si porque al ejercitar tus piernas y estado fisico es posible tenerlas muy fuertes.
+1. es metaforicamente para las personas con piernas en muy buen estado.
+1. ya es depende de la persona si se quiere poner en forma
+1. porque si haces mucho ejercicio tus piernas se hacen muy fuertes como el acero
+1. creo que si es posibe porque hay gente que tiene las piernas fuertes
+1. por que las piernas humanas son muy fuertes.
+1. por que acero se refiere a fuertes y todo mundo puede tener piernas fuertes
+1. porque con el ejercicio se endurecen las piernas
+1. si, porque las piernas son muy resistentes a todo
+1. por que pueden ser piernas de un robot o ser muy fuertes
+1. porque hay personas que se esfuerzan por tener su cuerpo fuerte
+1. es posible, porque estan muy fuertes
+1. no le duelen
+1. es una metafora para describir unas piernas muy fuertes
+1. porque si tienes unas piernas muy fuertes, pues son tan duras como el acero
+1. por que si te ejercitas se hacen duras
+1. porque hace ejercicio
+1. yo digo que si es posible porque si alguien corre mucho tiene piernas muy fuertes y hay una expresion que dice piernas de acero
+1. porque hay personas que pueden tener las piernas demasiado fuertes.
+1. porque muchas personas tienen piernas fuertes y duras
+1. si, porque puedes hacer mucho ejercicio y lograr tenerlas muy fuertes.
+1. si porque algunas personas tienen mas fuerza en sus piernas que otros
+1. si, haciendo ejercicio
+1. porque pueden ser fuertes
+1. si porque quiere decir que tiene fuerza en las piernas
+1. es posible por que alguien puede ser muy fuerte
+1. por que puedes tener piernas fuertes si haces deporte
+1. si porque hay mucha gente que tiene piernas fuertes o de acero.
+1. si, porque quiere decir que tiene mucho fuerza en las piernas.
+
+
+> porque es una manera de expresarse
+1. porque asi es como hablamos nosotros en la actualidad
+1. si es posible por que la oracion es en sentido figurado
+1. por es un dicho o un frase
+1. porque es una expresion pero literalmente no es posible
+1. si es posible porque la frase no es literal, es una metafora
+1. por que si haces mucho ejercicio, tues piernas estan fuertes
+1. por que hay personas que tienen piernas fuertes que parecen acero
+1. porque no lo imagino literalmente, sino busco otro significado 
+1. por que es solo un dicho
+1. porque no es literal
+1. si porque la frase es solo una metafora
+1. en sentido metaforico si se podria referir a alguien con condicion
+1. es posible si es que es una metafora.
+1. porque es una metafora
+
+
+> por que son protesis y sirven para las personas con o an perdido un pie
+1. en el sentido literal serian unas protesis echas de acero
+1. por que las protesis tiene acero
+1. es posible porque existen protesis que son de acero
+1. si porque los que no tienen una pierna les ponen una de acero
+1. no creo que sea como tal de acero, pero en el sentido figurado si
+1. si porque hay personas que pierden piernas
+1. por que pueden ser usadas
+1. porque para las personas que no pueden caminar usan piernas  metalicas o de acero porque los ayuda a sostenerce y mantenerce en pie
+1. por que si las hay para qu personas puedan caminar
+1. si, por que las personas con alguna discapacidad tienen un pie diferente
+1. o por que hay gente con sustituciones de piernas de acero
+1. avances de la ciencia
+1. porque nadie nace con piernas de acero pero si alguien tiene un accidente le pueden poner unas
+
+> que luego pueden llegar haser de acero
+1. porque yo las tengo de acero
+
+> si por que nada mas construyen la escultura
+1. por que si es posible, en un robot.
+1. si porque pueden crear un robot
+
+""" invalidas
+1. con la imaginacion
+"""
 
 ---> ========================= RESPUESTAS NEGATIVAS =========================
 
 -> Que significa?
 
-podria ser que sus piernas son muy resistentes
-que son muy fuertes
-que son muy resistentes
-que no te pasa nada en las piernas
-cualquier persona esta dispuesta a cualquier tipo de fuerza
-que son piernas que son muy fuertes y no se rompen
-estan muy fuertes.
-estar fuerte de las piernas
-significa que tienes piernas dura
-que tienes piernas fuertes
-muy duras
-que estan muy fuertes
-duras
-unas piernas fuertes
-que tienes piernas fuertes
-que son piernas fuertes
-que son piernas muy fuertes.
-que estan echas de acero
-que son muy fuertes o muy cuidadas
-que estan duras
-que sus piernas son fuertes
+> podria ser que sus piernas son muy resistentes
+1. que son muy fuertes
+1. que son muy resistentes
+1. que no te pasa nada en las piernas
+1. cualquier persona esta dispuesta a cualquier tipo de fuerza
+1. que son piernas que son muy fuertes y no se rompen
+1. estan muy fuertes.
+1. estar fuerte de las piernas
+1. significa que tienes piernas dura
+1. que tienes piernas fuertes
+1. muy duras
+1. que estan muy fuertes
+1. duras
+1. unas piernas fuertes
+1. que tienes piernas fuertes
+1. que son piernas fuertes
+1. que son piernas muy fuertes.
+1. que estan echas de acero
+1. que son muy fuertes o muy cuidadas
+1. que estan duras
+1. que sus piernas son fuertes
 
 -> Por que crees que si o no es posible?
 
-pues si en modo figurativo y no en literal
-por que es una metafora
-no , porque no somos robots
-porque es muy dificil
-todos podemos ser fuertes pero no podemos exedernos
-no porque todo cuerpo re puede romper
-por que literalmente no se puede
-una persona esta hecha de carne y hueso el acero se le agrega pero no tiene piernas de hacero
-porque vas al gimnasio
-no se puede tener piernas de acero
-no es posible por que hasta ahora no ha nacido nadie con piernas de acero
-porque no puedes ponerte piernas de acero
-ps nimodo de que te operen y te pongan hierro
-no seria posible en la vida real, solo hablando en sentido figurado es que se podria decir asi.
-no es posible tener piernas de acero, a menos que seas un robot :v
-po que no ay piernas de acero
-creo que no es posible porque en mi vida e visto piernas de acero, pero prefiero pensar que podria llegar a ser posible.
-por que las pierna soy echas de huesos
-por que creo que naddie los quisiera usar
-no porque tenemos huesos y el acero es pesado
-no,por que tenemos huesos y nuestras piernas no son tan fuertes a pesar de que hagas mucho ejercicio
+> pues si en modo figurativo y no en literal
+1. por que es una metafora
+1. por que literalmente no se puede
+1. no seria posible en la vida real, solo hablando en sentido figurado es que se podria decir asi.
+
+>no se puede tener piernas de acero
+1. no, porque no somos robots
+1. no porque todo cuerpo re puede romper
+1. una persona esta hecha de carne y hueso el acero se le agrega pero no tiene piernas de hacero
+1. porque vas al gimnasio
+1. no es posible por que hasta ahora no ha nacido nadie con piernas de acero
+1. porque no puedes ponerte piernas de acero
+1. ps nimodo de que te operen y te pongan hierro
+1. no es posible tener piernas de acero, a menos que seas un robot :v
+1. po que no ay piernas de acero
+1. creo que no es posible porque en mi vida e visto piernas de acero, pero prefiero pensar que podria llegar a ser posible.
+1. por que las pierna soy echas de huesos
+1. por que creo que naddie los quisiera usar
+1. no porque tenemos huesos y el acero es pesado
+1. no,por que tenemos huesos y nuestras piernas no son tan fuertes a pesar de que hagas mucho ejercicio
+
+> porque es muy dificil
+1. todos podemos ser fuertes pero no podemos exedernos

@@ -2,178 +2,199 @@
 
 -> Que significa?
 
-no tiene sentido para mi
-que un horno se acerca a algo
-que los hornos se estan acercando
-que los hornos se estan acercando
-que los hornos se acercan
-que no vienen
-que los hornos se aproximan
-que se acercan osea que pueden caminar
-que los hornos estan en tu super mas cercano.
-un horno que se acerca
-no caminan
-NS
-que un horno se acerca
-los traumas se acercan (o los nazis se acercan)
-el sol y el hitler
-que unos hornos se acerquen en distancia
-que ya casi esta la comida
-no le encuentro sentido
-que hay hornos cerca
-que los hornos vienen
-casi cabe mi pizza
-NS
-que hay mucho calor.
-que la temporada calor esta acercandose.
-si porque los movemos nosotros
-que algo malo se acerca
-que ya vienen
-que hay mucho enojo en algun lugar o familia
+> que los hornos se están acercando
+1. que un horno se acerca a algo
+1. que los hornos se están acercando
+1. que los hornos se acercan
+1. que los hornos se aproximan
+1. que se acercan osea que pueden caminar
+1. un horno que se acerca
+1. que un horno se acerca
+1. que unos hornos se acerquen en distancia
+1. que los hornos vienen
+1. si porque los movemos nosotros
+1. que ya vienen
+1. que hay hornos cerca
+
+> no tiene sentido para mi
+1. no caminan
+1. no le encuentro sentido
+
+> que hay mucho calor
+1. que la temporada calor esta acercándose
+
+
+> NA
+1. que no vienen
+1. que los hornos están en tu súper mas cercano
+1. NS
+1. los traumas se acercan (o los nazis se acercan)
+1. el sol y el hitler
+1. que ya casi esta la comida
+1. casi cabe mi pizza
+1. NS
+1. que hay mucho enojo en algún lugar o familia
+1. que algo malo se acerca
+
+
 
 -> Por que crees que si o no es posible?
 
-pues para nada , eso es sin sentido
-no pueden caminar
-por que los hornos no se mueven
-por que los hornos no se mueven
-por que los hornos no caminan
-no es posible
-si es posible porque los hornos pueden estar en un camion que se esta acercando a mi
-porque no tienen piernas ni viven
-si, porque yo he visto hornos en el super.
-un horno que va en una camioneta y ya va a llegar
-no, porque los hornos no caminan
-por que los hornos no se mueven
-porque los hornos no se mueven
-no por que es una metafora
-por que es muy possible
-pues los pueden acercar
-porque no caminan
-porque los hornos no se pueden mover por si solos
-no e escuchado esa frase
-no porque los hornos no se mueven
-yo si meta mi pizza en el horno
-por que no caminan
-porque es como decir un dicho pero en sentido figurado.
-porque es una forma de decir que la temporada donde hace calor esta cerca.
-por que las personas los mueven o acercan
-por que en guerras(por ejemplo) hay muchas cosas malas y se acercan peores o algo parecido
-por que hay veses que si bienen
-por que hay lugares donde hay muchas peleas familiares
+> por que los hornos no se mueven
+1. por que los hornos no se mueven
+1. por que los hornos no caminan
+1. no pueden caminar
+1. porque no tienen piernas ni viven
+1. no porque los hornos no caminan
+1. por que los hornos no se mueven
+1. porque los hornos no se mueven
+1. porque no caminan
+1. porque los hornos no se pueden mover por si solos
+1. no porque los hornos no se mueven
+1. por que no caminan
+
+> pues para nada eso es sin sentido
+1. no es posible
+1. no por que es una metáfora
+
+> un horno que va en una camioneta y ya va a llegar
+1. si porque yo he visto hornos en el súper
+1. si es posible porque los hornos pueden estar en un camión que se esta acercando a mi
+1. pues los pueden acercar
+1. por que las personas los mueven o acercan
+
+> NA
+1. por que es muy posible
+1. no he escuchado esa frase
+1. porque es como decir un dicho pero en sentido figurado
+1. yo si meta mi pizza en el horno
+1. porque es una forma de decir que la temporada donde hace calor esta cerca
+1. por que en guerras(por ejemplo) hay muchas cosas malas y se acercan peores o algo parecido
+1. por que hay veces que si vienen
+1. por que hay lugares donde hay muchas peleas familiares
+
 
 ---> ========================= RESPUESTAS NEGATIVAS =========================
 
 -> Que significa?
 
-no entiendo lo que quiera decir
-NS
-que se acerca mucha calor
-que se calientan
-que el horno puede caminar
-que se acercan
-que hace mas calor
-que no tienen pies
-un horno caminando
-por q no
-NS
-NS
-NS
-que el calor del horno se expande
-no le veo ningun significado
-que los hornos no caminan!!!!
-no se puepen moder
-no pueden
-pues no se pueden mover por si solos
-que los hornos no se mueben
-que los hornos cada vez mas estan mas cerca
-que cada vez hay mas hornos
-los hornos se muevan
-no se podria ser el calor o la temperatura
-NS
-NS
-que un horno se esta acercando
-que los hornos no caminan
-los hornos estan cada vez mas cerca
-creo que es una metafora, diciendo que el calor se acerca
-que si se pueden acercar los hornos
-que alguien mu irritable se aproxima
-que viste muchas caricaturas
-no puede ser posible
-que puede llegar un sobrecalentamiento o algo asi
-pasara algo malo
-cuando alguien se aserca
-por que no son iman
-que estan apunto de cocinar algun platillo
-NS
-no es pocible
-no se lo que significa
-que los hornos no se mueven
-que los hornos avanzan envase al tiempo
-NS
-que los hornos estan cerca
-que hace mucho calor
-que se aproximan
-cuando las personas traen pique
-los hornos caminan
-que un horno esta junto a otro
-hace calor
-pq no se mueven
-que la temperatura va a estar muy calurosa.
+> que se calientan
+1. que se acerca mucho calor
+1. que hace mas calor
+1. que el calor del horno se expande
+1. podría ser el calor o la temperatura
+1. que la temperatura va a estar muy calurosa
+1. hace calor
+1. creo que es una metáfora diciendo que el calor se acerca
+1. que puede llegar un sobrecalentamiento o algo así
+1. que están apunto de cocinar algún platillo
+1. que hace mucho calor
+
+> que el horno puede caminar
+1. que se acercan
+1. un horno caminando
+1. que los hornos cada vez mas están mas cerca
+1. los hornos se muevan
+1. que un horno se esta acercando
+1. los hornos están cada vez mas cerca
+1. que si se pueden acercar los hornos
+1. que los hornos avanzan en base al tiempo
+1. que los hornos están cerca
+1. que se aproximan
+1. cuando alguien se acerca
+1. los hornos caminan
+
+
+> que los hornos no caminan
+1. que los hornos no caminan
+1. no puede ser posible
+1. porque no se mueven
+1. no es posible
+1. que no tienen pies
+1. no se pueden mover
+1. no pueden
+1. pues no se pueden mover por si solos
+1. que los hornos no se mueven
+1. que los hornos no se mueven
+
+> NA
+1. por que no
+1. no le veo ningún significado
+1. no entiendo lo que quiera decir
+1. que cada vez hay mas hornos
+1. NS
+1. NS
+1. NS
+1. NS
+1. NS
+1. NS
+1. NS
+1. NS
+1. no se lo que significa
+1. por que no son imán
+1. cuando las personas traen pique
+1. que alguien muy irritable se aproxima
+1. que viste muchas caricaturas
+1. pasara algo malo
+1. que un horno esta junto a otro
+
+
 
 -> Por que crees que si o no es posible?
 
-no le entiendo ala frase
-por simple ogica no hayo el sentido de la frase
-por que solo es una expresion
-no por que no caminan
-porque un horno no tienes piernas
-que no porque no pueden caminar
-no es posible ya que no se pueden mover los ornos
-porque no tienen alma
-por que no tienen pies
-por q no se mueven
-me vale
-NS
-NS
-porque un horno no se puede mover y acercarse solos
-no creo que un horno se pueda acercar a ti
-por que asta que no saquen uno que a la ves sea un robot no lo ara
-no pienen pies
-por que no tienen pies
-no por que los hornos no se pueden mover solos
-no por que los hornos no caminan
-porque los hornos no pueden caminar ni moverse a menos de que alguien los empuje
-porque los hornos no avanzan ni se mueven
-no, porque no se pueden mover por si solos
-no creo que sea posible si se trata de un horno de micro hondas
-por que un orno no tiene movilidad propia
-no porque no existen
-no por que no se mueven solos
-por que no ce mueven
-no es posible por que lo hornos no tienen movimiento propio
-porque los hornos no pueden caminar, literalmente
-no, ellos no caminan
-por que no tiene sentido.
-por que pues solo pasan eso
-por que no se mueben
-puede que si porque danamos mucho al planeta
-por que es imposible de que se muevan
-pz no por q no pueden caminar
-por que no se atraen
-no, los hornos no tiene vida para moverce
-pues no lo se
-por que no se mu eben
-pues creo que no por que no se
-no por que no se pueden mover
-no porque ningun horno se mueve de su posicion
-porque no los conozco bien
-los hornos no se acercan, tu te acercas al horno
-no se mueven es solo una metafora
-porque no caminan ni se mueven
-porque los hornos no se mueven
-no ya que no tienen vida
-no se pueden mover.
-en forma literal no ya que no se mueven, pero en metafora si, y seria que hara mucho calor
-no, no es algo que se pueda mover por su cuenta
-no es posible, por que los hornos no se pueden acercar pero se puede referir a que va hacer mucho calor. es una metafora.
+> por que no se mueven
+1. no por que no caminan
+1. porque un horno no tienes piernas
+1. que no porque no pueden caminar
+1. no es posible ya que no se pueden mover los hornos
+1. porque no tienen alma
+1. por que no tienen pies
+1. porque un horno no se puede mover y acercarse solo
+1. no creo que un horno se pueda acercar a ti
+1. no tienen pies
+1. por que no tienen pies
+1. no por que los hornos no se pueden mover solos
+1. no por que los hornos no caminan
+1. porque los hornos no pueden caminar ni moverse a menos de que alguien los empuje
+1. porque los hornos no avanzan ni se mueven
+1. no porque no se pueden mover por si solos
+1. por que un horno no tiene movilidad propia
+1. no por que no se mueven solos
+1. por que no se mueven
+1. no es posible por que lo hornos no tienen movimiento propio
+1. porque los hornos no pueden caminar literalmente
+1. no ellos no caminan
+1. por que no se mueven
+1. por que es imposible de que se muevan
+1. pues no por que no pueden caminar
+1. no los hornos no tiene vida para moverse
+1. por que no se mueven
+1. no por que no se pueden mover
+1. no porque ningún horno se mueve de su posición
+1. porque no caminan ni se mueven
+1. porque los hornos no se mueven
+1. no ya que no tienen vida
+1. no se pueden mover
+1. en forma literal no ya que no se mueven pero en metáfora si y seria que hará mucho calor
+1. no no es algo que se pueda mover por su cuenta
+1. no es posible por que los hornos no se pueden acercar pero se puede referir a que va hacer mucho calor es una metáfora
+
+> NA
+1. NS
+1. por simple lógica no hallo el sentido de la frase
+1. por que solo es una expresión
+1. no le entiendo a la frase
+1. me vale
+1. por que hasta que no saquen uno que a la ves sea un robot no lo ara
+1. no creo que sea posible si se trata de un horno de micro hondas
+1. no porque no existen
+1. por que no tiene sentido
+1. por que pues solo pasan eso
+1. puede que si porque dañamos mucho al planeta
+1. por que no se atraen
+1. pues no lo se
+1. pues creo que no por que no se
+1. porque no los conozco bien
+1. los hornos no se acercan tu te acercas al horno
+1. no se mueven es solo una metáfora
+1. NS

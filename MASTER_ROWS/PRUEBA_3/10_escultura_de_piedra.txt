@@ -1,272 +1,266 @@
-   > ========================= RESPUESTAS AFIRMATIVAS =========================
+---> ========================= RESPUESTAS AFIRMATIVAS =========================
 
- > Que significa 
+---> Que significa
+
 > que se hizo con piedra
-que es de piedra
-que está hecha de piedra
-que el material de composición es piedra
-que una estatua es de piedra
-que si una escultura se puede fabricar de piedra
-que es una escultura que ya existe desde hace años
-que hicieron una figura en la piedra
-que la escultura es de piedra
-una forma de escultura
-sí hay esculturas de piedra
-que algunas personas están quietas y pesadas
-un objeto formado por tallar una piedra
-una figura real dimensiona hecha de piedra 
-que la escultura es de piedra
-una escultura de piedra
-ese material de se puede hacer escultura
-es una escultura hecha de piedra
-que es una escultura hecha de piedra
-forma de piedra
-una escultura hecha de piedra
-la escultura es de piedra 
-porque son de piedra
-una escultura hecha de piedra
-que la escultura está hecha de piedra
-son estatuas hechas de piedra
-que la hicieron en una piedra
-el material de la pulsera
-un dibujo en una piedra
-porque son monumentos
-que es una escultura hecha de piedra
-este compuesto por piedra
-que la escultura es de piedra
-una escultura hecha de piedra 
-que no se mueve y que esta hecha de piedra
-que es de piedra
-una enorme piedra esculpida para que tenga la forma que quiere el escultor
-que la estatua es de piedra
-escultura hecha de piedra
-que es hecha de piedra
-que se representa una figura en una piedra
-una imagen hecha en piedra
-que puede haber formas en algunas piedras
-es una escultura hecha de piedra
-que una escultura está hecha de piedra
-arte de grandes escultores
-letras símbolos o dibujos tallados en piedra 
-retrato escultura de algo alguien hecha de piedra
-son las figuras que están hechas como de barro o así
-hacer una figura con un trozo de piedra
-pues que es muy dura o resistente
-que una escultura es de piedra
-que una escultura es de piedra
-que algo o alguien está representado en una piedra
-un bloque de piedra que una persona tallo una escultura
-algo que permanece siempre en un mismo lugar
-es una escultura grande
-que un objeto esta hecho de piedra
-que es una piedra con forma de algo
-que todas las personas somos unas esculturas justo asi como somos 
-es la que esta hecho de rocas
-que una simple piedra puede ser una escultura
-que son hechos a base de piedra
-arte de grandes escultores esta está hecha de piedra
-una escultura hecha con material de la piedra
-que si se puede hacer de piedra
-que esta dura e inmóvil y es de piedra
-una escultura con piedra picada
-que si hay objetos hechos con piedra
-que si hay esculturas de personas en piedra
-que se hizo con piedra
-una obra hecha de piedra con una historia por detrás
-una escultura que es tallada en piedra
-utilizaron el material piedra para hacer arte
-que la escultura es de piedra dura 
-que la escultura está hecha de tierra
-que una escultura esta hecha de piedra 
-que la escultura es de piedra
-una estatua hecha de piedra
-una piedra que tiene forma de algo o alguien ya que asi la construyo alguien 
-que es una escultura hecha a base de piedra 
-sí porque existen muchas
-que una escultura esta tallada en piedra 
-que no te mueves
-escultura esculpida en piedra
-una estatua hecha de piedra
-que tu eres como una estatua porque no hablas y no te mueves mucho
-que la escultura es demasiado sólida y dura
-muchas esculturas estan hechas de pieda ya que es un solido modificable
-escultura compuesta hecha con piedra 
-alguien frio o distante que no muestra mucho sus sentimientos
-una figura plasmada en una piedra con su figura
-que la escultura está hecha de piedra 
-una piedra tallada para que tenga la forma de algo
-que es una escultura hecha de piedra
-una escultura hecha de piedras
-una estatua hecha de piedra
-algo fuerte 
-significa una escultura hecho con piedra
-que en la antigüedad se hacían estatuas así
-que es duro algo 
+1. que es de piedra
+1. que está hecha de piedra
+1. que el material de composición es piedra
+1. que una estatua es de piedra
+1. que si una escultura se puede fabricar de piedra
+1. que es una escultura que ya existe desde hace años
+1. que hicieron una figura en la piedra
+1. que la escultura es de piedra
+1. una forma de escultura
+1. sí hay esculturas de piedra
+1. que algunas personas están quietas y pesadas
+1. un objeto formado por tallar una piedra
+1. una figura real dimensiona hecha de piedra 
+1. que la escultura es de piedra
+1. una escultura de piedra
+1. ese material de se puede hacer escultura
+1. es una escultura hecha de piedra
+1. que es una escultura hecha de piedra
+1. forma de piedra
+1. una escultura hecha de piedra
+1. la escultura es de piedra 
+1. porque son de piedra
+1. una escultura hecha de piedra
+1. que la escultura está hecha de piedra
+1. son estatuas hechas de piedra
+1. que la hicieron en una piedra
+1. el material de la pulsera
+1. un dibujo en una piedra
+1. porque son monumentos
+1. que es una escultura hecha de piedra
+1. este compuesto por piedra
+1. que la escultura es de piedra
+1. una escultura hecha de piedra 
+1. que no se mueve y que esta hecha de piedra
+1. que es de piedra
+1. una enorme piedra esculpida para que tenga la forma que quiere el escultor
+1. que la estatua es de piedra
+1. escultura hecha de piedra
+1. que es hecha de piedra
+1. que se representa una figura en una piedra
+1. una imagen hecha en piedra
+1. que puede haber formas en algunas piedras
+1. es una escultura hecha de piedra
+1. que una escultura está hecha de piedra
+1. arte de grandes escultores
+1. letras símbolos o dibujos tallados en piedra 
+1. retrato escultura de algo alguien hecha de piedra
+1. son las figuras que están hechas como de barro o así
+1. hacer una figura con un trozo de piedra
+1. pues que es muy dura o resistente
+1. que una escultura es de piedra
+1. que una escultura es de piedra
+1. que algo o alguien está representado en una piedra
+1. un bloque de piedra que una persona tallo una escultura
+1. algo que permanece siempre en un mismo lugar
+1. es una escultura grande
+1. que un objeto esta hecho de piedra
+1. que es una piedra con forma de algo
+1. que todas las personas somos unas esculturas justo asi como somos 
+1. es la que esta hecho de rocas
+1. que una simple piedra puede ser una escultura
+1. que son hechos a base de piedra
+1. arte de grandes escultores esta está hecha de piedra
+1. una escultura hecha con material de la piedra
+1. que si se puede hacer de piedra
+1. que esta dura e inmóvil y es de piedra
+1. una escultura con piedra picada
+1. que si hay objetos hechos con piedra
+1. que si hay esculturas de personas en piedra
+1. que se hizo con piedra
+1. una obra hecha de piedra con una historia por detrás
+1. una escultura que es tallada en piedra
+1. utilizaron el material piedra para hacer arte
+1. que la escultura es de piedra dura 
+1. que la escultura está hecha de tierra
+1. que una escultura esta hecha de piedra 
+1. que la escultura es de piedra
+1. una estatua hecha de piedra
+1. una piedra que tiene forma de algo o alguien ya que asi la construyo alguien 
+1. que es una escultura hecha a base de piedra 
+1. sí porque existen muchas
+1. que una escultura esta tallada en piedra 
+1. que no te mueves
+1. escultura esculpida en piedra
+1. una estatua hecha de piedra
+1. que tu eres como una estatua porque no hablas y no te mueves mucho
+1. que la escultura es demasiado sólida y dura
+1. muchas esculturas estan hechas de pieda ya que es un solido modificable
+1. escultura compuesta hecha con piedra 
+1. alguien frio o distante que no muestra mucho sus sentimientos
+1. una figura plasmada en una piedra con su figura
+1. que la escultura está hecha de piedra 
+1. una piedra tallada para que tenga la forma de algo
+1. que es una escultura hecha de piedra
+1. una escultura hecha de piedras
+1. una estatua hecha de piedra
+1. algo fuerte 
+1. significa una escultura hecho con piedra
+1. que en la antigüedad se hacían estatuas así
+1. que es duro algo 
 
 > una obra de arte
-buenas esculturas
-algo de arte
-estatua
-arte
-un arte
-es un arte
-un monumento
-significa que puedes hacer arte
-como una estatua
-una artesanía
-obra de arte
-que es dura
+1. buenas esculturas
+1. algo de arte
+1. estatua
+1. arte
+1. un arte
+1. es un arte
+1. un monumento
+1. significa que puedes hacer arte
+1. como una estatua
+1. una artesanía
+1. obra de arte
+1. que es dura
 
->que no cambia de expresión
-el retrato de una persona ficticia o real
-una persona muy seca
+> que no cambia de expresión
+1. el retrato de una persona ficticia o real
+1. una persona muy seca
 
 
-"""
-invalidas
-que no se entiende lo que escribes
-que se pueden hacer de diferentes cosas
-tatuar a alguien en una escultura
-que están grabando tu memoria
 
-"""
+> NA
+1. que no se entiende lo que escribes
+1. que se pueden hacer de diferentes cosas
+1. tatuar a alguien en una escultura
+1. que están grabando tu memoria
 
- > Por qué crees que sí o no es posible 
+
+
+---> Por qué crees que sí o no es posible 
+
 > si porque la piedra se puede manipular
-si es posible por que se pueden hacer esculturas de piedra pero de una piedra en especifico
-porque las estatuas del siglo xix mejor dicho en su mayoria son y fueron hechas en piedra
-sí porque es piedra y no se rompe al tacto
-por que es un material que se usa para eso entre otros materiales
-es factible ya que los humanos tallamos piedra desde la edad de piedra
-es posible debido a que se talla la roca hasta darle una forma
-por que artistas de este genero pueden trabajar con este material
-porque ya esta creada y practicada
-porque los antiguos mayas hacían sus esculturas de sus dioses
-por que casi todas las esculturas son de hierro o piedra no hay mas a menos que seas rico y hagas una de hora
-es posible porque en la vida real existen
-por que se pueden hacer figuras con la piedra
-pues por que ahi personas que no hablan mucho y estan pesadas de cuerpo
-porque desde muchos años atras muchos artistas hacian obras con piedras usando un martillo y cincel
-el ser humano es capaz de moldear la piedra hasta tener la figura deseada 
-porque hay muchas esculturas hechas de piedra
-porque la gran parte de las esculturas estan hechas de piedra y porque la piedra es moldeable y cinceleable
-porque hay personas que no son sociables y les gusta estar solos y tranquilos
-sí es posible debido a que hay esculturas de piedra 
-porque son de piedra 
-sí es posible porque puedes hacer una escultura de piedra
-porque algunas esculturas están hechas de piedra
-si por que en la antigedad se utilizaba piedra y otros materiales para hacer las esculturas
-porque por lo general las estatuas parten de una piedra
-porque es común ver estatuas de ese material
-porque si se puede pintar y una piedra
-porque hay gente que por mas que intentes su letra no mejorara y jamas se le entenderá
-es posible porque casi todas las esculturas se hacen con piedra
-la mayoría de las esculturas de nuestro pasado son de piedra 
-sí porque así son fuertes
-es posible porque estas se encuentran en algunos museos
-porque las estatuas no se mueven y la piedra tampoco
-por que la piedra es estable y se puede quitar el volumen y crear figuras
-sí se puede porque solo haces una forma en una piedra
-porque ya hay esculturas de piedra
-de ese material está fabricada alguna escultura
-porque es algo real que incluso hemos visto muchos 
-nuestros ancestros lo hacían
-porque hoy en día se pueden hacer esculturas de piedra
-si ya que da a entender que no solo hay esculturas de metal bronce o plata u incluso oro sino que variedad es extensa
-porque las esculturas pueden ser de diferentes materiales y uno de ellos es la piedra
-es posible porque en la actualizad hay muchas formas de tallar y manipular las piedras para crear lo que nuestra imaginación nos permita
-por que hay cosas que siempre permanecen en su lugar nunca se mueven
-por hay muchas y más grandes
-sí es posibles ya que las estatuas están hechas a base de piedra
-porque la piedra se usa mucho para hacer esculturas
-puede ser posible por que muchos escultores han hecho esculturas de piedras
-porque es algo que con ese material se hacen esculturas
-si es posible por que es algo que hacen los escultores y eso es tener algo de cultura
-si porque asi como hay esculturas de bronce plata oro puede a ver de piedra y de mucho mas
-porque hay esculturas hechas de piedra etc 
-porque si hay algunas estatuas de piedra
-por que en la mayoria de las estatuas estan hechas de piedra y es muy facil de hacer las estatuas con ese material
-porque los escultores pueden trabajar sobre la piedra
-por que todas las esculturas estan hechas de algun tipo de piedra
-porque existen muchas esculturas de piedra 
-porque las esculturas están hechas de algo consistente
-si es posible porque puede ser una metafora o decir que algo es resistente 
-porque se sabe que hay muchas personas que hacen esculturas de piedras y si existe 
-sí porque si hay esculturas hechas de piedras
-es algo que ya están esculpidas
-sí ya que las esculturas están hechas de piedra 
-porque si hay estatuas hechas de piedra o roca
-porque las estatuas son de piedra
-porque todas las esculturas deben ser de materiales duros piedra
-sí porque la piedra es dura
-porque es una estatua
-desde la antiguedad muchas de las estatuas estan hechas con este material
-si es posible porque ya ha sido implementada en varias ocasiones y se han hecho varias esculturas con piedra 
-si es posible porque en las piedras se pueden tallar figuras y en especial las esculturas
-generalmente las esculturas son de marmol o de yeso o algo similar pero es posible que una escultura este hecha de piedra 
-si la piedra es resistente y con trabajo se logran buenos resultados
-pues porque literalmente es así
-porque las esculturas si están hechas de piedra
-una escultura puede ser de piedra
-porque la piedra es solida para que se quede estable y en su lugar
-porque es un material fuerte que se pueden hacer muchas cosas con piedra 
-porque puedes hacer escultura con piedra porque ese material es muy bien para hacer estatuas
+1. si es posible por que se pueden hacer esculturas de piedra pero de una piedra en especifico
+1. porque las estatuas del siglo xix mejor dicho en su mayoria son y fueron hechas en piedra
+1. sí porque es piedra y no se rompe al tacto
+1. por que es un material que se usa para eso entre otros materiales
+1. es factible ya que los humanos tallamos piedra desde la edad de piedra
+1. es posible debido a que se talla la roca hasta darle una forma
+1. por que artistas de este genero pueden trabajar con este material
+1. porque ya esta creada y practicada
+1. porque los antiguos mayas hacían sus esculturas de sus dioses
+1. por que casi todas las esculturas son de hierro o piedra no hay mas a menos que seas rico y hagas una de hora
+1. es posible porque en la vida real existen
+1. por que se pueden hacer figuras con la piedra
+1. pues por que ahi personas que no hablan mucho y estan pesadas de cuerpo
+1. porque desde muchos años atras muchos artistas hacian obras con piedras usando un martillo y cincel
+1. el ser humano es capaz de moldear la piedra hasta tener la figura deseada 
+1. porque hay muchas esculturas hechas de piedra
+1. porque la gran parte de las esculturas estan hechas de piedra y porque la piedra es moldeable y cinceleable
+1. porque hay personas que no son sociables y les gusta estar solos y tranquilos
+1. sí es posible debido a que hay esculturas de piedra 
+1. porque son de piedra 
+1. sí es posible porque puedes hacer una escultura de piedra
+1. porque algunas esculturas están hechas de piedra
+1. si por que en la antigedad se utilizaba piedra y otros materiales para hacer las esculturas
+1. porque por lo general las estatuas parten de una piedra
+1. porque es común ver estatuas de ese material
+1. porque si se puede pintar y una piedra
+1. porque hay gente que por mas que intentes su letra no mejorara y jamas se le entenderá
+1. es posible porque casi todas las esculturas se hacen con piedra
+1. la mayoría de las esculturas de nuestro pasado son de piedra 
+1. sí porque así son fuertes
+1. es posible porque estas se encuentran en algunos museos
+1. porque las estatuas no se mueven y la piedra tampoco
+1. por que la piedra es estable y se puede quitar el volumen y crear figuras
+1. sí se puede porque solo haces una forma en una piedra
+1. porque ya hay esculturas de piedra
+1. de ese material está fabricada alguna escultura
+1. porque es algo real que incluso hemos visto muchos 
+1. nuestros ancestros lo hacían
+1. porque hoy en día se pueden hacer esculturas de piedra
+1. si ya que da a entender que no solo hay esculturas de metal bronce o plata u incluso oro sino que variedad es extensa
+1. porque las esculturas pueden ser de diferentes materiales y uno de ellos es la piedra
+1. es posible porque en la actualizad hay muchas formas de tallar y manipular las piedras para crear lo que nuestra imaginación nos permita
+1. por que hay cosas que siempre permanecen en su lugar nunca se mueven
+1. por hay muchas y más grandes
+1. sí es posibles ya que las estatuas están hechas a base de piedra
+1. porque la piedra se usa mucho para hacer esculturas
+1. puede ser posible por que muchos escultores han hecho esculturas de piedras
+1. porque es algo que con ese material se hacen esculturas
+1. si es posible por que es algo que hacen los escultores y eso es tener algo de cultura
+1. si porque asi como hay esculturas de bronce plata oro puede a ver de piedra y de mucho mas
+1. porque hay esculturas hechas de piedra etc 
+1. porque si hay algunas estatuas de piedra
+1. por que en la mayoria de las estatuas estan hechas de piedra y es muy facil de hacer las estatuas con ese material
+1. porque los escultores pueden trabajar sobre la piedra
+1. por que todas las esculturas estan hechas de algun tipo de piedra
+1. porque existen muchas esculturas de piedra 
+1. porque las esculturas están hechas de algo consistente
+1. si es posible porque puede ser una metafora o decir que algo es resistente 
+1. porque se sabe que hay muchas personas que hacen esculturas de piedras y si existe 
+1. sí porque si hay esculturas hechas de piedras
+1. es algo que ya están esculpidas
+1. sí ya que las esculturas están hechas de piedra 
+1. porque si hay estatuas hechas de piedra o roca
+1. porque las estatuas son de piedra
+1. porque todas las esculturas deben ser de materiales duros piedra
+1. sí porque la piedra es dura
+1. porque es una estatua
+1. desde la antiguedad muchas de las estatuas estan hechas con este material
+1. si es posible porque ya ha sido implementada en varias ocasiones y se han hecho varias esculturas con piedra 
+1. si es posible porque en las piedras se pueden tallar figuras y en especial las esculturas
+1. generalmente las esculturas son de marmol o de yeso o algo similar pero es posible que una escultura este hecha de piedra 
+1. si la piedra es resistente y con trabajo se logran buenos resultados
+1. pues porque literalmente es así
+1. porque las esculturas si están hechas de piedra
+1. una escultura puede ser de piedra
+1. porque la piedra es solida para que se quede estable y en su lugar
+1. porque es un material fuerte que se pueden hacer muchas cosas con piedra 
+1. porque puedes hacer escultura con piedra porque ese material es muy bien para hacer estatuas
+
+> porque la pueden ocupar para representar a alguien
+1. porque es un arte que una personas podrían hacer
+1. sí es posible porque ya se han hecho en la antigüedad 
+1. porque puedes expresar tus emociones y haces arte
+1. porque se pueden amoldar las piedras con forma o carácter humano
+1. porque son arte de los museos 
+1. porque existen muchas en los museos y en las calles
+1. por que luego cuando vas a museos o playas ahi hay figuras marcadas de piedra
+1. una representación de ante pasados
+1. si por que en las plazas centro casa y lugares turisticos al igual que en museos las ahi
+1. yo dijo que si es posible porque las utilizan para adornos
+1. si por que es una obra maestra que ellos mismos hacen con su imaginación
 
 
->porque la pueden ocupar para representar a alguien
-porque es un arte que una personas podrían hacer
-sí es posible porque ya se han hecho en la antigüedad 
-porque puedes expresar tus emociones y haces arte
-porque se pueden amoldar las piedras con forma o carácter humano
-porque son arte de los museos 
-porque existen muchas en los museos y en las calles
-por que luego cuando vas a museos o playas ahi hay figuras marcadas de piedra
-una representación de ante pasados
-si por que en las plazas centro casa y lugares turisticos al igual que en museos las ahi
-yo dijo que si es posible porque las utilizan para adornos
-si por que es una obra maestra que ellos mismos hacen con su imaginación
+> NA
+1. si
+1. porque las he visto
+1. porque las he visto
+1. porque gente ya las ha hecho
+1. es posible porque ya existe 
+1. si a eso se dedican los escultores
+1. porque las he visto con mis ojos 
+1. porque he visto en la tele como las hacen
+1. porque existen
+1. porque hay estatuas así
+1. porque si existen
+1. es posible porque yo he visto muchas en diferentes lugares
+1. porque mucha gente lo hace
+1. porque si existen
+1. porque lo he visto
+1. sí porque ya se ha hecho
+1. porque todas las personas tenemos algo que nos hace completamente unicos y eso es lo que cuenta 
+1. sí porque personas han hecho estas obras y han ganado dinero
+1. por que si no existiera el arte no supiéramos lo que paso antes
+1. porque grandes artistas lo han hecho
+1. los escultores la trabajan
+1. porque si se pueden hacer
+1. porque estas esculturas ya existen
+1. porque son exhibiciones
+1. ya han hecho esculturas de piedra
+1. porque si existen
+1. porque todo se puede
+1. porque pueden elaborarlas
 
->por que las personas se adaptan dependiendo su alrededor y si es hostil tienden a comportarse asi
-"""
-invalidas
-si
-porque las he visto
-porque las he visto
-porque gente ya las ha hecho
-es posible porque ya existe 
-si a eso se dedican los escultores
-porque las he visto con mis ojos 
-porque he visto en la tele como las hacen
-porque existen
-porque hay estatuas así
-porque si existen
-es posible porque yo he visto muchas en diferentes lugares
-porque mucha gente lo hace
-porque si existen
-porque lo he visto
-sí porque ya se ha hecho
-porque todas las personas tenemos algo que nos hace completamente unicos y eso es lo que cuenta 
-sí porque personas han hecho estas obras y han ganado dinero
-por que si no existiera el arte no supiéramos lo que paso antes
-porque grandes artistas lo han hecho
-los escultores la trabajan
-porque si se pueden hacer
-porque estas esculturas ya existen
-porque son exhibiciones
-ya han hecho esculturas de piedra
-porque si existen
-porque todo se puede
-porque pueden elaborarlas
+---> ========================= RESPUESTAS NEGATIVAS =========================
 
-"""
-   > ========================= RESPUESTAS NEGATIVAS =========================
-
- > Que significa 
-
-una bella e increíble escultura a base de piedra
-
- > Por qué crees que sí o no es posible 
-
-porque si hay esculturas de este tipo
+-> Que significa 
 
 
+-> Por qué crees que sí o no es posible 
