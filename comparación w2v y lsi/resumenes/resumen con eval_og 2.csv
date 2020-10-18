@@ -1,0 +1,55 @@
+,Var1,Var2,Freq
+1,,      X,Min.   :  0.0  
+2,,      X,1st Qu.:264.0  
+3,,      X,Median :469.0  
+4,,      X,Mean   :445.3  
+5,,      X,3rd Qu.:695.0  
+6,,      X,Max.   :849.0  
+7,,que.mi.hermanito.grita.mucho,Length:57         
+8,,que.mi.hermanito.grita.mucho,Class :character  
+9,,que.mi.hermanito.grita.mucho,Mode  :character  
+10,,que.mi.hermanito.grita.mucho,NA
+11,,que.mi.hermanito.grita.mucho,NA
+12,,que.mi.hermanito.grita.mucho,NA
+13,,n_similarities,Min.   :0.0000  
+14,,n_similarities,1st Qu.:0.1404  
+15,,n_similarities,Median :0.4902  
+16,,n_similarities,Mean   :0.4014  
+17,,n_similarities,3rd Qu.:0.6059  
+18,,n_similarities,Max.   :0.8323  
+19,,    X2dim,Min.   :-0.51324  
+20,,    X2dim,1st Qu.:-0.04344  
+21,,    X2dim,Median : 0.00000  
+22,,    X2dim,Mean   : 0.30149  
+23,,    X2dim,3rd Qu.: 0.89649  
+24,,    X2dim,Max.   : 1.00000  
+25,,    X5dim,Min.   :-0.50581  
+26,,    X5dim,1st Qu.: 0.00000  
+27,,    X5dim,Median : 0.06279  
+28,,    X5dim,Mean   : 0.24221  
+29,,    X5dim,3rd Qu.: 0.63104  
+30,,    X5dim,Max.   : 1.00000  
+31,,    X10dim,Min.   :-0.0753782  
+32,,    X10dim,1st Qu.:-0.0001502  
+33,,    X10dim,Median : 0.0000000  
+34,,    X10dim,Mean   : 0.2022570  
+35,,    X10dim,3rd Qu.: 0.4362471  
+36,,    X10dim,Max.   : 1.0000000  
+37,,    X20dim,Min.   :-0.012836  
+38,,    X20dim,1st Qu.:-0.000053  
+39,,    X20dim,Median : 0.000000  
+40,,    X20dim,Mean   : 0.195072  
+41,,    X20dim,3rd Qu.: 0.411895  
+42,,    X20dim,Max.   : 1.000000  
+43,,    X50dim,Min.   :-0.0093496  
+44,,    X50dim,1st Qu.: 0.0000000  
+45,,    X50dim,Median : 0.0002629  
+46,,    X50dim,Mean   : 0.1804808  
+47,,    X50dim,3rd Qu.: 0.4094394  
+48,,    X50dim,Max.   : 1.0000000  
+49,,   eval_og,Min.   :2  
+50,,   eval_og,1st Qu.:2  
+51,,   eval_og,Median :2  
+52,,   eval_og,Mean   :2  
+53,,   eval_og,3rd Qu.:2  
+54,,   eval_og,Max.   :2  

@@ -1,0 +1,4 @@
+,tests,n_similarities,X2dim,X5dim,X10dim,X20dim,X50dim
+1,kruskal_estadistico,74.23620459,18.04985646,77.4511341,64.69799513,60.78236554,64.02545074
+2,kruskal_pvalor,5.28E-16,0.000429557,1.08E-16,5.82E-14,4.00E-13,8.11E-14
+3,kruskal_conclusion,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula
