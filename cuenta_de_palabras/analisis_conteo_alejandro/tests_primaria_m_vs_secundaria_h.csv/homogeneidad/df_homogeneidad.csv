@@ -1,0 +1,7 @@
+"","tests","suma_total_sustantivos","suma_total_verbos","suma_total_adjetivos","suma_total_adverbios","total_palabras_clasificadas","total_palabras","gran_total"
+"1","bartlett_estadistico","52.0663388177003","40.4228671656971","26.0058881525274","7.63979837484225","78.5441876423729","53.626884217839","4.05224024955251"
+"2","bartlett_pvalor","5.36568969515365e-13","2.04533184608165e-10","3.40377651938218e-07","0.00570942987887345","7.82286682534046e-19","2.4241928135816e-13","0.0441127676037508"
+"3","bartlett_conclusion","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula"
+"4","levene_estadistico","26.4060733589382","13.6094283992949","7.78839133147379","5.05101427008277","32.1492671024221","25.750271693408","1.64763337732809"
+"5","levene_pvalor","4.22606341194156e-07","0.000254272912751184","0.00549514470911469","0.0251237394311972","2.64064620229165e-08","5.8196879021288e-07","0.199980753668585"
+"6","levene_conclusion","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","No rechaza la hipotesis nula"

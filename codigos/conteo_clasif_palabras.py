@@ -1,4 +1,4 @@
-simport numpy as np
+import numpy as np
 import pandas as pd
 import string
 from hunspell import Hunspell
