@@ -1,0 +1,4 @@
+"","tests","gensim_n_similarity_a"
+"1","Kruskal_estadistico","56.5952853599016"
+"2","Kruskal_pvalor","3.13545126141806e-12"
+"3","Kruskal_conclusion","Rechaza la hipótesis nula"

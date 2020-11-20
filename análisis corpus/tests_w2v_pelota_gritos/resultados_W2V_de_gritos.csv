@@ -1,0 +1,471 @@
+,Explica pelota de gritos,a_similarity,a_wmdistances,a_n_similarity,a_distance,a_puntaje
+0,por que hace mucho ruido,1,0.044697769,1,0.8691248,3
+1,que es un hermano que grita mucho más de lo normal ,0.52897716,0.045580068,0.7389515,0.878010292,3
+2,que es una persona gritona,0.24884206,0.044412439,0.33031517,0.88566504,3
+3,porque el niño grita mucho,0.6309712,0.043000125,0.7863949,0.79264535,3
+4,es muy gritón,0.3236592,0.048271134,0.3236592,0.850219578,3
+5,que grita todo el tiempo,1,0.044697769,1,0.8691248,3
+6,que su hermano es un gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+7,porque su hermanito sube demasiado la voz,0.21311444,0.045907594,0.32710934,0.902387321,3
+8,se refiere a que el hermano grita y el poeta ve a mundo como pelotas,0.3714383,0.045101126,0.6242542,0.858024125,3
+9,porque tal vez su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+10,por el grita,1,0.044697769,1,0.8691248,3
+11,que no se esta en silencio ,0.15082547,0.045964614,0.15082547,0.952245399,3
+12,que su hermano puede gritar por que no tiene una pelota de pelos,0.30421773,0.045585649,0.4454508,0.844075758,3
+13,como esta pequeño da lata,0.17008522,0.042008863,0.22381109,0.853144385,3
+14,que es bien llorón,0.20680189,0.043214601,0.20680189,0.886451937,3
+15,cuando al hermano no le compran nada se pone gritar,0.1934325,0.047191355,0.32076448,0.92522529,3
+16,que su hermano es una pelota que grita,0.5554574,0.044600558,0.7225069,0.842809717,3
+17,que grita mucho,1,0.044697769,1,0.8691248,3
+18,que habla mucho o grita,1,0.044697769,1,0.8691248,3
+19,que la niña se la pasa llorando o haciendo berrinche ,0.1703682,0.043556676,0.28300008,0.835443191,3
+20,por que grita mucho,1,0.044697769,1,0.8691248,3
+21,que grita mucho,1,0.044697769,1,0.8691248,3
+22,de que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+23,por que grita,1,0.044697769,1,0.8691248,3
+24,por que no habla en voz baja,0.12862116,0.04539632,0.1736257,0.947072739,3
+25,por que grita mucho,1,0.044697769,1,0.8691248,3
+26,mi hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+27,es gordito y grita mucho,0.65755963,0.043973352,0.786144,0.793220684,3
+28,por que el el hermano es u niño pequeño,0.2733814,0.042801961,0.38217837,0.78642343,3
+29,que hay muchos gritos,0.059554145,0.046904214,0.059554145,1.016906211,3
+30,que exagera al hacer berrinche,0.32507014,0.044174297,0.43070287,0.846522182,3
+31,no lo sé,0,0,0,0,1
+32,que llora mucho ,0.24942526,0.047645051,0.24942526,0.910372436,3
+33,grita,1,0.044697769,1,0.8691248,3
+34,por que es divertido,0.25974786,0.044214264,0.25974786,0.922288783,3
+35,que cada que lo tocan hace un grito,0,0,0,0,2
+36,que su hermanito tiene muchas energías para gritar,0.26723152,0.047594359,0.4222374,0.910407009,3
+37,que mi hermanito no para de gritar,0.30233875,0.048423034,0.3973354,0.884749442,3
+38,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+39,que su hermano es alguien que grita mucho,0.484823,0.044037719,0.7465885,0.852478186,3
+40,que cuando le pegan el se pone a gritar,0.111147605,0.047862384,0.19068137,0.921252601,2
+41,porque se la pasa gritando el pensativo ,0.23520699,0.045345008,0.31450334,0.871797126,2
+42,que grita mucho,1,0.044697769,1,0.8691248,2
+43,mi hermano esta muy gordo y se la pasa gritando,0.23234181,0.044901332,0.36450386,0.862409038,1
+44,si porque frita mucho,0,0,0,0,1
+45,que empieza a gritar,0.27121198,0.050748668,0.3387787,0.956985924,1
+46,por que chilla mucho,0.2374441,0.044084933,0.2374441,0.991958782,1
+47,no,0,0,0,0,1
+48,que mi hermano en redondo y grita mucho,0.5178797,0.043438322,0.73760766,0.827857663,1
+49,porque los hermanos lloran mucho,0.17983317,0.041630018,0.24091576,0.855723079,1
+50,no,0,0,0,0,1
+51,que su hermano se la pasa gritando o sea es un desastroso,0.21475227,0.045414254,0.3704622,0.898269544,3
+52,explica que el hermano grita mucho e inquieto,0.4414142,0.045341596,0.67390645,0.879631106,3
+53,13fg,0,0,0,0,0
+54,es gritón,0.3236592,0.048271134,0.3236592,0.850219578,3
+55,que su hermanito es gordo y grita mucho,0.48047093,0.044092025,0.7030233,0.867682487,3
+56,se refiere a que el hermanito siempre grita,0.54047394,0.045312232,0.7288363,0.85501952,3
+57,por que su hermano solo grita,0.6671361,0.044878696,0.8002222,0.840039238,3
+58,que su hermano chico grita mucho o habla mucho,0.5135883,0.044023045,0.7137196,0.799755762,3
+59,que grita o llora mucho por eso es una pelota de gritos,0.3911548,0.045269576,0.6169953,0.892073441,3
+60,que su hermano no se para de quejar a cada rato anda gritando,0.22516796,0.043969416,0.41787007,0.858077349,3
+61,que es un niño que grita mucho,0.6309712,0.043000125,0.7863949,0.79264535,3
+62,por que el grita,1,0.044697769,1,0.8691248,3
+63,que su hermano puede gritar por que tiene una pelotas de pelos,0.27299652,0.045859008,0.4293662,0.866684575,2
+64,grita mucho,1,0.044697769,1,0.8691248,3
+65,que es llorón,0.20680189,0.043214601,0.20680189,0.886451937,3
+66,que tiene muchos sentimientos,0,0,0,0,2
+67,que grita mucho,1,0.044697769,1,0.8691248,3
+68,que tu hermano grita mucho y me desespera creo que eso dice la frase de pelota de gritos supongo,0.3345476,0.045237476,0.60709465,0.885151103,3
+69,que el siempre grita,1,0.044697769,1,0.8691248,3
+70,por que los hermanitos son muy molestos,0,0,0,0,2
+71,de que el hermano nada más se la pasa gritando y eso molesta,0.26546562,0.045653922,0.4438141,0.869932296,3
+72,que su hermano grita todo el tiempo,0.6671361,0.044878696,0.8002222,0.840039238,3
+73,porque grita mucho,1,0.044697769,1,0.8691248,3
+74,que es un gritón,0.3236592,0.048271134,0.3236592,0.850219578,3
+75,que grita mucho,1,0.044697769,1,0.8691248,3
+76,por que esta gordo y grita,0.56234056,0.044276738,0.7696004,0.882106513,3
+77,que es un ruidoso,0.17337063,0.044646438,0.17337063,0.962278396,3
+78,que da mucha lata,0.12586194,0.042626202,0.12586194,0.883759335,2
+79,que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+80,por que grita mucho mi hermanito,0.65836585,0.04421025,0.8131853,0.853979617,3
+81,por que mi hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+82,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+83,que es fastidioso,0.20196056,0.046070755,0.20196056,0.824242741,1
+84,una pelota mu enojada,0.33210012,0.044044435,0.33210012,0.848350674,1
+85,no sé,0,0,0,0,0
+86,que es muy platicador,0,0,0,0,2
+87,que es muy berrinchudo,0.25012243,0.043714821,0.25012243,0.901672751,3
+88,mi hermanito es un niño de gritos,0.18725593,0.043238706,0.27995425,0.831815397,3
+89,porque su hermano siempre grita,0.6671361,0.044878696,0.8002222,0.840039238,3
+90,que su hermano es muy gordo y grita mucho,0.48631775,0.044537655,0.67292905,0.858388901,3
+91,mi hermano es muy gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+92,que es alguien muy gritón,0.221928,0.045313514,0.32169667,0.86378783,3
+93,el hermano es muy inquieto,0.21692003,0.045671528,0.28090656,0.867941909,2
+94,porque los niños son muy escandalosos,0.14235303,0.045279774,0.18115142,0.936258584,3
+95,la forma de expresar a un ser por medio de palabras metafóricas,0.1670282,0.044913834,0.2835998,0.905232951,3
+96,que su hermano es una persona que grita mucho,0.5693776,0.043702056,0.75620013,0.799707095,3
+97,por que grita mucho y salta mucho,0.6102496,0.042097789,0.79121983,0.787901431,3
+98,tal vez por que es algo gritón y molesto,0.28515422,0.046035795,0.35860264,0.801312029,3
+99,significa que reclama o llora mucho,0.18409978,0.046230741,0.2624497,0.901337636,3
+100,que el hermanito grite mucho,0.19436654,0.044115239,0.25886238,0.89079041,3
+101,que se hunde en el llanto,0.20123413,0.045457679,0.2528135,0.940990675,3
+102,que su hermano grita mucho todo el tiempo,0.6671361,0.044878696,0.8002222,0.840039238,3
+103,que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+104,porque es bien gritón,0.3236592,0.048271134,0.3236592,0.850219578,3
+105,por que siempre grita,1,0.044697769,1,0.8691248,3
+106,por que grita mucho,1,0.044697769,1,0.8691248,3
+107,por que llora mucho,0.24942526,0.047645051,0.24942526,0.910372436,3
+108,es un niño que se la pasa gritando y llorando todo el día,0.20748621,0.043816523,0.3368185,0.834159268,3
+109,por que chillan mucho o gritan mucho exageran,0.27349812,0.047502127,0.37034804,0.821147526,3
+110,que su mama es una persona muy gritona,0.24884206,0.044412439,0.33031517,0.88566504,2
+111,que no entiende,0.23694329,0.043334775,0.23694329,0.835813522,1
+112,por que se la pasa gritando,0.23520699,0.045345008,0.31450334,0.871797126,3
+113,porque grita mucho,1,0.044697769,1,0.8691248,3
+114,su hermano es un niño que grita mucho,0.5320715,0.043686585,0.688193,0.798748126,3
+115,que es muy ruidoso,0.17337063,0.044646438,0.17337063,0.962278396,3
+116,es una maquina o bien alguien que grita demasiado,0.38372478,0.043355988,0.6226582,0.887742269,3
+117,pirhhhhgvfriufueiituj,0,0,0,0,1
+118,por que llora o le hacen algo,0.24942526,0.047645051,0.24942526,0.910372436,3
+119,pues que su hermana grita mucho,0.67442465,0.045981475,0.812502,0.898906842,3
+120,0,0,0,0,0,1
+121,and fort,0,0,0,0,1
+122,que grita mucho,1,0.044697769,1,0.8691248,3
+123,porque grita mucho,1,0.044697769,1,0.8691248,3
+124,mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+125,que grita demasiado,1,0.044697769,1,0.8691248,3
+126,que su hermanito siempre esta gritando y hace mucho ruido,0.40416485,0.04247738,0.6044742,0.777481005,3
+127,que su hermano es una persona muy ruidosa,0.25112942,0.043356764,0.38138294,0.82304406,3
+128,siempre grita,1,0.044697769,1,0.8691248,3
+129,quiere decir que todo el tiempo esta gritando sin parar,0.12690482,0.049319818,0.17140815,1.049370263,3
+130,que su hermanito es muy gritón que su hermanita esta muy loco,0.31281534,0.04677135,0.51637006,0.892381707,3
+131,que grita mucho,1,0.044697769,1,0.8691248,3
+132,quiere decir que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+133,que grita,1,0.044697769,1,0.8691248,3
+134,que mi hermano tiene mucha energía,0.20544474,0.045209012,0.28992075,0.902890066,3
+135,que es muy pequeño y grita,0.6119649,0.043370849,0.80199385,0.850637756,3
+136,que es pequeño y que grita mucho,0.6119649,0.043370849,0.80199385,0.850637756,3
+137,que es muy gritona,0.123823516,0.047475994,0.123823516,1.052287273,3
+138,no para de gritar,0.2879458,0.053123362,0.2879458,0.93066445,3
+139,que grita,1,0.044697769,1,0.8691248,3
+140,que mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+141,pues que al parecer su hermano grita mucho pero no entiende la metáfora de pelota,0.37552854,0.043824323,0.6435683,0.860357878,3
+142,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+143,se refiere a que es una persona que grita,0.5595169,0.044520959,0.75467765,0.815088977,3
+144,que su hermano hace mucho escándalo,0.34062856,0.044547485,0.44131148,0.852998406,3
+145,que hecha mucho relajo,0.17489755,0.0444776,0.23428439,0.873819858,3
+146,porque su esta loco,0.19980872,0.048067037,0.19980872,1.055758692,2
+147,que grita demasiado,1,0.044697769,1,0.8691248,3
+148,es que su hermano es muy hiperactivo,0.33427218,0.04505961,0.33427218,0.810953677,2
+149,que el hermano se la pasa gritando,0.2682287,0.045249833,0.39394093,0.851515976,3
+150,que hace mucho escándalo,0.34698495,0.044035345,0.34698495,0.895043135,3
+151,que es muy alborotado,0,0,0,0,2
+152,que siempre se la pasa gritando,0.23520699,0.045345008,0.31450334,0.871797126,3
+153,que es gordito y grita mucho,0.65755963,0.043973352,0.786144,0.793220684,3
+154,que siempre grita,1,0.044697769,1,0.8691248,3
+155,mi hermanito es gordito y es gritón,0.3185034,0.045080882,0.44564077,0.802123527,3
+156,que grita,1,0.044697769,1,0.8691248,3
+157,que su hermano siempre esta gritando,0.27711114,0.045999097,0.35389352,0.879812341,3
+158,que no para de gritar,0.2879458,0.053123362,0.2879458,0.93066445,3
+159,que su hermano grita mucho y no sale de su circulo,0.4466349,0.046970328,0.6427112,0.920436672,3
+160,un humano gordo que no para de chillar,0.21689901,0.04676846,0.31946015,0.866844306,3
+161,que grita mucho,1,0.044697769,1,0.8691248,3
+162,que grita mucho,1,0.044697769,1,0.8691248,3
+163,que su hermano se la pasa gritando,0.2682287,0.045249833,0.39394093,0.851515976,3
+164,que grita mucho que da mucha lata,0.5581203,0.043335783,0.7868592,0.871631429,3
+165,mi hermano grita,0.6671361,0.044878696,0.8002222,0.840039238,3
+166,quiere decir que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+167,pues que grita mucho y tal vez al hablar grita,0.75769365,0.043662614,0.9248721,0.83862265,3
+168,que el niño es un niño que grita mucho,0.5079616,0.042434243,0.6112039,0.7671522,3
+169,que el hermano grita como una pelota que esta botando,0.47249883,0.045313823,0.6682943,0.869091488,3
+170,es alguien que grita o habla demasiado,0.5600984,0.043526822,0.7834102,0.873240441,3
+171,que siempre grita,1,0.044697769,1,0.8691248,3
+172,de que su hermano o es un quejumbroso o es un llorón,0.27974093,0.043787984,0.4242924,0.819917388,3
+173,que se la pasa gritando,0.23520699,0.045345008,0.31450334,0.871797126,3
+174,tiene sobrepeso,0,0,0,0,2
+175,que todo el día esta hablando y gritando,0.20243976,0.046547996,0.2707727,0.940860275,3
+176,que es un niño gordo que grita por todo o su tono de voz es fuerte alto,0.32498267,0.043183581,0.6068203,0.840364522,3
+177,porque grita demasiado,1,0.044697769,1,0.8691248,3
+178,si,0,0,0,0,1
+179,que grita mucho,1,0.044697769,1,0.8691248,3
+180,que el hermano siempre esta gritando entonces es un conjunto de gritos,0.20087223,0.045958739,0.33013153,0.926724862,3
+181,solo grita,1,0.044697769,1,0.8691248,3
+182,que grita mucho,1,0.044697769,1,0.8691248,3
+183,que me hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+184,mi hermano es un gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+185,que su hermano grita o hace mucho ruido,0.48838246,0.029919101,0.7009524,0.560026159,3
+186,que grita mucho,1,0.044697769,1,0.8691248,3
+187,por que grita mucho,1,0.044697769,1,0.8691248,3
+188,que grita mucho,1,0.044697769,1,0.8691248,3
+189,que siempre esta gritando,0.2199501,0.046938572,0.2199501,0.948671006,3
+190,que o se mueve mucho porque es una pelota o que es muy ruidoso,0.1843479,0.044125956,0.28606698,0.869271941,3
+191,que su hermano esta chiquito y grita mucho,0.45763436,0.044221878,0.72168463,0.868034889,3
+192,que mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+193,0,0,0,0,0,1
+194,significa que es una niño muy chillón y que normalmente se desespera y grita,0.36591953,0.044565767,0.6343479,0.873632298,3
+195,que tu hermano grita mucho y esta gordo,0.48631775,0.044537655,0.67292905,0.858388901,3
+196,que su hermano es muy gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+197,que grita mucho,1,0.044697769,1,0.8691248,3
+198,quiere decir que su hermano es un niño que grita,0.5320715,0.043686585,0.688193,0.798748126,3
+199,que grita en exceso,0.6066337,0.044805427,0.77396643,0.864666454,3
+200,mi hermano es alguien que no para de gritar y hablar,0.2538739,0.045532791,0.41246867,0.849148139,3
+201,que su hermanito es un gritón y llora todo el día como la llorona,0.27299017,0.046070091,0.43402153,0.870778639,3
+202,alguien que grita,0.5600984,0.043526822,0.7834102,0.873240441,3
+203,que tu hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+204,el hermano representa a un infante en plena etapa de inocencia y escándalo,0.24652506,0.044506788,0.47773394,0.893455898,3
+205,que tu hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+206,que grita mucho,1,0.044697769,1,0.8691248,3
+207,porque no deja de gritar,0.21601981,0.047340406,0.27139693,0.816619471,3
+208,que hace mucho escándalo y no se puede quedar quieto,0.20379283,0.044050758,0.29657653,0.873873696,3
+209,es un ser que grita mucho,1,0.044697769,1,0.8691248,3
+210,que esta muy irritante,0.14410184,0.045728974,0.14410184,0.939629886,3
+211,que su hermano es gordito y redondo y esta constantemente gritando,0.2651252,0.043875633,0.4208268,0.829932199,3
+212,es una machina a gritar,0.24179077,0.049233882,0.31826928,0.928946394,3
+213,su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+214,mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+215,que nunca deja de hablar,0.25990358,0.04339748,0.3209435,0.791412659,3
+216,que es un niño gordito que se la pasa gritando,0.2618689,0.043810351,0.41115493,0.79426918,3
+217,que los niños son demasiados inquietos y ruidosos,0.2111842,0.044804351,0.32668114,0.882231496,3
+218,que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+219,que su hermando es un niño travieso,0.21925475,0.043484037,0.30631536,0.802941754,3
+220,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+221,es decir que tu hermanito es un gritón,0.32019544,0.045996937,0.3974983,0.844527006,3
+222,que siempre esta llorando o gritando,0.15876934,0.04510609,0.21402535,0.912773963,3
+223,que es un dolor de cabeza,0.2869489,0.046368631,0.36552337,0.829809166,3
+224,invalida por sistema,0.25267503,0.047444947,0.25267503,0.988035843,0
+225,que todo el tiempo grita mucho,1,0.044697769,1,0.8691248,3
+226,que siempre hace berrinche y grita para tener lo que quiere,0.6426997,0.042982693,0.809337,0.818036512,3
+227,que es un niño muy inquieto,0.18075511,0.044166267,0.2281053,0.82054802,3
+228,quiere decir que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+229,que mi hermano le encanta cantar,0.20845869,0.046106076,0.31733915,0.863747011,3
+230,que grita mucho todo el tiempo,1,0.044697769,1,0.8691248,3
+231,es una ternura,-0.025318654,0.048567612,-0.025318654,1.105970189,3
+232,por que esta gordito y es muy gritón,0.31938925,0.045760022,0.3991647,0.783768073,3
+233,por que son muy ruidosos,0.25037503,0.042491686,0.25037503,0.811710805,3
+234,que grita mucho,1,0.044697769,1,0.8691248,3
+235,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+236,que el hermanito es muy ruidoso,0.17722665,0.04236056,0.26824877,0.832731903,3
+237,mi hermanito me estresa cada vez que grita,0.53131956,0.043702291,0.74425197,0.856157715,3
+238,que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+239,que un niño es muy ruidoso,0.22860236,0.043459959,0.2968197,0.850168034,3
+240,que mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+241,su hermano grita o llora mucho y así es como la autor se refiere a el en el sentido literario,0.32243168,0.045704071,0.5812675,0.90316519,3
+242,por que siempre grita,1,0.044697769,1,0.8691248,3
+243,por que los niños pequeños por lo regular gritan por todo,0.21929269,0.04677949,0.3977136,0.880285295,3
+244,que es chillón,0.21420899,0.044369813,0.21420899,0.875319704,3
+245,que es un bebé,0.23965892,0.044196602,0.23965892,0.808671594,3
+246,que siempre grita,1,0.044697769,1,0.8691248,3
+247,que mi hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+248,al hermano lo representa como una pelota y el grita mucho,0.46824044,0.044409625,0.69329166,0.855589189,3
+249,porque el grita mucho o muy fuerte,0.6157386,0.045278662,0.80139804,0.924338214,3
+250,que todo el tiempo llora y grita,0.62471265,0.046171413,0.7718557,0.889748618,3
+251,que su pelota es la mejor,0.33210012,0.044044435,0.33210012,0.848350674,1
+252,mi hermano es una persona que grita todo el tiempo,0.5693776,0.043702056,0.75620013,0.799707095,3
+253,es un niño,0.2838341,0.042273477,0.2838341,0.738057673,2
+254,por que grita,1,0.044697769,1,0.8691248,3
+255,mi hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+256,mi hermano grita demasiado,0.6671361,0.044878696,0.8002222,0.840039238,3
+257,que es muy inquieto,0.09956789,0.046283465,0.09956789,0.92493014,3
+258,que a su hermano le gustan los grillos ,0.2221497,0.042991917,0.36217737,0.84984303,3
+259,por que grita mucho,1,0.044697769,1,0.8691248,3
+260,que mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+261,por que es gordo y le gusta cantar,0.22891074,0.048601499,0.389292,0.881296009,3
+262,quiere decir que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+263,que grita demasiado,1,0.044697769,1,0.8691248,3
+264,que mi hermano grita y grita sin parar y sin sentido,0.4827153,0.046901642,0.76948035,0.955782714,3
+265,que los niños son muy energéticos y tienden a gritar mucho,0.20433551,0.048967708,0.341463,0.971873961,3
+266,o sea que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+267,es cuando mi hermano siempre esta llorando o gritando,0.21727028,0.045090555,0.32860583,0.878833868,2
+268,que hace ruido,1,0.044697769,1,0.8691248,2
+269,que cada bote que da es un grito de mi hermano,0.33427218,0.04505961,0.33427218,0.810953677,1
+270,que su hermano se la pasa gritando,0.2682287,0.045249833,0.39394093,0.851515976,2
+271,por siempre mete goles,0.38689506,0.042323746,0.38689506,0.905993335,1
+272,quiere decir mi hermanito todo el tiempo grita,0.65836585,0.04421025,0.8131853,0.853979617,2
+273,que el hermano se la pasa gritando,0.2682287,0.045249833,0.39394093,0.851515976,2
+274,que es muy grito,0,0,0,0,2
+275,que su hermano es una latoso,0.34914577,0.043854513,0.4356108,0.801061451,1
+276,que llega a gritar mucho,0.28205717,0.047373661,0.36597162,0.9057183,2
+277,que es muy gritos,0.059554145,0.046904214,0.059554145,1.016906211,2
+278,que mi hermano grita mucho y hace estallar a las personas,0.6671361,0.044878696,0.8002222,0.840039238,1
+279,que es fastidioso,0.20196056,0.046070755,0.20196056,0.824242741,1
+280,que grita mucho,1,0.044697769,1,0.8691248,1
+281,ya es grande y grita,0.58349866,0.04180627,0.8010368,0.810331158,1
+282,que grita mucho,1,0.044697769,1,0.8691248,1
+283,que se la pasa gritando todo el tiempo,0.23520699,0.045345008,0.31450334,0.871797126,2
+284,que mi hermana grita,0.67442465,0.045981475,0.812502,0.898906842,1
+285,que mi hermanito es muy gritón,0.32019544,0.045996937,0.3974983,0.844527006,3
+286,por que grita mucho,1,0.044697769,1,0.8691248,3
+287,se refiere a que su hermano es una persona gritona,0.2841616,0.045350211,0.43439946,0.859845771,3
+288,quiere decir que los niños gritan mucho,0.27281678,0.047226905,0.385754,0.841730617,3
+289,que es muy la toso,0.08182188,0.044874903,0.08182188,1.074707277,3
+290,que es bien gritón,0.3236592,0.048271134,0.3236592,0.850219578,3
+291,su hermano es un bebe que grita y llora mucho,0.45862037,0.045173905,0.6922631,0.878068622,3
+292,que esta gritando su hermano,0.27711114,0.045999097,0.35389352,0.879812341,3
+293,que el hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+294,que mi hermanito siempre grita,0.65836585,0.04421025,0.8131853,0.853979617,3
+295,que su hermano siempre grita,0.6671361,0.044878696,0.8002222,0.840039238,3
+296,quiere decir que su hermano grita mucho es una metáfora,0.4782861,0.045304371,0.71235263,0.902641023,3
+297,lo que yo entiendo es que su hermano grita mucho y a eso se refiere,0.41922063,0.044648751,0.65764475,0.84983645,3
+298,se refiere a que su hermano grita mucho,0.5463208,0.045757856,0.70016193,0.845725934,3
+299,quiere decir que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+300,que su hermano es muy llorón y enojón y de todo grita,0.4202965,0.044059715,0.7063323,0.871364912,3
+301,que,0,0,0,0,0
+302,por que regaña al hermano menor,0.20655088,0.044287514,0.29329118,0.860382058,2
+303,que es una persona que grita mucho,0.6869303,0.043023346,0.82266974,0.794083804,3
+304,cuando a alguien se le dice pelota la mayoría de veces es porque tratan de decirle gordo así que supongo que trata de decir que su hermano es un gordo gritón,0.16382991,0.044785988,0.3731588,0.906086193,3
+305,que es una persona inquieta,0.29711965,0.044382068,0.3591643,0.772468999,3
+306,porque grita mucho,1,0.044697769,1,0.8691248,3
+307,que siempre que se mueve hace demasiado ruido,0.5335821,0.044679979,0.7111646,0.842951424,3
+308,que con cualquier cosa se altera y grita,0.4878431,0.043747798,0.69795966,0.828769753,3
+309,por que no esta quieta,0.28851572,0.044417698,0.28851572,0.92906481,2
+310,que mi hermanito grita mucho en casa,0.47028798,0.043970612,0.70014,0.864243619,3
+311,pues a mi entender la persona se esta haciendo una referencia de la pelota con su hermano que es inquieto entre otras cosas,0.18420587,0.043313125,0.34242135,0.825677452,3
+312,que a mi hermano le gusta gritar o hablar mucho y muy fuerte,0.31081513,0.048001199,0.47550857,0.842969957,3
+313,que es muy fastidioso,0.20196056,0.046070755,0.20196056,0.824242741,3
+314,grita mucho,1,0.044697769,1,0.8691248,3
+315,por lo que entiendo es que un niño tiene una pelota que es súper fantástica,0.21056071,0.043388736,0.41095874,0.867072642,1
+316,por que los niños gritan cuando están pequeños,0.25841612,0.046060157,0.3993591,0.810656354,3
+317,que mi hermano se parece a una bola de pelos,0.23632956,0.043175895,0.35988343,0.858153102,1
+318,pues que es como muy linda conmigo y que parece algo muy tierno la pelota de pelos como mi hermana,0.31450075,0.043808241,0.4753763,0.85445793,1
+319,que tiene un hermanito que grita mucho es muy hiperactivo,0.65836585,0.04421025,0.8131853,0.853979617,1
+320,que el hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+321,siempre grita,1,0.044697769,1,0.8691248,3
+322,quiere decir que el niño es muy gritón cuando juega la pelota,0.2514375,0.04424642,0.40694553,0.836530207,3
+323,grita mucho,1,0.044697769,1,0.8691248,3
+324,que el niño grita mucho y este se expresa mas común de esta forma,0.34783676,0.045172574,0.6272327,0.907969637,3
+325,por que quiere decir que el hermano es muy gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+326,thtththt,0,0,0,0,0
+327,que grita mucho,1,0.044697769,1,0.8691248,3
+328,molesta mucho,0.2571763,0.046866059,0.2571763,0.925181255,2
+329,es su apodo,0,0,0,0,1
+330,que su hermano tiene muchos grillos,0.3167045,0.044072557,0.39880216,0.87032076,1
+331,que grita mucho y el piensa que es una pelota,0.50911045,0.045021516,0.7012212,0.90187238,3
+332,es muy latoso,0.36401933,0.042649396,0.36401933,0.791169226,1
+333,que esta gordito y se la pasa gritando,0.26184443,0.044646267,0.38262266,0.820303606,3
+334,que se la pasa gritando,0.23520699,0.045345008,0.31450334,0.871797126,3
+335,que el tiene la pelota y no se la quieren dar y grita,0.5012374,0.044104213,0.7487826,0.882678342,3
+336,yo supongo que quiere decir que es un niño que grita bastante como un niño de 5 o 4 años,0.42409706,0.043131982,0.5714352,0.809464391,2
+337,mi sobrina,0.22600791,0.04731185,0.22600791,1.032166652,1
+338,que mi hermanito es muy gritón,0.32019544,0.045996937,0.3974983,0.844527006,3
+339,que mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+340,que grita mucho mi hermano,0.6671361,0.044878696,0.8002222,0.840039238,3
+341,quiere decir que mi hermanito grita demasiado,0.65836585,0.04421025,0.8131853,0.853979617,3
+342,pues se refiere a que tu hermana es la otra parte para ti,0.32676974,0.047390777,0.4088165,0.892894104,1
+343,mi hermano grita mucho como bota una pelota,0.47588503,0.043852069,0.69297975,0.845153939,3
+344,que grita mucho,1,0.044697769,1,0.8691248,3
+345,se la pasa gritando,0.23520699,0.045345008,0.31450334,0.871797126,3
+346,que su hermano grita mucho o es muy ruidoso,0.45733127,0.043585231,0.6991656,0.835569282,3
+347,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+348,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+349,mi hermano es muy gritón escandaloso y travieso,0.23030126,0.046879823,0.37164298,0.899668034,3
+350,que mi hermano siempre esta gritando,0.27711114,0.045999097,0.35389352,0.879812341,3
+351,que su hermano es un niño súper gritón,0.28253847,0.045379995,0.42638758,0.854736287,3
+352,que los hermanos te pueden molestar o normalmente te peleas con ellos,0.19713308,0.044369287,0.34576452,0.923079073,3
+353,mi hermano cada vez que grita se vuelve muy constante,0.47134107,0.046805155,0.685678,0.892719679,3
+354,un niño que siempre trata de llamar la atención con gritos,0.12776735,0.044210235,0.22197452,0.885419801,3
+355,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+356,por molesto y castroso,0.24759552,0.044158343,0.24759552,0.753350735,3
+357,que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+358,que es un niño gordito como pelota que grita mucho,0.47729045,0.043323402,0.68135643,0.787739486,3
+359,la referencia da a que el hermano grita mucho pero es como si le hubieran puesto como tipo sobrante pelota,0.42226976,0.043917552,0.6538497,0.854394477,2
+360,que es muy gritón,0.3236592,0.048271134,0.3236592,0.850219578,3
+361,que se altera rápido,0.17095289,0.042227176,0.22790772,0.832809228,3
+362,que siempre grita por todo,1,0.044697769,1,0.8691248,3
+363,mi hermanito en un niño que grita mucho,0.5262247,0.043240951,0.7270579,0.808041712,3
+364,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+365,que siempre grita mucho,1,0.044697769,1,0.8691248,3
+366,que el nunca deja de gritar,0.21601981,0.047340406,0.27139693,0.816619471,3
+367,simplemente que su hermano es una persona muy gritona pelota se refiere a cabeza,0.25851175,0.044656978,0.4643312,0.862634169,3
+368,que esta gordo y le gusta gritar,0.2799755,0.050450029,0.41543037,0.847271452,3
+369,mi hermano grita por todo,0.6671361,0.044878696,0.8002222,0.840039238,3
+370,que los niños pueden hacer mucho ruido,0.5078164,0.043978046,0.72501624,0.855967432,3
+371,es muy ruidoso,0.17337063,0.044646438,0.17337063,0.962278396,3
+372,a quiere,0,0,0,0,1
+373,por que grita a cada rato,0.61070895,0.043757641,0.8247247,0.906587146,3
+374,que grita mucho,1,0.044697769,1,0.8691248,3
+375,por que siempre esta gritando,0.2199501,0.046938572,0.2199501,0.948671006,3
+376,que su hermano se la pasa gritando,0.2682287,0.045249833,0.39394093,0.851515976,3
+377,que es una persona muy regañona y grita,0.5136854,0.04218607,0.74236566,0.77276514,3
+378,que para mi es muy latoso,0.36401933,0.042649396,0.36401933,0.791169226,3
+379,mi hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+380,que mi hermanito es muy gritón en forma de pelota,0.33564034,0.045805083,0.47917384,0.884599561,3
+381,que siempre esta gritando,0.2199501,0.046938572,0.2199501,0.948671006,3
+382,que el hermano es muy expresivo,0.2696439,0.044728287,0.3686959,0.864094846,3
+383,que llora mucho,0.24942526,0.047645051,0.24942526,0.910372436,3
+384,que grita mucho,1,0.044697769,1,0.8691248,3
+385,que siempre anda brincando y gritando,0.1804149,0.047137066,0.2592506,0.914880899,3
+386,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+387,el niño grita mucho o habla de más,0.6309712,0.043000125,0.7863949,0.79264535,3
+388,que su hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+389,es una persona gorda que grita,0.44378754,0.043210765,0.71780473,0.843895247,3
+390,se refiere a que su hermano es muy inquieto,0.24617673,0.046286427,0.33319008,0.864327714,3
+391,que el niño es muy gritón,0.29280078,0.044786803,0.35531634,0.783192739,3
+392,que es una persona que siempre grita,0.6869303,0.043023346,0.82266974,0.794083804,3
+393,puede ser que el hermanito este pequeño y nunca deja de llorar y gritar por todo lo que le hacen o le pasa,0.2436017,0.045270209,0.4403017,0.838423576,3
+394,porque no para de gritar o de molestar,0.25190958,0.05010051,0.3383664,0.972454865,3
+395,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+396,una persona gorda que grita mucho,0.44378754,0.043210765,0.71780473,0.843895247,3
+397,que grita por todo cada que rebota,0.6189908,0.041333435,0.79842156,0.763622746,3
+398,porque el grita mucho,1,0.044697769,1,0.8691248,3
+399,que por cualquier cosa llora y grita,0.48286515,0.045776366,0.68131226,0.859679292,3
+400,que se la pasa gritando,0.23520699,0.045345008,0.31450334,0.871797126,3
+401,tal vez que siempre esta corriendo o no se esta en paz,0.042683754,0.047680151,0.058769844,1.010111421,3
+402,porque esta chiquito grita mucho,0.5193155,0.043803054,0.7693857,0.896575496,3
+403,que tu hermano no para de gritar y es un escandaloso,0.24055159,0.049604173,0.34463906,0.962076048,3
+404,que es un niño muy gritón,0.29280078,0.044786803,0.35531634,0.783192739,3
+405,es un niño muy gritón,0.29280078,0.044786803,0.35531634,0.783192739,3
+406,su hermano grita todo el tiempo y es una pelota porque se esta ocupando como una alternativa,0.4043711,0.044470358,0.65838987,0.890509639,3
+407,mi hermano es muy escandaloso,0.21685448,0.047844673,0.29254314,0.977781847,3
+408,que a cada rato esta gritando,0.22068402,0.044878039,0.29267642,0.946360249,3
+409,que grita mucho,1,0.044697769,1,0.8691248,3
+410,por que no se calla,0.15182826,0.041779272,0.15182826,0.854590669,3
+411,que tu hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+412,que grita mucho,1,0.044697769,1,0.8691248,3
+413,su hermano solo grita,0.6671361,0.044878696,0.8002222,0.840039238,3
+414,esta lleno de gritos,0.06729989,0.04592673,0.09187922,1.029608767,3
+415,llora o grita mucho,0.62471265,0.046171413,0.7718557,0.889748618,3
+416,describe como es el hermano quiere decir que grita mucho,0.5309362,0.043834546,0.7606397,0.84122324,3
+417,que solo grita mucho,1,0.044697769,1,0.8691248,3
+418,que grita mucho,1,0.044697769,1,0.8691248,3
+419,que su hermano menor grita mucho,0.47103393,0.044424225,0.71237934,0.863296305,3
+420,que esta lleno de gritos listos para salir,0.09877087,0.044011127,0.18849462,0.921700505,3
+421,que esta molestando,0,0,0,0,2
+422,que es muy escandaloso o ruidoso,0.068579204,0.045814068,0.09159201,0.985619694,3
+423,porque tal vez tu hermano es un gritón y es lo único que hace,0.30145952,0.045948442,0.45036367,0.851559194,3
+424,significa que es una persona que grita demasiado,0.5165481,0.044187846,0.76459646,0.850979112,3
+425,significa que su hermano es muy escandaloso,0.20316423,0.047402072,0.32098907,0.973444474,3
+426,se refiere a que su hermano siempre grita,0.5463208,0.045757856,0.70016193,0.845725934,3
+427,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+428,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+429,que al ser pequeño llora y grita mucho,0.49111834,0.044795546,0.7138254,0.870549316,3
+430,que grita mucha probablemente porque es menor,0.3861296,0.04379711,0.6381553,0.88153859,3
+431,que su hermano es muy gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+432,un niño gordo que hace mucho ruido,0.4629153,0.043582054,0.6633934,0.827500463,3
+433,que siempre esta gritando,0.2199501,0.046938572,0.2199501,0.948671006,3
+434,porque se espanta muy fácil y salta al mismo tiempo que grita,0.38460112,0.042204974,0.6933942,0.8307159,3
+435,que grita muy fuerte y grita todo el tiempo,0.74382573,0.045085035,0.92539954,0.905933743,3
+436,que su hermano tiende a gritar mucho,0.30383056,0.046834253,0.40771505,0.847381885,3
+437,que se refieren a que la pelota representa su hermano y como su hermano grita mucho esa es la acción que representa a su hermano,0.34033006,0.044643467,0.5493773,0.851150516,3
+438,su hermano debe ser un niño pequeño y por lo general los niños pequeños gritan cuando hacen berrinches también puede ser un bebe su hermano y pues los bebes lloran,0.27423522,0.0441617,0.5187913,0.842554512,3
+439,porque esta gordo y grita demasiado,0.56234056,0.044276738,0.7696004,0.882106513,3
+440,la pelota significa su hiperactividad o sea como rebotar y los gritos representa el ruido que hace,0.27050123,0.043218565,0.5275609,0.834311547,1
+441,que su hermano no deja de gritar,0.25543725,0.046580094,0.3479157,0.814730873,3
+442,gritan mucho,0.38844365,0.048133254,0.38844365,0.699093997,3
+443,que grita demasiado,1,0.044697769,1,0.8691248,3
+444,que el niño grita mucho tiempo continuo,0.4895839,0.043821475,0.6909309,0.806437716,3
+445,significa que su hermano llora y gritos mucho,0.18564373,0.045978177,0.29831016,0.906635424,3
+446,que su hermano es muy gritón,0.3289657,0.046665371,0.40522,0.830586627,3
+447,que se grita siempre llora y grita,0.74980843,0.0456802,0.90823543,0.882874012,3
+448,que su hermano es muy desastroso que grita mucho,0.46286502,0.045221556,0.71347106,0.906202909,3
+449,que el hermano del autor es alguien que se expresa mucho y de manera demandante,0.16064435,0.044110861,0.3034835,0.883156328,3
+450,su hermano se grita y trata como pelota salta bota,0.42480785,0.042981218,0.66750103,0.817458764,3
+451,que es muy escandaloso,0.099436805,0.050629713,0.099436805,1.144610018,3
+452,que el hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+453,el molesta fácilmente,0.13358945,0.047080222,0.19205764,0.976093914,3
+454,su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+455,que su hermano grita mucho,0.6671361,0.044878696,0.8002222,0.840039238,3
+456,quiere decir que siempre pega gritos,0.15322816,0.042799748,0.21310744,0.869596466,3
+457,una persona que grita,0.6869303,0.043023346,0.82266974,0.794083804,3
+458,el hermano que grita,0.6671361,0.044878696,0.8002222,0.840039238,3
+459,que es alguien que no para de gritar,0.20407131,0.047739628,0.28699505,0.904010266,3
+460,quiere decir que los hermanos se gritan y lloran porque son menores en las casas y se comparo en una pelota,0.2157448,0.043737963,0.41994277,0.847341986,3
+461,que tal vez su hermana siempre le grita,0.67442465,0.045981475,0.812502,0.898906842,3
+462,que es un bebe que grita mucho,0.62539196,0.043995478,0.8203809,0.895474188,3
+463,que siempre esta gritando,0.2199501,0.046938572,0.2199501,0.948671006,3
+464,que no deja de gritar,0.21601981,0.047340406,0.27139693,0.816619471,3
+465,mi hermanito grita mucho,0.65836585,0.04421025,0.8131853,0.853979617,3
+466,puede significar que el hermano es ruidoso,0.1557816,0.044398528,0.25360355,0.879372356,3
+467,que grita mucho,1,0.044697769,1,0.8691248,3
+468,esta usando la palabra pelota para todo así que podemos pensar que su hermanito simplemente es muy gritón,0.24019931,0.044686765,0.45134765,0.884625212,3
+469,es un niño que grita mucho,0.6309712,0.043000125,0.7863949,0.79264535,3

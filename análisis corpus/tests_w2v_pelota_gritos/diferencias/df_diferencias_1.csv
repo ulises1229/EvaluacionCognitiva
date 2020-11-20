@@ -1,0 +1,4 @@
+,tests,a_similarity,a_wmdistances,a_n_similarity,a_distance,a_puntaje
+1,kruskal_estadistico,50.02632541,30.27118487,57.74462806,18.33377271,469
+2,kruskal_pvalor,7.89E-11,1.21E-06,1.78E-12,0.00037535,2.49E-101
+3,kruskal_conclusion,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula,Rechaza la hipótesis nula

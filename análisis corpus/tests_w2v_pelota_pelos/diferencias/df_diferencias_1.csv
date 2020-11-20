@@ -1,0 +1,4 @@
+"","tests","b_similarity","b_wmdistances","b_n_similarity","b_distance","b_puntaje"
+"1","kruskal_estadistico","2.8455949245049","7.97051872513642","8.28865516693562","7.36522976197479","469"
+"2","kruskal_pvalor","0.416049075876295","0.0466249403385367","0.0404079731933765","0.061124290145432","2.49111360731315e-101"
+"3","kruskal_conclusion","No rechaza la hipotesis nula","Rechaza la hipótesis nula","Rechaza la hipótesis nula","No rechaza la hipotesis nula","Rechaza la hipótesis nula"

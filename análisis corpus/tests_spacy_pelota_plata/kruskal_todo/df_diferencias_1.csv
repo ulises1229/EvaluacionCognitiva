@@ -1,0 +1,4 @@
+"","tests","spacy_similarity_c"
+"1","Kruskal_estadistico","118.176645273381"
+"2","Kruskal_pvalor","1.90591196821057e-25"
+"3","Kruskal_conclusion","Rechaza la hipótesis nula"
