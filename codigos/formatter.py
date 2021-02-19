@@ -1,5 +1,7 @@
 #Formateador para clasificación de palabras
 #Output deseado: ("El gato es amigo de ratón y perro", {"tags": []})
+#Para cada uno de las oraciones en list_of_sentences
+
 import spacy
 import sys
 
@@ -10,7 +12,8 @@ def formmater(sentence, list_of_tags):
     final_list.append(formate)
     #print(f'("{sentence}", ')
 
-def definer(sentence, word):  #Función que devolverá J, V, N, D
+ #Función que devolverá J, V, N, D
+def definer(sentence, word): 
     print("Para la oración: %s. y palabra: %s" % (sentence, word))
     new_val = input("Clasificar o escribir tag.\n"+
                     "1 -> Sustantivo\n"+

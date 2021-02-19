@@ -1,41 +1,96 @@
 # EvaluacionCognitiva
-Repositorio con respuestas de niños y adolescentes.
+Repositorio sobre:
+
+* **El Estudio de la conectividad funcional cerebral asociada a la comprensión del lenguaje pragmático a través del desarrollo de la infancia a la adolescencia.
+
+* **Proyecto de investigación sobre similitud de palabras.
 
 
 
 ## Estructura del repositorio
 
-* **análisis corpus** - ISASI
-* **analisis_texto_metaforas** - ISASI
+* **análisis corpus** - Contiene análisis estadísticos del rendimiento de corpus y bibliotecas de NLP (SpaCy, Word2Vec y Gensim)
+* **analisis_texto_metaforas** - Contiene resultados y datos de análisis de similitud y conteo de palabras.
 * **Bases de datos** - Contiene todos los csvs, tiene las bases de datos originales de las respuestas
 * **codigos** - Contiene todos los Jupyter Notebooks y códigos usados en el procesamiento de los datos
-* **comparación w2v y lsi** - ISASI
-* **cuenta_de_palabras** - ISASI
+* **comparación w2v y lsi** - Contiene gráficas, test estadísticos, post-hoc dunn y resumenes de la comparación entre Word2Vec y LSI (Latent Semantic Analysis).
+* **cuenta_de_palabras** - Contiene csv's de conteo de palabras con clasificación **por reactivo** para todos los hombres y todas las mujeres, tests de primaria mujeres vs secundaria hombres y comparaciones entre niveles (Secundaria vs Primaria) y sexos (Hombres vs Mujeres).
 * **FreqDistResp** - Contiene un csv con los resultados de la distribución de frecuencia de sustantivos, verbos, adjetivos y adverbios de los reactivos respondidos con texto
 * **MASTER_ROWS** - Contiene las respuestas maestras y esclavas y una distribución de frecuencia de los reactivos respondidos con texto
 * **Sin uso** - Contiene el proyecto original intacto como lo tenía Edna al principio
 
 
 
-
-
 ## análisis corpus 
 
-***Breve_explicación_del_folder***
+***Comparaciones utilizando los siguientes corpus y bibliotecas de NLP:***
+* Gensim
+* Word2Vec
+* SpaCy
 
+***Descripción***
+Se toman en cuenta las evaluaciones realizadas de forma manual, realizada por personas, para realizar comparaciones entre los diferentes puntajes
+obtenidos utilizando las bibliotecas antes mencionadas. Se tomaron en cuenta las siguientes oraciones **base** para realizar las comparaciones.
 
+* Pelota de gritos.
+* Pelota de pelos.
+* Pelota de plata.
 
-##### listado_archivos
+En cada directorio se encuentran 3 contenidos:
+* Análisis estadístico **Kruskal** de los datos contenidos en la columna.
+* **Boxplot** de las diferencias entre evaluaciones.
+* Post-hoc **dunn** para realizar comparaciones.
 
-doc
-
-
-
+**Contenido:**
+* tests_gensim_pelota_gritos 
+* tests_gensim_pelota_pelos 
+* tests_gensim_pelota_plata 
+* tests_spacy_pelota_gritos 
+* tests_spacy_pelota_pelos 
+* tests_spacy_pelota_plata 
+* tests_w2v_pelota_pelos 
+* tests_w2v_pelota_pelos 
+* tests_w2v_pelota_plata 
 
 
 ## analisis_texto_metaforas 
 
-***Breve_explicación_del_folder***
+***Análisis de conteo de palabras y similitud de palabras hechos por Edna y Alejandro***
+
+***Descripción***
+En cada directorio se encuentran resultados y datos de análisis de similitud y conteo de palabras.
+
+Los directorios "analisis_conteo_palabras" y "analisis_similitud" fueron realizados por Edna mientras que "analisis_conteo_alejandro" fue hecho por Alejandro.
+
+**Contenido:**
+* analisis_conteo_alejandro
+    - tests **Tests estadísticos de conteo de palabras de niños y niñas de secundaria y primaria**
+        - diferencias
+        - normalidad
+        - homogeneidad
+        - conteo_clasif_ps_hm_mod.csv
+    - tests_gensim **Tests estadísticos de resultados de similitud de palabras con gensim**
+        - diferencias
+        - normalidad
+        - homogeneidad
+        - graficas
+        - resultados_gens.csv
+* analisis_conteo_palabras
+    - datos
+    - resultados
+    - 1_asignacion_variables_conteopalabras.R
+    - 2_analisis_conteopalabras.R
+    - exp_1.txt
+    - exp1.docx
+* analisis_similitud
+    - datos
+    - resultados
+    - 1_asignacion_variables_similitud.R
+    - 3_graficas_similitud.R
+
+
+
+
 
 
 
