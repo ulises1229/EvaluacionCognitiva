@@ -112,19 +112,19 @@ doc
 
 * Sin uso - Contiene varios xlsx de la información de la BD original dividida por sexo (NO utilizar)
 * conteo_primaria_general
-    * ISASI
+    * Contiene el conteo de **todas las palabras** que usaron en los reactivos niños y niñas de primaria. 
 * conteo_primaria_hombres
-    * ISASI
+    * Contiene el conteo de **todas las palabras** que usaron los niños de primaria.
 * conteo_primaria_mujeres
-    * ISASI
+    * Contiene el conteo de **todas las palabras** que usaron los niños de primaria.
 * palabras_corregidas_primaria
-    * ISASI
+    * Contiene todas las columnas con respuestas en texto, limpias y con acentos de primaria.
 * PRIMARIA_HOMBRES
-    * ISASI
+    * Contiene **toda la información** filtrada a sólo niños de primaria.
 * PRIMARIA_MUJERES
-    * ISASI
+    * Contiene **toda la información** filtrada a sólo niños de primaria.
 * PRIMARIA_TODO
-    * Contiene toda la información de los resultados de niños de primaria
+    * Contiene toda la información de los resultados de niños y niñas de primaria.
 
 
 
@@ -142,15 +142,15 @@ doc
 
 * conteo_secundaria_general
 
-    * ISASI
+    * Contiene el conteo de **todas las palabras** que usaron en los reactivos niños y niñas de secundaria.
 
 * conteo_secundaria_hombres
 
-    * ISASI
+    * Contiene el conteo de **todas las palabras** que usaron los niños de primaria.
 
 * conteo_secundaria_mujeres
 
-    * ISASI
+    * Contiene el conteo de **todas las palabras** que usaron los niños de primaria.
 
 * palabras_corregidas_secundaria
 
