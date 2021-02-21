@@ -1,5 +1,8 @@
 import pandas as pd
 
+"""
+Codigo para limpiar un csv, hace un trim a todas las celdas y reduce todos los espacios entre palabras a 1
+"""
 
 # Un iterable para evaluar si existe algun espacio en el arreglo dado
 def whitespaceInList(array):
@@ -45,8 +48,8 @@ def cleanDataFrame(df):
     return df
 
 
-df = pd.read_csv("C:/Users/Drablaguna/Desktop/SECU_TODO_NEW.csv")
+df = pd.read_csv("C:/Users/Drablaguna/Desktop/SECU_TODO_NEW.csv") # aqui ingresamos la ruta del csv
 print("Limpiando CSV...\n")
 df = cleanDataFrame(df)
-df.to_csv("C:/Users/Drablaguna/Desktop/CLEAN.csv", index=False)
+df.to_csv("C:/Users/Drablaguna/Desktop/CLEAN.csv", index=False) # y la ruta de salida del csv limpio
 print("\nCSV limpiado satisfactoriamente")

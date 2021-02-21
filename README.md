@@ -21,6 +21,8 @@ Repositorio sobre:
 
 
 
+
+
 ## análisis corpus 
 
 ***Comparaciones utilizando los siguientes corpus y bibliotecas de NLP:***
@@ -51,6 +53,10 @@ En cada directorio se encuentran 3 contenidos:
 * tests_w2v_pelota_pelos 
 * tests_w2v_pelota_pelos 
 * tests_w2v_pelota_plata 
+
+
+
+
 
 
 ## analisis_texto_metaforas 
@@ -218,7 +224,11 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### conceptoSelector
 
-* 
+* Obtiene todos los conceptos y dominios fuente de todas las respuestas a todos los reactivos, y los exporta en un csv. Tanto para prueba 2 como prueba 3. La estructura del csv es la siguiente:
+
+  cx_frase  concepto_r_x  df_x  c1_x  c2_x  c3_x  criterio_x
+
+  Donde x es el reactivo
 
 ##### conteo_clasif_palabras
 
@@ -230,11 +240,7 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### csvCleaner
 
-* 
-
-##### emotionAnalyzer
-
-* 
+* Codigo para limpiar un csv, hace un trim a todas las celdas y reduce todos los espacios entre palabras a 1
 
 ##### formatter
 
@@ -254,11 +260,57 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### quickPlotter
 
-* 
+* Genera una freqdist de los sustantivos, verbos, adverbios y adjetivos de todo un csv
 
 ##### similitud
 
-* 
+* Hace una evaluacion simple de similitud entre todas las columnas con respuestas evaluadas con menos de 3 con
+
+  respuestas evaluadas con 3, el metodo es el siguiente:
+
+  
+
+  frase 1: la mujer corre
+
+  frase 2: el hombre salta
+
+  
+
+  El algoritmo de similitud compara cada token con cada token y retorna una evaluacion numerica entre 0 y 1 basada
+
+  en el diccionario de vectores que importamos:
+
+  
+
+  la  -> el   -> 0.9
+
+  la  -> hombre -> 0.3
+
+  la  -> salta -> 0.1
+
+  
+
+  mujer -> el   -> 0.5
+
+  mujer -> hombre -> 0.7
+
+  mujer -> salta -> 0.1
+
+  
+
+  corre -> el   -> 0.1
+
+  corre -> hombre -> 0.2
+
+  corre -> salta -> 0.6
+
+  
+
+  Y para encontrar la similitud entre oraciones se calcula un promedio de estas comparaciones:
+
+  
+
+  0.9 + 0.3 + 0.1 + 0.5 + 0.7 + 0.1 + 0.1 + 0.2 + 0.6 / 9 = 0.38
 
 ##### trainer
 

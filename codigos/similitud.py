@@ -2,22 +2,51 @@ import pandas as pd
 import spacy
 from quickPlotter import colnames, unique, colvals, countInstances
 
-spa_lex = spacy.load('es_core_news_md')
+"""
+Hace una evaluacion simple de similitud entre todas las columnas con respuestas evaluadas con menos de 3 con
+respuestas evaluadas con 3, el metodo es el siguiente:
+
+frase 1: la mujer corre
+frase 2: el hombre salta
+
+El algoritmo de similitud compara cada token con cada token y retorna una evaluacion numerica entre 0 y 1 basada
+en el diccionario de vectores que importamos:
+
+la    -> el     -> 0.9
+la    -> hombre -> 0.3
+la    -> salta  -> 0.1
+
+mujer -> el     -> 0.5
+mujer -> hombre -> 0.7
+mujer -> salta  -> 0.1
+
+corre -> el     -> 0.1
+corre -> hombre -> 0.2
+corre -> salta  -> 0.6
+
+Y para encontrar la similitud entre oraciones se calcula un promedio de estas comparaciones:
+
+0.9 + 0.3 + 0.1 + 0.5 + 0.7 + 0.1 + 0.1 + 0.2 + 0.6 / 9 = 0.38
+
+"""
+
+spa_lex = spacy.load('es_core_news_md') # inicializamos el diccionario mediano, hay que descargarlo del sitio web de spacy
 
 df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/SECU_TODO_CLEAN.csv") # reemplazar ruta para otro CSV
 
 
-def evalChar(x):
+def evalChar(x): # usada en cleanString, contiene todos los caracteres especiales a eliminar de un string
     if x in [",",".",":",";","`","'",'"',"(",")","-","_","~","/","?","¿","="]:
         x = ""
     return x
 
-def cleanString(x):
+def cleanString(x): # funcion que limpia string de caracteres especiales especificados en evalChar
     s = map(evalChar, x)
     s = "".join(list(s))
     return s
 
 def analize(base, comparer):
+    """Proceso completo de analisis"""
     for token_base in base:
         for token_toCompare in comparer:
             t1 = token_base.text

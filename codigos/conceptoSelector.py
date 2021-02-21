@@ -1,8 +1,22 @@
 import pandas as pd
 
+"""
+Obtiene todos los conceptos y dominios fuente de todas las respuestas a todos los reactivos, y los exporta en un csv.
+Tanto para prueba 2 como prueba 3
+
+Lee como dataframe el csv de prueba 2 y 3
+Extrae la info como dataframes y los concatena al final
+La estructura final queda de la siguiente manera:
+
+cx_frase    concepto_r_x    df_x    c1_x    c2_x    c3_x    criterio_x
+
+Donde x es el reactivo
+
+"""
+
 # PRUEBA 2
 
-# df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/SECUNDARIA_PRUEBA2.csv")
+# df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/SECUNDARIA_PRUEBA2.csv") # ingresamos la ruta del csv de prueba 2
 
 # def get_df(df:object, idx:int, evl:int) -> object:
 #     return df[[
@@ -28,14 +42,14 @@ import pandas as pd
 
 # final_df = pd.concat(dfs)
 
-# final_df.to_csv("C:/Users/Drablaguna/Desktop/Conceptos_Prueba2.csv",encoding='latin1')
+# final_df.to_csv("C:/Users/Drablaguna/Desktop/Conceptos_Prueba2.csv",encoding='latin1') # aqui ingresamos la ruta para exportar el csv
 
 
 
 
 # PRUEBA 3
 
-df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/SECUNDARIA_PRUEBA3.csv")
+df = pd.read_csv("C:/Users/Drablaguna/Desktop/UNAM/EvaluacionCognitiva/Bases de datos/Secundaria/SECUNDARIA_PRUEBA3.csv") # ingresamos la ruta del csv de prueba 3
 
 def get_df(df:object, idx:int, evl:int) -> object:
     return df[[
@@ -61,5 +75,5 @@ for i in range(1,28):
 
 final_df = pd.concat(dfs)
 
-final_df.to_csv("C:/Users/Drablaguna/Desktop/Conceptos_Prueba3.csv",encoding='latin1')
+final_df.to_csv("C:/Users/Drablaguna/Desktop/Conceptos_Prueba3.csv",encoding='latin1') # aqui ingresamos la ruta para exportar el csv
 

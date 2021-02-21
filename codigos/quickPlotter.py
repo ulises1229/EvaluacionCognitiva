@@ -4,11 +4,13 @@ import numpy as np
 from pprint import pprint
 
 import spacy
-# from spacy import displacy
 
+"""
+Genera una freqdist de los sustantivos, verbos, adverbios y adjetivos de todo un csv
+"""
 
 # Load Spanish tokenizer, tagger, parser, NER and word vectors
-spa_lex = spacy.load('es_core_news_sm')
+spa_lex = spacy.load('es_core_news_sm')  # inicializamos el diccionario pequeno, hay que descargarlo del sitio web de spacy
 
 
 # imprime el nombre de las columnas
@@ -58,6 +60,7 @@ def countInstances(array):
 # ycol      - list
 # threshold - valor que evaluara el numero minimo de instancias
 def quickPlot(coltitle, xcol, xcolname, ycol, threshold):
+    """Genera una grafica de una freqdist de respuestas en una columna"""
     if threshold != None:
         # construir un diccionario con las dos columnas (tokens e instancias). ej:
         # arr = { 'token':instancias,
@@ -98,6 +101,7 @@ def quickPlot(coltitle, xcol, xcolname, ycol, threshold):
 
 # funcion que procesa palabras
 def processWords(df, colName):
+    """Funcion que procesa todas las palabras, separa los tokens por sustantivos, verbos, adverbios y adjetivos y los exporta en diccionario"""
     results = {}
     column = colvals(df, colName)
 
