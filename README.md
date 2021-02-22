@@ -220,7 +220,9 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### Clasificador
 
-* 
+* Utilizando la librería SpaCy para NLP, clasifica en: verbos, adjetivos, sustantivos y adverbios las palabras contenidas en un CSV y hace un conteo de las palabras clasificadas para posteriormente dividir el conteo en un CSV para cada tipo de palabras dando un total de 4.
+
+**Nota importante:** Para utilizar este script es necesario haber hecho una limpieza y corrección previa de las palabras que se pretenden clasificar y posteriormente contar de lo contrario puede derivarse esto en resultados inexactos.
 
 ##### conceptoSelector
 
@@ -232,11 +234,12 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### conteo_clasif_palabras
 
-* 
+* Analiza cada celda de un csv, busca si existe una falta de ortografía o gramática en la celda actual del recorrido y da diferentes sugerencias para corregir esa falta utilizando el wrapper de la librería Hunspell (CyHunspell). Una vez corregida se almacena en un diccionario y en caso de que exista una falla parecida a esa la corregirá automáticamente y avanzará a la siguiente celda.
 
 ##### conteo_palabras
 
-* 
+* Hace un recorrido por cada fila deseada de un CSV, hace un conteo de las palabras que existan en cada celda omitiendo las celdas que contengan los siguientes valores:
+"NS", "0", "NN", "WW" y "-" sustituyéndolos con "0", suma todo de cada fila y los valores resultantes los almacena en un dataframe para después ser convertido en CSV.
 
 ##### csvCleaner
 
@@ -244,7 +247,40 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### formatter
 
-* 
+* Usando la librería SpaCy, formatea las palabras proporcionadas para ser clasificadas sin importar el contexto que pueda modificar el tipo de palabra.
+
+Este script se usa especialmente para clasificar palabras en verbos o adjetivos pero que son identificados como auxiliares por SpaCy. Este formateador se usa previo a trainer.py.
+
+#### testing_good
+Script que hace los siguientes análisis estadísticos y los almacena en csv's junto con gráficas de caja (boxplots) para representar diferencias entre grupos.
+
+**Normalidad:**
+    - Jarque Test.
+    - Anderson Test.
+    - Shapiro-wilk Test.
+    - Shapiro-francia Test.
+    - Pearson Test.
+    - Kolmogorov Test.
+
+**Homogeneidad:**
+    - Bartlett Test.
+    - Levene Test.
+
+**Diferencias de varianza:**
+    - Wilcox (U de Mann-Whitney).
+    - Kruskal Test.
+
+#### testing 2.0v
+* Versión actualizada de testing_good que permite crear sub-dataframes para análisis más específicos.
+
+
+#### multi_testing
+Actualización de testing_good y Testing2.0 con mayor automatización.
+
+**Cómo usar:**
+
+Código...
+
 
 ##### new_corrector
 
@@ -314,15 +350,26 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 ##### trainer
 
-* 
-
-
+* Después de utilizar formatter.py se utiliza este código para utilizar las oraciones con sus tags pre establecidos para crear un modelo desde 0 de SpaCy que pueda ser utilizado posteriormente.
 
 
 
 ## comparación w2v y lsi 
 
-***Breve_explicación_del_folder***
+***Contiene gráficas, test estadísticos, post-hoc dunn y resumenes de la comparación entre Word2Vec y LSI (Latent Semantic Analysis).***
+
+* Oraciones utilizadas como base para probar los dos algoritmos:
+    - Que mi hermanito es muy griton y esta gordito.
+    - Que mi hermanito grita mucho.
+
+* boxplot's - que mi hermanito es muy grito y esta gordito
+* boxplot's - que mi hermanito grita mucho
+* csv's con resultados de lsi de Mario
+* diferencias
+* normalidad
+* Pruebas de Dunn
+* resumenes
+* res_generales.csv
 
 
 
