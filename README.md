@@ -281,19 +281,6 @@ Actualización de testing_good y Testing2.0 con mayor automatización.
 
 Código...
 
-
-##### new_corrector
-
-* 
-
-##### oraciones_propn
-
-* 
-
-##### palabras_propn
-
-* 
-
 ##### quickPlotter
 
 * Genera una freqdist de los sustantivos, verbos, adverbios y adjetivos de todo un csv
