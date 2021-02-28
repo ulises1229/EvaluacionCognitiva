@@ -206,17 +206,15 @@ Resultados de una prueba de similitud de una respuesta maestra del reactivo *exp
 
 * .ipynb_checkpoints - Carpetas con complementos de python, no tocar
 *  modelo_personalizado
-    * 
+    * Notebook con procesamiento de similitud de reactivos usando diferentes metodos, Spacy, Gensim de diferentes 
 * ModelosStandard
-    * 
+    * Notebook con procesamiento de similitud de reactivos usando diferentes metodos, Spacy, Gensim de diferentes 
 * FreqDist Respuestas
-    * 
+    * Contiene el procesamiento de freqdists de sustantivos, verbos, adjetivos y adverbios en las respuestas, exporta las graficas en pngs
 * Similitud Gensim
-    * 
-* Similitud NLTK
-    * 
+    * Notebook con procesamiento de similitud de reactivos usando Gensim, fue solo una prueba
 * Similitud Notebook
-    * 
+    * Contiene el procesamiento de similitud con spacy de todos los reactivos en todas las respuestas, con y sin stopwords
 
 ##### Clasificador
 
