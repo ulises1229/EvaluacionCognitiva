@@ -5,6 +5,12 @@ from hunspell import Hunspell
 import sys
 #import spacy
 
+"""
+Este código analiza cada celda de un csv, busca si existe una falta de ortografía o gramática en la celda actual del recorrido y da diferentes sugerencias
+para corregir esa falta utilizando el wrapper de la librería Hunspell (CyHunspell). Una vez corregida se almacena en un diccionario y en caso
+de que exista una falla parecida a esa la corregirá automáticamente y avanzará a la siguiente celda hasta que no hayan más datos por procesar.
+"""
+
 class Dictionary(dict):
     def __init__(self):
         self = dict()

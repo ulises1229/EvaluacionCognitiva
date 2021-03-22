@@ -1,9 +1,12 @@
+#Importación de liberías
 import pandas as pd
 import spacy
 import numpy as np
 import sys
-
-
+"""
+Código que recibe un conjunto de datos (dataframe) y que dependiendo del tipo de palabra que la librería spacy identifique 
+se asigne a un csv.
+"""
 def classifier(dataframe):
     for col in cols:
         sustantivos_count = []
@@ -66,6 +69,7 @@ def classifier(dataframe):
         df_adverbios[col+'_cuenta_adverbios'] = pd.Series(adverbios_count)
 
 if __name__ == "__main__":
+    #Carga de modelo de español de spacy junto con uno pre-entrenado
     nlp = spacy.load("es_core_news_md")
     nlp2 = spacy.load('C:\\Users\\Alex Isasi\\Documents\\model_x')
     oraciones_propn = []
@@ -128,10 +132,12 @@ if __name__ == "__main__":
     print("Lista lemma adverbios: ",list_lemma_adverbios)
     list_palabras_propn = list(dict.fromkeys(list_palabras_propn))
 
+    #Se escribe en el archivo palabras_propn las palabras que no tienen clasificación
     with open('palabras_propn.txt', 'w', encoding="latin1") as f:
         for item in list_palabras_propn:
             f.write("%s\n" % item)
     
+    #Se escribe en el archivo oraciones_propn las oraciones que en donde existen palabras sin clasificación
     oraciones_propn = list(dict.fromkeys(oraciones_propn))
     with open('oraciones_propn.txt', 'w', encoding="latin1") as f:
         for item in oraciones_propn:
